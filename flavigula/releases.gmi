@@ -1,0 +1,143 @@
+# Flavigula Releases
+
+## Za Rušení
+
+2020-12-07
+
+Initially, this album was to be a collection of "noise" pieces for the infamous Noisevember. The idea was to take a series of between 3 and 5 notes generated randomly by a Bash script as each piece's basis. The concept lasted for less than half of the cycle, but the aleatory spirit lived on.
+
+The music evolved as a unit into something more than a mere month-long writing binge and is collected here as a (hopefully!) coherent whole.
+
+Bob Murry Shelton - Guitar, Modular Synth, Sequencers, Effects, Supercollider, Treatments, Samplers, Dim Inner Glow
+Christian Michael Newman - Mumbling, Guitar, Effects, Digital Lettuce Engineering, Dim Outer Glow
+
+Composed, Recorded, Mixed and Mastered By Flavigula
+Cover by Christian
+
+=> za-ruseni.gmi Za Rušení
+-------------------------------------------------------------------------------
+## Songs For Looptober
+
+2020-11-05
+
+Loops, loops of loops, and manipulated loops, all painted thickly onto a canvas where the paint is allowed to run for a while.
+
+Bob Murry Shelton - Guitar, Effects, Modular Synth, Korg Minilogue, Korg NTS-1, Supercollider
+Christian Michael Newman - Cover art, various doodlings, voice.
+
+The sampled voices of Elvia and Jayson appear from time to time, as well.
+
+=> looptober-2020.gmi Songs For Looptober
+-------------------------------------------------------------------------------
+## Jēmaraz
+
+2020-09-15
+
+Compositions by Bob Murry Shelton
+Words and artwork by Christian Michael Newman
+
+Bob Murry Shelton: Guitar, Ukulele, SBUP[1], Mullah[2], Boris[3], Kalimba, Supercollider, Myriad effects, Pocket operators, Monotron Duo & Delay, no mutterings
+Christian Michael Newman: Vocals, Guitar, Torsioned synth, Various effects, myriad mutterings
+Kris Boudreau: Electric bass guitar
+Matthew Riley Walsh, Attorney at Law: Electric bass guitar on "Hand 23", a single note (also on electric bass guitar)[4] on "Dobruszka a Její Vepřík".
+Miloslav Pušonjić: Ductile piano
+
+Percussion samples recorded and rethurked by Christian and / or Bob during various recent epochs
+
+Weaving in and out of the atmospheres are the voices of the Yak, Elvia, Herb Newman, Bartoloměj Brožka, Daniel Brožka, Michal Brožka and the wraiths of Logroño
+
+Arrangements by Bob, Christian and the Yak
+
+Thanks to Rob from Submarine Broadcasting Company, to Daniel García from the land of cinematic madness, and to Michal Brožka from the heights of moonspiration
+
+1) Shambal Brambel's Undulating Platypus, the given name of a small, versitile modular synth who kindly took up residence in the studio
+2) A mini Korg kit hybrid synth
+3) The Korg Minologue, named after an old associate, who happens to be the Yak
+4) Anyone who identifies this note and a number of its qualities will be sent a special prize constructed manually by a creature who played no guitar on this album, though possibly could have, had he not been occupied by playing jazz in dive bars in Brno
+
+=> jemaraz.gmi Jēmaraz
+-------------------------------------------------------------------------------
+## Omnivorous Expanse
+
+2020-06-08
+
+Sometimes, The Universe conspires to orchestrate unseen, certain events, meetings, etc. in a serendipitous way.
+
+Such was the case for the tracks you hear on this album.
+
+Two people who, as their relationship develops, realise that they perhaps have more in common than first appeared to be the case: musical tastes, influences and even some philosophical and metaphysical interests.
+
+Somehow, despite different abilities and not having known each other for long, something "clicked" and, almost alchemically, tracks came together -- as if they had lives of their own.
+
+Tim Rowe - voice, synthesizer & drum programming
+Bob Murry Shelton - guitar, tenor ukulele, modular synth, other synths and effects
+
+Words by Tim except for "Universal Curtains" by William Blake and "Möbius Institute" by Edgar Allan Poe
+Music by Bob and Tim
+Arrangements by Bob
+Cover by fragment scenario
+=> https://fragmentscenario.com Fragment Scenario
+
+=> omnivorous-expanse.gmi Omnivorous Expanse
+-------------------------------------------------------------------------------
+## Älläï
+
+2019-12-16
+
+"Allai" is the idea of looking yonder, up, over there, or on the bright side. It is the vast, yawning abstraction that engulfs you from any one of those places.
+
+It's also the name of a plastic penguin that our imaginary flute player had as a child. That penguin meant everything. Please consider this whilst you listen.
+
+Bob Murry Shelton - guitar, myriad effects, a modular synth named "THE FURNACE", Supercollider, sneezings, brief mutterings
+Christian Michael Newman - pink fuzz, voice, palmas, extensive mutterings and caffeination
+James Anthony Hogard - bass
+Matthew Riley Walsh, Attorney at Law - piano
+
+Music composed by Bob
+Lyrics to Fold by Christian
+Lyrics to House of Strength and Love by Bob & Christian
+Edited and arranged by Bob & Christian
+Cover art by Christian
+
+Thanks to Daniel García for inspiration.
+
+=> allai.gmi Älläï
+-------------------------------------------------------------------------------
+## Za Rohem
+
+2019-12-04
+
+I was informed of the existence of "Noisevember" a day or two before the month began. The challenge was to create one noise piece per day. As one can see, my result was 21 pieces, not 30. I skipped many days and also did two or three other days.
+
+I added more melody than I originally intended, but what spewed from my hara is what spewed from my hara.
+
+Bob Murry Shelton - Guitar, Effects, Modular Synth, Supercollider.
+Christian Michael Newman - Acoustic guitar on Čtrnáct, Various Mumblings.
+
+Mixed and mastered by the Yellow Throated Marten.
+
+=> za-rohem.gmi Za Rohem
+-------------------------------------------------------------------------------
+## Bons Mots
+
+2019-06-18
+
+A year in the making, the piece started out as a series of modal drones merging into one another, transforming harmony and texture. Melodies and progression began to surface from the roiling fog, becoming tangible and giving the mists colour and flailing hands. Finally, a narrative shaped itself throughout the cloud's membrane.
+
+The man and the eye. Which is observing whom?
+
+Bob Murry Shelton - Guitar, Effects, Modular Synth, Modální Mlhy
+Christian Michael Newman - Voice, Radioscapes, Soundscapes, Ctihodný Oko, Cover Concept and Art
+
+Composition by Bob Murry Shelton
+Words by Christian Michael Newman
+Arranged, Mixed and Mastered by Flavigula
+
+=> bons-mots.gmi Bons Mots
+
+
+=> gemini://thurk.org/flavigula/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

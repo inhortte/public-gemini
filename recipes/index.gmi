@@ -1,0 +1,8 @@
+# Various recipes
+
+There is not much here at the moment, as you can see. Perhaps more will be eructed from the quantum vaccum in the so-called future.
+
+=> lassi.gemini Lassi
+=> gofres.gemini Waffles
+
+=> gemini://thurk.org/index.gemini tzifur

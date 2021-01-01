@@ -1,0 +1,21 @@
+# I'm removing one of your NAND gates
+## Topics: stagnation, conformity, manipulation
+## 2012-05-27
+
+Writing of monolithic groups...
+
+As you know, I've worked for a good number of *IT* companies. I italicize *it* because the larger they have become, in my experience, the more faceless they seem. Every monolithic group has two groups of cells.
+
+* The brain, CPU or upper management
+* The employees, serfs, or replaceable ones
+
+I've always been a part of the latter group. I admit that is mostly true because of choice. Being the brains of a monolithic group has never been my goal. The replaceable serfs oscillate quite a bit, but mostly stay in place. When they try to move to other positions without the *help* of upper management, they inevitably fall foul of the CPU and are expunged.
+
+Unfortunately, the analogy of a great body shedding cells and replacing them falls short here. When the serfs finally realize they have tiny brains of their own, they may choose to leave voluntarily. This choice is one of the most fulfilling in their tiny lives.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

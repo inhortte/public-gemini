@@ -1,0 +1,20 @@
+# Prancing to Magma in my Daydreams
+## Topics: religion, change, beliefs, blog
+## 2012-05-22
+
+The move to the office has, indeed, helped curb my lethargy. I find that every day I must make an addition to *martenblog* as a flint spark to my neurological state. So far today, it has been a modification to the CSS which makes the scrollbar on the topics sidebar tolerable, as well as resizing the widths of the sidebars. Yeah, it is not perfect and the header is still strangely offcenter, but I am not worried at this moment about this anomaly.
+
+**Next**, I should definitely create a script which will compare the *MongoDB* on both *localhost* (that's *mustela-ermina* to you, buddy) and on *heroku*, then transfer new additions to the *entry*, *topic* and *entry_topic* collections from the former to the latter. Isn't that **exciting**?
+
+I was mistaken about the Mennonite chick from two days back. She was not the same as I saw and mentioned during my first tentative discourse about the cultish group. I saw her last night, however, wearing the traditional skirt and blouse, marching along the sidewalk (always anti-clockwise) with a determined face. She glanced at me as I passed in a clockwise direction. I saw vacuity. Perhaps it was imagination. Perhaps it was reality. I should not fool myself that anyone ensconced in the cultish phenomenon would be open-minded enough to accept me as a friend. There is the age difference, as well, which may be an issue for such younglings.
+
+Ah! Lack of experience would also be a factor. No, Christián, not sexual experience, you single-minded fool! I peer back into my past at who I was at üheksateist years of age, sheltered till then in the bubble of *Fort Stockton*. Perhaps I was on the cutting edge of bright young minds coming from such a figuratively walled citadel, but had absolutely nothing on the remainder of the state, especially those from cities such as Austin, Dallas, Houston, San Antonio, or even El Paso. Not to fucking mention the rest of the good ol' USA and the mythological (for me at the time) world beyond. I was a naive youngling. I thought I was not. But I certainly was. The contrast with what I have seen since and that of, say, a seitseteist to üheksateist aged Mennonite would be extreme. Perhaps she'd be fascinated with my stories of travels and bizarre situations her dreams may have only hinted at. Perhaps she'd just try to convert me to her faith, as she's taught to from a young age.
+
+Evangelism. Proselytizing. I don't **like** it.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

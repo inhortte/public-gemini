@@ -1,0 +1,44 @@
+# Ratgut wires vibrato
+## Topics: music, the fen, flavigula, alfred
+## 2014-01-08
+
+I wrote *The Fen* when I was in New Cross Gate[1]. One of its parts was supposed to be played on *mandolin*, but I never performed it to my satisfaction, the anal retentive twat that I am. I am revisiting it now.
+
+=> /images/blog/20140108/fen_intro_pdf.png Fen Intro [IMG]
+
+The initial problem with this part, which repeats once, is the attack / volume of the so-called Rhodes. I added phase and distortion to remedy that. Also, before this bit, whilst the dirgelike stomp is going on (and, indeed, before it), I added Hela. Yes, Hela. I took a small clip from a voice message she sent me last month and stretched it to 20 times its length. I then reversed it and mixed the two. The result is eerily beautiful.
+
+Maintaining the same timbre between tracks in LMMS[2] is becoming a problem. Perhaps there are unseen settings that affect parameters manipulated by me over three years ago. Ah! Well, part of this composition will be an injection of aleatoric aesthetics.
+
+#### Where the fuck is that hissing buzz coming from?
+
+I discovered earlier that *Crossover Distortion* can be fantastically noisy. I have employed it in the piece.
+
+As I was riding in the *pickup truck* with my father on the way to the grocery store, I thought of the track that will follow *The Fen*. The name will be *The Bog* or possibly *Silt*. Or even *I Swabbed Your Pet Gerbil's Anus With a Fossilized Paramecium*. My idea is this: firstly, layer many tracks of Hela's voice strectched and contracted, forming chords. If plausible, create some bastardized version of the melody in the introduction of *The Fen* to swim erratically through the resulting sonic morass. Provide accompaniment consisting of mid-range distorted bass and the aformentioned *Crossover Distortion* of the pizzicato violin.
+
+--------------------------------------------------------------------------------
+
+Fortunately, a part had been left unwritten. The erstwhile *mandolin* part of the second "verse" (I laughingly call it that) now exists. The counterpoint to the Rhodes part penned (I laughingly call it that) three and a half years ago contains many fun dissonaces. Only a select few were planned. I leave the rest because it is one of the wondrous features of aleatoric composition.
+
+=> /images/blog/20140108/fen_second_melody.png Fen Second Melody [IMG]
+
+The final mixdown using Audacity[3], and as I remember, tends to muddle the sound a bit, although I did a bit of noise reduction, as well, so that may be the culprit. *Where, in the name of the pungent liver of Jesus, did that buzzzzzzzzzz come from, anyhow?*
+
+*The Fen* is at this very moment uploading (itself - yes, it is a sentient being - fens are **living** ecospheres, don't'cha know, ya leper?) to Soundcloud. I haven't used Soundcloud for years, so deleted several tracks on the *siralfrediv* account. I tagged the mixed down *flac* with the artist **Flavigula**. My electronic and / or electroacoustic music will be under this moniker. In fact, I should create an entrely new Soundcloud account for these purposes.
+
+Yah.
+
+The Fen[4]
+
+
+=> https://maps.google.com/maps?q=Pepys+Road,+London,+United+Kingdom&amp;hl=en&amp;sll=32.727458,-103.162855&amp;sspn=0.173292,0.338173&amp;oq=pepys&amp;hnear=Pepys+Rd,+London+SE14+5SE,+United+Kingdom&amp;t=m&amp;z=15 1: https://maps.google.com/maps?q=Pepys+Road,+London,+United+Kingdom&amp;hl=en&amp;sll=32.727458,-103.162855&amp;sspn=0.173292,0.338173&amp;oq=pepys&amp;hnear=Pepys+Rd,+London+SE14+5SE,+United+Kingdom&amp;t=m&amp;z=15
+=> http://lmms.sourceforge.net/ 2: http://lmms.sourceforge.net/
+=> http://audacity.sourceforge.net/ 3: http://audacity.sourceforge.net/
+=> https://soundcloud.com/flavigula/the-fen 4: https://soundcloud.com/flavigula/the-fen
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

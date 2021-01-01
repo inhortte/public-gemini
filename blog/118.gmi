@@ -1,0 +1,18 @@
+# Dorian spanky mode
+## Topics: music, loopiness
+## 2011-04-14
+
+The *Dorian Spanky Mode* is the normal *Dorian* with an added flat 6th. Therefore:
+
+```
+d e f g a bes b c
+```
+
+It is, obviously an eight note scale. Now, it is your task to write a melody using it. Ready? **GO**.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

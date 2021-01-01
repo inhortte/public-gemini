@@ -1,0 +1,42 @@
+# All bow down to the oily patch of earth
+## Topics: death, music, social media
+## 2016-04-24
+
+A *facebook* friend named Ron Greenough died a few days ago. I don't know the causes of his demise, but I spent a minute on his timeline and found he posted something (I forget what now) on the 21st. Ron and I never met. Actually, during the last few years, we never exchanged any personal quips.
+
+I believe I *got to know him* in 2009, soon after my mandatory exile from the Czech Republic. He was some relation of Justin or other. I'm not sure which. I never bothered to find out since it was utterly unimportant to me. I only vaguely recall that we shared some similar spiritual and humouristic views. This, too, was not very important.
+
+He has perished and people are writing on his timeline asking him to *rest in peace* as if his corpse could somehow absorb the electricity that distributes these messages. I'll state the obvious and declare that *death* is a *function* that has two arguments, or inputs:
+
+* The deceased (or, to be accurate, the *fixin'to be deceased*)
+* A *vector* or *array* of people that know the *fixin to be deceased*
+
+```clojure    
+(defn death [human humans]
+  (map (fn [h]
+         (affect human h))
+       humans))
+```
+
+The *non-deceased* humans are run through the blender that I give the function name *affect*. This function filters parts of the *fixin to be deceased* according to each *non-deceased* and modifies the latter with them.
+
+Ron's death affected me enough to spawn this entry in the *Martenblog*. I guess, in my life, this impetus was Ron's purpose. To each *non-deceased*, a differing impetus.
+
+The subject of celebrities dying this year seems a big deal on social media. Take Prince, for example. *Non-deceased* humans are raving about him! *Fixin to be deceased* ones possibly not so much. Prince's impetus has been to forcibly take control of the minds of multitudes and make them gather into mobbish clusters and celebrate. I did not know Prince personally, but I feel he'd probably have approved. I did not mingle with any mobbish mass, but I did listen to three of his albums the other day.
+
+* Purple Rain
+* Around the World in a Day
+* 1999
+
+I enjoyed my time with these albums and attempted to actively listen as much as possible. Slaving away over the terminal for the sake of patching up a few bugs for James's peace of mind interfered with my concentration at times, as usual. *Purple Rain* is very enjoyable. The second album, less so. *1999* could expunge its own second half and I'd not blink my singular, ogling eye.
+
+Needless to say, I did not tear up for either of these two corpses. Other corpses will probably have the impetus to create a flow of tears from my singular, ogling eye. We'll see. I may or may not let *Martenblog* know.
+
+Fuck um.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

@@ -1,0 +1,31 @@
+# If it is small, it deserves torture
+## Topics: emberjs, tasks, nashville, blog
+## 2013-12-05
+
+Last night, my lethargy broke at some point after 19.00, birthing a bit of creative thought concerning the **martenblog** and my problem with **promises**. At first, I believed the solution would be in the *View*. This turned out, eventually, as I bitterly experienced, to be incorrect, as I still could not access (much less *manipulate*) the data that arrived from mongo in the form of a **PromiseArray**. Ie, I still only got a blank array. Many solutions are proposed on *stackoverflow*, but none worked. I just *installed* a (questionably) *new* version of *ember-data*, so, initially, I'll see where that goes.
+
+* <del>Understand promises and promise arrays.</del>
+* Manipulate pagelist from the client side (ember).
+* Filter by topic.
+* <del>Make breakfast (with Lisa's exceedingly expired eggs).</del>
+* Don't die from above task.
+
+I found a tidbit of very useful information just now: PromiseProxyMixin[1]. The page has informed me that promises (and, I suppose, promise arrays) can be pending, settled, rejected and fulfilled. If the raw promise array is returned from the controller to the view, I can test whether it is pending, etc. Now, I must be able to *modify* the template dynamically when the promise is fulfilled. Oouh, *baby*.
+
+And I need to retrieve my laundry.
+
+I discovered that I did not add soap the previous time I did laundry (yesterday), so I am redoing it. Fine, eh?
+
+So, I have managed to access the promise array and create the pagination links on the client side. The next step is to make sure it refreshes every time the page is actually **changed**. Yes, sir.
+
+Now for a shower.
+
+
+=> http://emberjs.com/api/classes/Ember.PromiseProxyMixin.html 1: http://emberjs.com/api/classes/Ember.PromiseProxyMixin.html
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

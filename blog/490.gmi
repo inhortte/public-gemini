@@ -1,0 +1,36 @@
+# Let It Reign
+## Topics: lakife, language, gender, tradition
+## 2020-11-24
+
+I have an empty cup that used to contain tea sitting before me. It was Earl Grey.
+
+The confusion before the word / preposition *before* is astounding. Before it irks me further, I'll expound, as it was fucking with my development of *Lakife*. In English, *before* can mean temporally in the immediate past of whatever temporal theme is being discussed. It can also mean *spatially* immediately to the front. This ambiguity is not amusing to me. It is an abomination. My solution for Lakife is to clarify the difference for myself and for the table of pre- post- positions.
+
+Originally, the table had the *spatial before* and the *temporal before* in the same row, associated with the preposition *tin*. When I first began the design of the language, much of the work was done on 20+ hour bus rides around the southwest part of Australia. Possibly I was hungover during part of that time. Excuses aside, Lakife's *fur*  signifies **before**, in the literal aspect. Spatially, the English equivalent is **behind**. *Fur ... pot* is the temporal version and *fur ... nis* is the spacial version.
+
+*Etjo tex anja liz fur noz sopen pot.*
+
+I will eat her child before nightfall.
+
+Since *noz sopen* (nightfall) already indicates time, the *pot* at the end there is optional. I suppose *behind nightfall* or *towards the back of nightfall* could be useful metaphoric or poetic concepts, but I'm sure you get what I mean.
+
+*Solan qotzifur neimolja tel topen.*
+
+They went towards the back of the boat. Nothing surrealistic in this one. I apologize if you were expecting otherwise. On the other trembling paw, expectations are poison.
+
+*Topen* possibly is not required, either, since movement is obvious by verbalizing *fur* (with *qotzi*, which indicates past tense, perfect aspect, vole).
+
+Similarly, *potom*, just like in Czech, indicates something that comes after something else temporally. In Lakife, it also indicates **to the front** or **in the front** spatially. I'm sure that toots the muffin of the universe. As it should.
+
+Ambiguity in language is useful for poetry and quirky prose. It's also useful for one of my most hated things - puns. Though I'm trying to create grammar that is very delineated in Lakife, quirks of vocabulary and derivation will surely make ambiguity reign. Ambiguity should reign. Let our queen by Sweet Entropy. She is an androgynous "queen". We'll simply use the pronoun *an* to refer to her / it, as it has no gender.
+
+I've always been of the opinion that gender in language enforces gender roles and stereotypes in a culture. The machismo of Spain and the festering bowels of Latin America seems to support my view. I'm aware that linguistic gender possibly arose from actual roles that men and women played in society back in what a narcissist asshole would call *the good ol days*. Since I am unflinchingly progressive, I say **fuck um** to *the good ol days* and so-called natural roles of anyone. Let's shatter traditions, habits and long standing prejudices.
+
+Like Estonian, Lakife doesn't really have gender. Certainly, there are no gender markers on nouns nor adjectives. Add *-ju* or *-ja* to the pronoun *an* to create "he" or "she" respectively, for convenience. However, those suffixes have very different meanings in other contexts, which is another break from gender roles. Specifically, *-a* (and sometimes *-ja*) shows an active state of an idea or entity whilst *-u* (and sometimes *-ju*) indicates a passive or resting state. These are not my personal commentaries on the roles of female and male. No. It just happened as such, as sometimes the development of Lakife feels out of my hands. I set many rules in place and continue to do so, and given those rules as, um, let's say **axioms**, the whole system grows. It is, in a sense, generative.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

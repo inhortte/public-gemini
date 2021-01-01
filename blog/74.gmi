@@ -1,0 +1,24 @@
+# 50 miles of elbow room
+## Topics: psychology, music, walks, ruby, hopeforwildlife, blog
+## 2010-12-15
+
+I've been listening to Carla Kihlstedt's '2 Foot Yard' for the past week and it is quickly becoming one of the best albums I have been obsessed with in about six months. So, anyone who is reading this should go out right at this moment and purchase it.
+
+I also finally procured the book 'The Black Swan - The Impact of the Highly Improbable'. I have only gotten through the first 12 pages or so, but already it has made an impression on me. Succumbing to my own Confirmation Bias, I was delighted at his exposition on the superficiality and unfairness of our species in not acknowledging the uncelebrated heroes who actually make the greatest marks on history. Well, perhaps they do not leave the greatest marks, but prevent black marks our species might leave on history. Because events are prevented by these heroes actions, they are naturally not celebrated. I've thought about this concept many times in the past and probably written about it, as well. I'll have to search through old journals for such dribble if I ever find the time.
+
+The creation if the Sheep Blog is taking longer than I surmised that it would. Mostly, it is because of the authentication method. Yeah, I could avoid it, but then there is the slight chance that anyone could find the page which would allow them to make a post. So, well, the authentication has to be there. Also, there is my unlucky bane of being unable to recall procedures which were natural a very short time ago (just a few weeks!). I can lay the blame at my newness to the Sinatra/Datamapper/Blueprint trifecta, but I think it is in reality my lackadaisical mental skills. I am attempting to hone them as quickly as possible, but my years of ruination came with quite a price. At least I am a big believer in neuroplasticity. Yeah.
+
+I just talked to Hope at Hope For Wildlife in Nova Scotia and am apparently going to be in charge of their website starting very soon. My plans are to automate the whole thing. :) I hope (pun intended) that is a reasonable idea. Step one is to find a hosting site which has ruby, shell access, and a bit of storage space. Again, Sinatra will be my choice of hosting servers. Nice. Bluehost.com appears, from a cursory inspection, to be just what I am looking for. For $6.95 a month, I'd get shell access and Ruby! Yeah. I shall have to ask them whether I can install my own gems, but I don't see why it'd be a problem. On mustela-ermina, local gems go in ~/.gem. Still, I need to investigate the workings of this mechanism. Damn my fickle brain.
+
+I've been working on the Sheep Blog for the last few hours (well, on and off between small snacks). Authentication is working. Signup is not needed (the only user will be me), so it does not exist. Fantastic. I am very happy with Sinatra and its quick development 'iterations'. I should be ashamed that I am not writing tests, however. I plan to do so when I set off into the task which is Hope For Wildlife. I hope that plan comes to fruition.
+
+I took a walk through the only park (that I know of) in Seminole earlier. I attempt to do this every day. Yesterday I did not, however, because of our late arrival from the casino. My Mother is paranoid about me being out after dark. I find this exceptionally paranoid, but I don't worry her when I don't have reason to. If there is one thing I have learned from spending time with my parents is that they cannot be changed. They are set in their ways. That rock will not erode. As I wrote before, they are submerged in Confirmation Bias. They have drowned in it and been born again so as to be unable to live without it. I propose a challenge to myself - never become so set in stone. I flow like liquid. Perhaps I should also evaporate.
+
+As I walked, I listened to music on my small Samsung mp3 player on random. The machine only possesses a 4GB capacity, so diversity is limited. I have swapped albums out only rarely since this tradition has begun, though, so I suspect that many of the tunes I hear on these walks will soak into my memory and be always associated with my cyclical journey on that wavy sidewalk. Many of the tunes seem to appear more than others, or, perhaps, they are the more 'catchy' ones and I recall them better.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

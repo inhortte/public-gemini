@@ -1,0 +1,23 @@
+# Here we go round the mulberry bush
+## Topics: blog, seminole
+## 2012-05-14
+
+At long last, I can post again to the *Martenblog* (formerly called the *Sheepblog*, but I have graduated (or gradiated) from sheep form to mustelid from, so...). Yes, lethargy did prevent me from reaching this state in recent months. My time in Hostivice, for example, was riddled with disillusion and fatigue - loneliness and depression. My time in Tuzla was much the same, with the additional slights of alienation and boredom.
+
+But here I am in Seminole. Isn't it interesting that when I am here, I am very productive both creatively and programmatically? It must be the lack of alcohol. Heh.
+
+Goals for the remainder of May are to write copiously about the correspondence Christopher and I have had over the last nine months, and to get the *Foundation Lutreola* site up and full of content.
+
+Regarding the second goal, there is this: lutreola![1]. It may no longer be extant when my dedicated reader comes upon this entry, however. It is simply a hastily patched together demo for what could be a lutreola site. The best thing about it, by far, is that it is done in *Clojure/Noir*. I'd happily never code in Ruby again were it possible.
+
+So, at six o'clock in the morning... here we go...
+
+
+=> http://lutreola.herokuapp.com 1: http://lutreola.herokuapp.com
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

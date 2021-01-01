@@ -1,0 +1,14 @@
+# The words' footsteps patter to Heroku
+## Topics: mongodb
+## 2012-05-23
+
+It is done and it was quite simple. Yes, *MongoDB* is superior to MySql. Yes, I know they are different beasts, but since switching  for *martenblog*, my pituitary gland has stopped secreting alien resin into my hypothalamus.
+
+So the script to update *Heroku* is happily done. Now, to the novel I've been reading. I bet you cannot guess what it is.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

@@ -1,0 +1,12 @@
+# Thurk.Org
+
+Welcome to the gemini-space of thurk.org.
+
+=> flavigula/index.gmi Flavigula - an experimental music project
+=> blog/index.gmi Martenblog
+=> gemini://thurk.org/cgi-bin/martenblog-search.py Martenblog Search
+=> gemini://thurk.org/cgi-bin/poems.py Poetry
+=> lakife/index.gmi Lakife - a constructed language
+=> recipes/index.gmi Recipes
+
+=> smafco.gmi Z Galaktického Jádra

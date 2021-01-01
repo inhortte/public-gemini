@@ -1,0 +1,20 @@
+# I must break the lethargy
+## Topics: lethargy, motivation
+## 2012-06-18
+
+I shall now make a list of daily tasks. I shan't break them, even if my forebrain is floating in a stagnant pool of alcohol.
+
+* Estonian - *üks tund*
+* Foundation Lutreola page - *üks - kaks tunnid*
+* Overtone - finish the **pine marten** rhythms, then one pattern a day for the visit to *Tone Tone*
+* Exercises - (arms || shoulders) && stomach
+* 4clojure - *üks pusle iga päev*
+
+Get with it, you dummy.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

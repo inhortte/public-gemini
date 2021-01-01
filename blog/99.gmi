@@ -1,0 +1,29 @@
+# El Nombre
+## Topics: goals, alfred, naming
+## 2011-01-18
+
+I must name the album. I must do it now. So what shall the album's name be? Hm. Well, what is the theme, exactly? We have which titles so far?
+
+* Intersection
+* Filter
+* Cycle
+* She Ain't My Girl
+* Union
+* Untitled
+* Fold
+* Untitled
+
+The obvious conclusion is to title the album something regarding sets. So, what does *set theory* come up with when typed into the mighty **Google**, **Wikipedia** and **Thinkexist**. The results are, respectively:
+
+Hm. Well, actually, that did not work very well, so let's attempt putting all of the song titles (including the untitled ones, just for amusement's sake) simultaneously into google and see what happens.
+
+Again, nothing.
+
+My cupped palms have come up empty.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

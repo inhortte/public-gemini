@@ -1,0 +1,44 @@
+# Jēmaraz
+## 2020-09-15
+
+
+
+Compositions by Bob Murry Shelton
+Words and artwork by Christian Michael Newman
+
+Bob Murry Shelton: Guitar, Ukulele, SBUP[1], Mullah[2], Boris[3], Kalimba, Supercollider, Myriad effects, Pocket operators, Monotron Duo & Delay, no mutterings
+Christian Michael Newman: Vocals, Guitar, Torsioned synth, Various effects, myriad mutterings
+Kris Boudreau: Electric bass guitar
+Matthew Riley Walsh, Attorney at Law: Electric bass guitar on "Hand 23", a single note (also on electric bass guitar)[4] on "Dobruszka a Její Vepřík".
+Miloslav Pušonjić: Ductile piano
+
+Percussion samples recorded and rethurked by Christian and / or Bob during various recent epochs
+
+Weaving in and out of the atmospheres are the voices of the Yak, Elvia, Herb Newman, Bartoloměj Brožka, Daniel Brožka, Michal Brožka and the wraiths of Logroño
+
+Arrangements by Bob, Christian and the Yak
+
+Thanks to Rob from Submarine Broadcasting Company, to Daniel García from the land of cinematic madness, and to Michal Brožka from the heights of moonspiration
+
+1) Shambal Brambel's Undulating Platypus, the given name of a small, versitile modular synth who kindly took up residence in the studio
+2) A mini Korg kit hybrid synth
+3) The Korg Minologue, named after an old associate, who happens to be the Yak
+4) Anyone who identifies this note and a number of its qualities will be sent a special prize constructed manually by a creature who played no guitar on this album, though possibly could have, had he not been occupied by playing jazz in dive bars in Brno
+
+
+
+=> release/jemaraz/jemaraz-flac/01-Dobruszka-a-její-Vepřík-range.flac Dobruszka A Její Vepřík
+=> release/jemaraz/jemaraz-flac/02-Tintinnabulation-range.flac Tintinnabulation
+=> release/jemaraz/jemaraz-flac/03-Nomenclature-range.flac Nomenclature
+=> release/jemaraz/jemaraz-flac/04-Hand-23-range.flac Hand 23
+=> release/jemaraz/jemaraz-flac/05-Aaata-Finchi-range.flac Aaata Finchi
+=> release/jemaraz/jemaraz-flac/06-Grimoire-range.flac Grimoire
+=> release/jemaraz/jemaraz-flac/07-Probability-Poem-range.flac Probability Poem
+=> release/jemaraz/jemaraz-flac/08-Una-Palma-de-Barro-range.flac Una Palma De Barro
+
+
+=> gemini://thurk.org/flavigula/releases.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

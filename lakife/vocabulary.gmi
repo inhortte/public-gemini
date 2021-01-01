@@ -1,0 +1,513 @@
+# Lakife
+## Lakife -> English
+
+=> gemini://thurk.org/lakife/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+anja - female 
+anju - male
+ar - himself / herself / itself / yourself / myself
+ariz - of him / her / your / my / itself
+fal - during / about / among
+Falipot - during little time (rarely)
+falu - duration
+falun - granfalloon / farse
+Famupot - during much time (often)
+fatip - joke 
+feha(ra) - made / created from particle
+fehut - probably
+fejs - cosmos / universe
+fek - at / concerning / as a means of / to
+fel - peace
+fela - joy
+felu - contentment 
+femole - to here
+fen - greenness?
+fenoz - concerning night / darkly
+fenozu - blackness
+fenu - green
+Fenut - Venus (green planet)
+fepa - possibly
+fepar - adroitly
+fepom - slowly
+ferix - rapidly
+fespal - at the back
+fetosin - colourful
+fetou - try (aspect)
+fezoru - falsely
+fiak - taste
+filin - violin 
+fison - vision
+fix - skin
+fix - skin / surface
+fohiqa - quality of life
+Folor - flower
+folu (fe)lofez - general public quality opinion
+folu - quality
+folu hal - high quality
+folu haru - middle quality / resonant quality / just right
+folu lil - little quality
+folu mut - much (many) quality
+folu soxel - superficial aesthetic quality 
+folu tul - low quality
+fos - origin
+fosja - sprout / bud / embryo
+fosju - origin thing / seed / egg
+ful - large
+funol - past
+funole - specific time in the past (then)
+funolu - before (adv. in time)
+funolu mik - early / just before
+funolu mikuk - very early
+fur - before
+hais - dense
+Hal - up / above / high / great / more
+hale - top / apex 
+halja - augmentation / rise
+hanol - great time / long time
+hap - heat
+hapa - fire
+haqu - air
+har - creation
+hara - expanding place / creation
+harja - functionality
+harju - (discrete) operation 
+haru - middle / nucleus / center / self / stable place
+hel - turn / twist
+helu - angle
+hiju - living thing
+hiju jeliz - mammal
+hiju letiz - bird
+hijuqa - animal 
+hijuqa tel - fish
+hijuqu - plant
+hiq - being
+hiqa - life
+hiqaum - dead / lifeless
+hiqu - existence 
+Hol sylet - Next thing
+holap - something
+holat - rodent
+holat les - squirrel 
+hole - this thing
+holek - everything
+holit - what thing?
+holum - nothing
+hun - dog 
+hup - sound 
+hupa - music 
+hupol - mouth 
+hupu - noise / static
+hut - probability
+i - yes 
+ja - action / movement / transformation 
+jatul - apple
+jehiju - mammal
+jel - milk
+jen ketafi - one and a half
+Jen Taf Tir Kar Pet Sis Sequm Hoz Tef Seqen - one to ten
+jena - singular / unique
+jenju - principal / main
+Jenol - one continuous time?
+jenolja - once
+jenu - alone / only
+jet - food 
+jet fosju - egg
+jet kofosju - food with seed (fruit) (jet kon fosu jetz)
+jetz - association / interaction
+jezor - same(ness) / similarity
+jiz - gullet / throat
+jo - actor / impetus / ergative particle
+ju - thing / apparatus 
+jupoj(u) - tidiness / order / organization
+kapez - head 
+kar -face
+Karen - pencil
+kekar (lipiz tetyk) halja - spring (fourth of rise)
+kekar (lipiz tetyk) hap - summer (fourth of heat)
+kekar (lipiz tetyk) sim - winter (fourth of cold)
+kekar (lipiz tetyk) tulja - autumn (fourth of decline)
+kekar - fourth
+kekar lipiz tetyk - season (fourth of a year)
+kekoletz - opposite direction / away
+kekon - opposite / across / against
+kekotet - north / south / across the sun
+keris - rat 
+ketaf - half
+ketir - third
+kez - goat 
+kezip - difference
+Kitab - book
+kitar - guitar 
+kofela - joyful
+kofelu - content
+kon - besides / towards / in the company of
+kon ar jetz - together 
+kop - head
+kopeit - domestic 
+kot - deity 
+kotix - silent
+kotz - cat 
+kotzom - abrupt 
+lak - tongue 
+lakif - language 
+lam - designation?
+lamu - label / name / tag
+Lanas - person
+lanas peit liz - countryman / fellow townsman / person in the same region
+lanas pelimol - close people / neighbours / roommates / flatmates
+lanas pelimol peitu liz - flatmate / roommate
+lanas tzuipax - invited person / guest 
+lankaren - writer
+lanlofez - peasant
+lapis - pen 
+laret - art 
+las - the act of killing for food / hunt
+lasja - hunter
+lasju - prey 
+lem - word
+les - tree 
+let - fly / hover / levitate
+letz - direction
+letza - vector / course
+Lil - few / infrequent
+linol - little / short time
+lip - ellipse / circle / orbit
+lip tetyk - year
+lizar - young (little age)
+lofez - sheep 
+lok - eye 
+lokja - visibility
+luz - ear 
+luzu - hearing
+mal - small 
+map - covering
+mapu - shelter 
+Maret - Mars (red planet)
+maru - red
+met - fresh
+mez - mouse 
+mifel - in peace / peaceful (state)
+mifelu - content (state)
+miharja - functioning / on
+miharjaum - not- functional / off
+miharjaum pa / miharja paum - inert (cannot be functional)
+mik - just (modifyer)
+miqisimu - snow 
+miqitel - rain (sky water)
+miqr - sky
+miref tul - lying (position)
+miriz - crossed / perpendicular
+miriz hal - standing 
+miriz tul - sitting
+miusyk - hidden
+mofek - at the place
+mohal - big (size)
+mohalja - inflation (in space)
+mokolep - park 
+mokot - church 
+molap - somewhere
+mole - here (this place)
+molek - everywhere
+moles - forest 
+moles hais hap - jungle
+molit - where?
+molja - movement 
+molju - place
+molum - nowhere
+motomir - place of sleep / bed
+motyk - position
+motz - urine
+mou - obligation
+moxilu - unit in space
+muihar - made (of)
+muizar - aged
+Mut - Frequent
+Muta - repeated 
+Mutu - sporadic
+muzar - old (many age)
+myx - thought 
+myxa - idea 
+myxu - idle thought / daydream 
+naham - foot 
+naj - containment case (locative?)
+nak - leg 
+nat / tul - below / under
+natol - anus
+neimolja - vehicle
+neimolja tel - boat
+neit - receptacle / container
+nofek - at the time
+nohalja - augmmentation (in time)
+Nol - time / duration
+Nol plax - bad time
+Nol tetz - good time
+nolap - sometime
+nole - now
+nole - now (this time)
+nolek - always
+nolit - when?
+Nolja - occasion (nolja sylet - next time. nolja mut - many times)
+Nolju - instant
+nolum - never
+nomut - much time / frequent
+nos - nose 
+nosu - smell
+noxilu - unit in time
+noz - night / dark / black
+nozol(e) - because / for that reason
+nozu - darkness
+nufix - touch
+nul - nothing / zero
+nulu - void / limbo
+nutet - west / along the sun
+nuz - on / along / because of / by using
+pa - possibility
+paharja - has utility / has the ability to be functional / "util"
+par - adroit / dexterous 
+pasiz - leprosy
+pax - request / query
+pax mimole - be here query / invitation
+paxom - be present query / invitation
+pefoja - rhythm
+pefoju - momentum / energy
+pefosa - from seed (growth - of plants)
+pehiqa - without life / lifeless / dead
+peimu / peimapu - house / domicile 
+peit - area of residence
+peitu - home / permanent area of residence
+pejer - strut / support
+pejer lan - cane (for walking)
+pelimol - nearness / proximity
+pelin(ol) - soon
+pelinole - up until now
+pelis - hence / until / toward / on behalf of
+peloketz - blind
+pelokja - invisibility 
+peltet - east / towards the sun
+pemole - from here
+pepeit - wild
+perik - danger
+perital - friend 
+Perpet - circle
+pes - since / far from / from / without
+pes myx fek nol jetz - patiently 
+peten - brightness / radiance
+petetar - bastard
+pez - light brown
+pihal - excessive(ly)
+pilos - side
+pilos - side
+Piluf - bloom
+pin - finalization
+pinu - end
+pir - above / over / in place of
+Plax - bad
+plez - kiss 
+pol - opening / orifice
+pom - slow
+posa - expression
+posa fela - expression of joy
+posa fela hupol / posa fela lak- laugh
+posa fela ret - smile
+posu - sensation (not touch) / emotion
+potom - after / behind / beyond
+potonol - future
+potonol - undetermined time in the past
+potonole - specific time in the future (then)
+potonolu - after (adv. in time)
+potonolu mik - late / just after
+potonolu mikuk - very late
+pozon - poison 
+pus - bus 
+qifen - to turn green
+qiharja paum - broken / cannot become functional 
+qihupol - to yammer
+qipefoju - energize
+qisas - attain velocity
+qouf - smell
+qulan - primate
+qulan tul - monkey
+ref - straight / along / parallel
+rejx - anger
+rejxa - rage
+rejxu - scorn / idle anger
+rek - around / in the immediate vicinity of / circling 
+ret - lip
+retena - radiant
+rez - consciousness 
+rezu - rationality
+rix - rapid
+riz - intersection / perpendicular-ness / cross
+rok - around / in spite of
+rolap - in some manner / way
+role - in this manner
+role - in this manner / way
+rolek - in every manner / way
+rolit - how?
+rolum - in no manner / way
+rosonulen - suddenly
+rox - break / crack / fracture / rupture
+rox - crack / fracture 
+ruk - arm 
+rukam - hand 
+sak - bag 
+sas - velocity
+sefu - sphere / ball / round
+seif - diffuse 
+ses - spirit / ghost 
+sesa - wind / air 
+Sikul - sign / banner / flag
+sim - cold
+sima - ice
+sipas - cytoplasm / atmosphere / inner air / inner fluid
+Smet - death
+smut - sadness 
+sofor - work
+sofora - active, laborious work 
+soforu - meditative work
+sohalja - inflation (in amount)
+soharju - elaboration / performance 
+soharju hup - concert
+sohiqu - death / afterlife / outside of life
+solap - some quantity
+sole - this much
+solek - all quantities (greatest quantity?)
+solit - how much?
+Soloz - tear
+solum - no amount / quantity
+somut - many / much amount
+sonulen - sudden
+sopen - beginning
+sopen - beginning / start
+soq - tooth 
+soqofur - front tooth
+sot - outside / out of 
+soxel - body / form / shape
+soxfolu (fe)lofez - general public superficial aesthetic quality opinion 
+soxfolu - superficial aesthetic quality
+sozen - journey / sojourn 
+spal - back
+suk - train 
+sulex - exertion 
+sulex pefoja - dance / drumming
+sur - grain
+sur pez - wheat
+sur ten - rice
+syk - hidden thing / hidden part
+sykju - cover / top 
+Sylet - next
+syt - fun / diversion / distraction
+syt hutiz - gamble / gambling
+taf - two
+tafju - division / branch
+tafju pejer - bough
+tam - blood 
+tanolja - twice
+Tar - coffee
+taxil - plane
+Tekut - liquid
+tel - water
+tel haquiz - water vapor
+tel haquiz hais - mist / fog
+ten - light / white / day
+ten fure (jeniz) - yesterday
+ten fure tafiz - two days ago
+ten potome (jeniz) - tomorrow
+ten potome tafiz - two days from now
+ten sylet - tomorrow (next day)
+tena - glow
+tenu - lightness / whiteness
+tepol - vagina (spawn-hole)
+tet - parent
+tetyk - photon / star
+tetyk yziz  / tetyk soletiz - our star (the sun)
+tetz - good
+tex - offspring 
+tex lizar - child
+tex lizarotz - baby
+tex tetiz jezor - child of same parent / sibling
+texotz - small child / offspring / cub
+tihiqu - birth
+tilok - sight
+tin - in / into / according to
+tipol - vagina (copulatory hole)
+tix - silence
+tixil - 3d space
+tomija - life-like sleep / dream
+tomir - sleep 
+topen - vector
+tosin - colour
+tou - wish / hope
+Tul - down / below / low / little / less
+tulja - decline
+tunaham - floor
+turam - prison 
+turos - disorder / disarray / shambles
+txihara - to create
+txinul - make into nothing
+txipefoja - move forward
+txisyk - to hide / to cover
+txizanu - to know
+tyk - point / atom / dot / singularity
+Tzaj - tea
+tzem - earth / ground / soil
+tzem falun - country / state
+tzem zir - plain 
+tzem zir muihar xilja fen - meadow / pasture
+tzem zir xilja naj fen - meadow / pasture
+tzemju - piece of land / plot
+tzexaif - natural structure
+tzifal- to last
+tzifala - to prolong 
+tzifalu - to cut short (in time)
+tzihal - increase
+tzihupol - to talk aimlessly
+tzihupolax - to rant
+tzihupoluk - to yell
+tzijiz - to swallow
+tzilak - to say (something)
+tzilofez - to follow mindlessly 
+tziluza - to listen to
+tziluzu - to hear (bivalence)
+tzinos - to smell
+tzipefosa - to grow (of plants)
+tzipeit - to reside/ to dwell
+tziposa - to senseschoolboy 
+tzisas - accelerate
+tzisyta - have fun
+tzitela - to drink
+tzitul - diminish
+tzuf - between / through
+tzuf - through / between
+tzuf tzemju nis xil li tzitaf - dividing line between land / fence
+um - no 
+xaif - structure / edifice
+xaif zan - 
+xep - bread
+xer - tool
+xil - thread / line / long thing 
+xil lanas - line / queue (of people)
+xil li tzitaf - dividing line / partition
+xilitaf - partition
+xilitaf tzemju - plot partition / fence
+xilja fen - grass
+xilu - measure
+xir - revolution / revolve
+xira - to turn
+xof - feces
+zan - knowledge
+zana - wisdom
+zanu - historical / cultural knowledge
+zar - age
+zipik - part / chunk / portion / piece
+zipik hup - piece of music
+zir - wide / broad 
+zolap - for some reason
+zole - for this reason
+zolek - for all reasons
+zolit - why? (for what reason?)
+zolum - for no reason
+zor - model / representation 
+zora - clone / duplicate
+zoru - fake / false

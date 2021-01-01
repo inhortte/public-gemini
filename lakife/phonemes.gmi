@@ -1,0 +1,51 @@
+# Lakife phonology
+
+=> gemini://thurk.org/lakife/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+## Consonants
+
+Blab - Bilabial
+LD - Labio-dental
+Den - Dental
+Alv - Alveolar
+Palv - Post-alveolar
+Pal - Palatal
+Vel - Velar
+Glot - Glottal
+
+Nasal Plosive Fricative Affricative Trill Lateral
+
+```
+|      | Blab   | LD   | Den   | Alv   | Palv   | Pal   | Vel   | Glot   |
+|------|--------|------|-------|-------|--------|-------|-------|--------|
+| Nas  | m      |      |       | n     |        | nj    |       |        |
+| Plo  | p      |      | t     |       |        | tj    | k     | q      |
+| Fric |        | f    |       | s     | z      |       | x     | h      |
+| Affr |        |      |       |       | tz     |       |       |        |
+| Tr   |        |      |       | r     |        |       |       |        |
+| Lat  |        |      |       |       | l      | lj    |       |        |
+```
+
+f - like in English
+h - like in English
+k - like in English
+l - like in English
+lj - like in Slovak
+m - like in English
+n - like in English
+nj - like Spanish ñ
+p - like in English
+q - glottal stop
+r - like in Czech
+s - like in English
+t - like in Spanish
+tj - like Czech ť
+tz - like English ch / Czech č
+x - like Czech ch / Spanish j
+z - like English sh
+
+## Vowels
+
+a, e, i, o, u - all open like Spanish
+y - like French u / German ü 

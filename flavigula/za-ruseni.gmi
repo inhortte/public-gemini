@@ -1,0 +1,39 @@
+# Za Rušení
+## 2020-12-07
+
+
+
+Initially, this album was to be a collection of "noise" pieces for the infamous Noisevember. The idea was to take a series of between 3 and 5 notes generated randomly by a Bash script as each piece's basis. The concept lasted for less than half of the cycle, but the aleatory spirit lived on.
+
+The music evolved as a unit into something more than a mere month-long writing binge and is collected here as a (hopefully!) coherent whole.
+
+Bob Murry Shelton - Guitar, Modular Synth, Sequencers, Effects, Supercollider, Treatments, Samplers, Dim Inner Glow
+Christian Michael Newman - Mumbling, Guitar, Effects, Digital Lettuce Engineering, Dim Outer Glow
+
+Composed, Recorded, Mixed and Mastered By Flavigula
+Cover by Christian
+
+
+
+=> release/za-ruseni/za-ruseni/01-frequency-of-lethargy.flac Frequency Of Lethargy
+=> release/za-ruseni/za-ruseni/02-loitering-in-maßmann-park.flac Loitering In Maßmann Park
+=> release/za-ruseni/za-ruseni/03-herbal-pontification.flac Herbal Pontification
+=> release/za-ruseni/za-ruseni/04-kez-miqir-liz.flac Kez Miqir Liz
+=> release/za-ruseni/za-ruseni/05-tetyk-jo-hapa-mihupoluk-sonulen.flac Tetyk Jo Hapa Mihupoluk Sonulen
+=> release/za-ruseni/za-ruseni/06-kitap-syk-uriel-liz.flac Kitap Syk Uriel Liz
+=> release/za-ruseni/za-ruseni/07-sodden-raft.flac Sodden Raft
+=> release/za-ruseni/za-ruseni/08-tres-pulgones-por-amor.flac Tres Pulgones Por Amor
+=> release/za-ruseni/za-ruseni/09-tyk-jena-tin-nulu.flac Tyk Jena Tin Nulu
+=> release/za-ruseni/za-ruseni/10-hupu-li-tzifela-hupol.flac Hupu Li Tzifela Hupol
+=> release/za-ruseni/za-ruseni/11-lip-sofor-liz-pes-pinu.flac Lip Sofor Liz Pes Pinu
+=> release/za-ruseni/za-ruseni/12-jezevčí-chladírna.flac Jezevčí Chladírna
+=> release/za-ruseni/za-ruseni/13-tetyk-moljaum.flac Tetyk Moljaum
+=> release/za-ruseni/za-ruseni/14-nozzle.flac Nozzle
+=> release/za-ruseni/za-ruseni/15-a-serbian-princess.flac A Serbian Princess
+
+
+=> gemini://thurk.org/flavigula/releases.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

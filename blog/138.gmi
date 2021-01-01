@@ -1,0 +1,60 @@
+# The vector is indexable, eh?
+## Topics: clojure, martenblog
+## 2011-10-09
+
+**Now** a certain error is being an irritant. It looks like this:
+
+**java.lang.IllegalArgumentException: Key must be integer**
+
+Here is the code spouting the error:
+
+```
+(defpage "/expand/:id" {:keys [id]}
+  (let [e (entry/get-record id)]
+   (normal-entry e)
+   (expand-contract-link "contract" e)))
+```
+
+As any observant mustelid can see, there is nothing wrong with that code according to the Noir documentation[1]. I shall pull out pieces of my pancreas for a few more minutes flummoxing myself about it.
+
+I dislike it greatly when a problem solves itself, and especially if it is just from tinkering a bit.
+
+Here is the code:
+
+```
+(defpartial expand-contract-link [which e]
+  [:br.clear]
+  (link-to {:id (str which (:id e))}
+           "#" which)
+  [:hr.clear])
+
+(defpartial ajax-hovno []
+  [:script "ajax_hovno();"])
+
+(defpartial normal-entry [e]
+  (:entry e)
+  (expand-contract-link "contract" e)
+  (ajax-hovno))
+
+(defpartial truncated-entry [e]
+  (trunc (:entry e))
+  (expand-contract-link "expand" e)
+  (ajax-hovno))
+
+; Ajax paths                                                                    
+(defpage "/expand/:id" {:keys [id]}
+  (normal-entry (entry/get-record id)))
+
+(defpage "/contract/:id" {:keys [id]}
+  (truncated-entry (entry/get-record id)))
+```
+
+
+=> http://www.webnoir.org/tutorials/routes 1: http://www.webnoir.org/tutorials/routes
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

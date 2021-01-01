@@ -1,0 +1,17 @@
+# A stab in the thigh for the month of July
+## Topics: motivation
+## 2012-06-18
+
+I append these to the list:
+
+* *November* novel - kolmkümmend minutit
+* Daily arithmetic
+
+And on the subject of the second point ... rewrite the daily arithmetic program in... clojure? Using *MongoDB*! Jaa!
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

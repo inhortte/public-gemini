@@ -1,0 +1,47 @@
+# Songs For Looptober
+## 2020-11-05
+
+
+
+Loops, loops of loops, and manipulated loops, all painted thickly onto a canvas where the paint is allowed to run for a while.
+
+Bob Murry Shelton - Guitar, Effects, Modular Synth, Korg Minilogue, Korg NTS-1, Supercollider
+Christian Michael Newman - Cover art, various doodlings, voice.
+
+The sampled voices of Elvia and Jayson appear from time to time, as well.
+
+
+
+=> release/looptober-2020/songs-from-looptober/memories-of-childhood-gruel_session_20201103_1810.flac Memories Of Childhood Gruel
+=> release/looptober-2020/songs-from-looptober/a-poll-you-have-voted-in-has-ended_session_20201104_1922.flac A Poll You Have Voted In Has Ended
+=> release/looptober-2020/songs-from-looptober/cyclamen-balearicum_session_20201104_1858.flac Cyclamen Balearicum
+=> release/looptober-2020/songs-from-looptober/dregs-of-the-mirth_session_20201104_2106.flac Dregs Of The Mirth
+=> release/looptober-2020/songs-from-looptober/fix-miqir-liz_master_session_20201028_0926.flac Fix Miqir Liz_master
+=> release/looptober-2020/songs-from-looptober/fogged-glass-eyelet_session_20201029_1647.flac Fogged Glass Eyelet
+=> release/looptober-2020/songs-from-looptober/fosju-moles-liz-jeniz_session_20201029_1630.flac Fosju Moles Liz Jeniz
+=> release/looptober-2020/songs-from-looptober/garden-shears_master_session_20201028_0918.flac Garden Shears_master
+=> release/looptober-2020/songs-from-looptober/garden-tiers_session_20201029_1612.flac Garden Tiers
+=> release/looptober-2020/songs-from-looptober/life-within-the-absurdly-extensive-system-of-tunnels-beneath-your-garden_session_20201103_1345.flac Life Within The Absurdly Extensive System Of Tunnels Beneath Your Garden
+=> release/looptober-2020/songs-from-looptober/lithosphereless_session_20201103_1325.flac Lithosphereless
+=> release/looptober-2020/songs-from-looptober/pail-of-chalk_session_20201016_1416.flac Pail Of Chalk
+=> release/looptober-2020/songs-from-looptober/pelin-kes-qeqifek-peituje_session_20201103_1557.flac Pelin Kes Qeqifek Peituje
+=> release/looptober-2020/songs-from-looptober/pinue_session_20201104_2113.flac Pinue
+=> release/looptober-2020/songs-from-looptober/potonole-kon-zana-jetz_session_20201020_1323.flac Potonole Kon Zana Jetz
+=> release/looptober-2020/songs-from-looptober/quantum-foam-bath_20201104_1928.flac Quantum Foam Bath_20201104_1928
+=> release/looptober-2020/songs-from-looptober/quantum-sponge-bath_session_20201103_1331.flac Quantum Sponge Bath
+=> release/looptober-2020/songs-from-looptober/soporific-baling-wire_session_20201015_1148.flac Soporific Baling Wire
+=> release/looptober-2020/songs-from-looptober/soqol-petenim-elvia-liz_session_20201103_1317.flac Soqol Petenim Elvia Liz
+=> release/looptober-2020/songs-from-looptober/soxel-riz-soliz_session_20201103_1341.flac Soxel Riz Soliz
+=> release/looptober-2020/songs-from-looptober/tin-myx-nis-molju-li-pa-mifek-an-tzilet_session_20201104_1934.flac Tin Myx Nis Molju Li Pa Mifek An Tzilet
+=> release/looptober-2020/songs-from-looptober/tributary-beds_session_20201021_1422.flac Tributary Beds
+=> release/looptober-2020/songs-from-looptober/tzaj-ten-sopen_session_20201104_1914.flac Tzaj Ten Sopen
+=> release/looptober-2020/songs-from-looptober/verča-pools-anxiety-into-trapezoidal-prisms_master_session_20201028_0934.flac Verča Pools Anxiety Into Trapezoidal Prisms_master
+=> release/looptober-2020/songs-from-looptober/wax-covered-ocean.flac Wax Covered Ocean
+=> release/looptober-2020/songs-from-looptober/xaif-fosiz-peloketz_session_20201103_1802.flac Xaif Fosiz Peloketz
+
+
+=> gemini://thurk.org/flavigula/releases.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

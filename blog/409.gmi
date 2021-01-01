@@ -1,0 +1,92 @@
+# Just what are BRANCH TABLES and why would you want to use them in your current project?
+## Topics: routine, dreams, goals, spanish
+## 2016-10-16
+
+I finished breakfast. Were I to say something similar in Spanish, *Acabé el desayuno*, I'd be routinely criticised in fair *La Rioja* for grammatical misuse. At worst, I'd be called a *panchito* and stoned until fragments of bones protruded from flesh. Perhaps I say this because I happened idly upon my ex-spanish teacher last night during an evening stroll. I ignored him, or he ignored me, or simply didn't notice me in the crowd. I'd prefer to think the former. In my very short lived class, after my stoning, my broken body'd be strung up on one of the myriad classroom crosses. As my life waned, this ex-teacher and the other students'd chant *He acabado el desayuno* to the rhythm of my failing heart.
+
+*Acabo de desayunar* is actually best. My ingominy will quickly be forgotten.
+
+I have just finished breakfast. To make my Sunday morning as exciting as possible, I switched from bland oats cooked in soy milk with honey to stiff *wasa* crackers topped with mustard, ham and cucumber slices. The thrill of this abrupt change in life's direction reverberates throughout the multiverse. The pulses jar the skies and wipe out all nacent life on Europa. Fuck um.
+
+Yesteryear, *ahem* -day, I dutifully persued but one of the goals I inscribed into *Martenblog* with the knife of my insight. What was it? GraphQL[1] absorbed my day. Acabé el tutorial. I began putting together a *schema* for *Martenblog*, which, when you think about it, isn't that complex, you *grub*. I feel I became sidetracked by a DSL[2] provided by graphql-tools[3]. With this set of tools, I wrote the *schema* using a more *natural* language. It went like this:
+
+```
+type Topic {
+  _id: Int!
+  topic: String!
+  entries(
+    limit: Int
+  ): [Entry]
+}
+
+type Entry {
+  _id: Int!
+  createdAt: Int!
+  entry: String!
+  userId: Int!
+  subject: String!
+  topics: [Topic]
+}
+
+type User {
+  _id: Int!
+  createdAt: Int!
+  username: String!
+  entries: [Entries]
+}
+
+type Query {
+  # page count, vole
+  pCount(
+    topicIds: [Int], # can happily be null
+    search: String # can also be happily null
+  ): Int
+
+  # retrieve all topics
+  topics: [Topic]
+
+  entriesByDate(
+    y: Int!,
+    m: Int!,
+    d: Int!
+  ): [Entry]
+
+  entries(
+    page: Int,
+    topicIds: [Int],
+    search: String
+  ): [Entries]
+
+  # Get the two surrounding dates that are relevant.
+  # IE, the ones that also have associated entries.
+  alrededores(
+    timestamp: Int!
+  ): [Int]
+}
+```
+
+Normally, I'd just provide a link to the relevant github page, but I'll soon excise the DSL from my code and go with raw Javascript. Why? Because I'm a luddite? Yup. That's the reason, you *grub*. I'll luddicise the **code** after this blog entry, you **fucking** *grub*.
+
+I've also had a few curious dreams of late. To be mostly honest, I've tried to avoid the recent electoral campaign. Parts seems to have drifted into my subconscious, however, as much as I skip the multituninous political facebook posts that appear on my *ahem* timeline. Given the dream I shall describe, perhaps this is not all bad.
+
+Less and less of my dreams take their setting from the village of my upbringing. A few nights ago, during spastic sleep, Mr Donald Trump and I were driving around in a cramped, grunting vehicle. His right arm was broken and strapped to his chest. I was sitting in the driver's seat, yet he was driving with his unwounded limb. This was possibly symbolic, especially considering that I time and again requested to take the wheel myself since it was positioned directly in front of me and within easy reach of my stubby appendages. We were riding around in the village of my upbringing.
+
+He was amicably chatting about the *rehabilitation* of the village and his distaste of excess. He did not regret the distraught masses thinking him a maniac, though. He felt his clowning was well earned after a hard life of piling coin upon coin for his myriad offspring. *They'll surely toss it to the clouds with no thought of humanity*, he lamented.
+
+At some point, I felt a bit sorry for him and commented that his playactings may have painted him into a corner. He laughed and said *Entropy is the measure of the amount of disorder in any system. Any system's state naturally tends towards higher entropy.* I really couldn't argue with him since, in the end, this was actually **my** synapses talking to themselves.
+
+We ended up stuck in some sort of road construction under a highway segment that most likely does not exist (nor of its like) in the village of my upbringing. The vehicle tilted crazily and eventually was almost vertical. Trump exited before I could. From my position, poised between a fractured windshield and a dissolved door, I lept to the ground. At the same instant, the beast flipped, landing face down. I was clear, but it clipped Trump's broken arm, breaking it in a second place.
+
+He howled and cursed. I woke up.
+
+
+=> https://github.com/graphql/graphql-js/blob/master/src/__tests__/starWarsSchema.js 1: https://github.com/graphql/graphql-js/blob/master/src/__tests__/starWarsSchema.js
+=> https://en.wikipedia.org/wiki/Domain-specific_language 2: https://en.wikipedia.org/wiki/Domain-specific_language
+=> http://dev.apollodata.com/tools/graphql-tools/index.html 3: http://dev.apollodata.com/tools/graphql-tools/index.html
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

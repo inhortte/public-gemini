@@ -1,0 +1,14 @@
+# Justin says....
+## Topics: cognitive bias
+## 2011-09-30
+
+I thought it'd be beneficial to some future thoughts to record something Justin just wrote to me:
+
+> It's a weakness in my character to favour accuracy over some other more meaningful and human parameters.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

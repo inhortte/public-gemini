@@ -1,0 +1,18 @@
+# The nimble ants nibble my fetoid brain
+## Topics: blog, programming, absurdity
+## 2015-08-18
+
+I have found a bizarre error in the *Martenblog*. It is not a, as they say, *show-stopping* error, but an error nonetheless. The last six or so entries are always rewritten to mongoDB (locally) when I call the aptly named executable *blog_to_mongo*, which is actually just a link to a node script in a distant directory not covered in my *PATH*. At first, I *put this down* to a change of date format in some new(y) version of *nodejs* - the *fs* module to be specific. **Yes!** My fetoid brain insisted that the manner in which mongoDB stored dates was just not compatible with node's. I even planned, again in my fetoid brain, a manner in which I could easily repair said **error**. I would convert both to UNIX timestamps before comparison! **Yes!** In my fetoid brain, this plan had already succeeded, as it was particularly brilliant. Any user of UNIX-like dates would instantly agree. In fact, they'd send me grants in the form of the internal organs of their beloved pets to praise my insight. I'd be held in esteem by my universe-wide collegues for the valid lifetime of UNIX timestamps, which I belive is sometime in 2036, at which point I will be the ruling tyrant of the omnisphere, anyhow.
+
+#### However.
+
+After a bit of testing, naught came from this fetoidal brain excercise. The dates were being compared correctly. No incompatability existed. My fetoid brain was crushed. I am crushed. I lie on the lawn now with my fetoid brain weeping from my aural orifi.
+
+Fuck um.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

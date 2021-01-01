@@ -1,0 +1,27 @@
+# Semi-tone Progressions and Your Recent Favourite Hare Soup
+## Topics: music
+## 2010-12-28
+
+Soon I shall order a M-Audio Oxygen 49[1] for a few different reasons:
+
+* I have no tangible instrument in Seminole.
+* I am tired of figuring out melodies on the virtual keyboard, though it is, I admit, a useful tool.
+* I don't want to program every keyboard part of the songs I am working on. I'd like to actually play some of them, despite occasional (or even frequent) timing inaccuracies.
+
+Ok. I have decided to work on *Cycle* after this entry has been done. Which part, you ask? Well, the second of the five parts I outlined yesterday, I reply. So let's begin brainstorming, shall we? It begins with the *f* triplet ostinato. The electric piano ostinatos over this with an *F major7* on beat one and a *Bes 7* on beat two. High in the background are the keys playing a *c*, then a *bes*, then an *a*. We'll see how that works. The electric piano continues its ostinato, but the bass moves down a half-step to *e*. Let's let the keys part remain the same, as well.
+
+When the *f* bass ostinato returns, the vocals begin with the melody I outlined yesterday. The second line of lyrics continue when the *e* ostinato appears. The third and final line (of verse one) sees the bass float down another semi-tone to *ees* but all else stay the same. The bass will traverse back to the *e* ostinato. Perhaps the whole thing repeats at that point. *f* *e* *f* *e* *ees* *e*. When *King Lindorm* by **Guapo** (a band whom everybody loves) completes its sonic manoeuvers in my ears, I shall map out this small but poignant idea in lilypond and listen to the results. I shall not, however, report back here this evening.
+
+That is not being headstrong.
+
+It is eloquent.
+
+
+=> http://m-audio.com/products/en_us/Oxygen49.html 1: http://m-audio.com/products/en_us/Oxygen49.html
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

@@ -1,0 +1,80 @@
+# That Croat Chick Has Plans to Saw Off Your Libido, Dick-Boy
+## Topics: blog
+## 2016-03-08
+
+Since the world worships at my feet, and among the masses of said word is the lowly Christián Newman, I'm creating this entry to let him enjoy the easy benefits of Hexo[1] and get his **BLOG** back online for easy access by the remains of the steaming pile of masses. Christián is currently using Windows, so here we go.
+
+#### Install Git for Windows, ya doof.
+
+Even a less intellegent rodent than Christián can accomplish this feat by clicking on this[2] link. Being a rodent, Christián also knows how to double click on the .exe once his machine acquires it.
+
+Any request the *machine* makes to add something to your execution path, **ANSWER FUCKING YES**.
+
+I went through this mortally wounding ordeal on Marisa's box a few days ago and found that the `git` installation includes a fairly usefull `bash` shell. Christián is advised to use this during later steps in the process of which I am currently expounding. That is, he should use it if it automagically adds *Node.js* executables to its **PATH**. If this is not the case (a case I cannot verify at this moment since even my **godly** state is denied knowledge of the password to Marisa's laptop), the rodent that is Christián M Newman can use the `shell` provided with *Node.js*. But I am getting ahead of my deific self.
+
+I pause to sneeze. A few of my worshippers are covered by a sticky film. They sigh with pleasure and shall ever refuse to scrub it away.
+
+#### Install Node.js, ya drip.
+
+Having leaped the first hurdle on the bombshelled path to stickin' it to the listless internet empty and bereft of a **BLOG** by Christián M Newman, the rodent that is he scurries in oval and trapezoid patterings to celebrate an initial victory. He places his paws once again upon the keyboard of his **machine**, and installs *Node.js* from here[3].
+
+Any request the *machine* makes to add something to your execution path, **ANSWER FUCKING YES**.
+
+#### Install hexo, ya noog.
+
+With this installation, the rodent notices there is a command-prompt-type thinghie. It loads the *Node.js* environment so it is not required to do bullshit Windows **PATH** orienting. Rodents hate that shit. I did mention earlier that *Git* comes with a command prompt `shell`, also. As of this paragraph, I still do not know if it automagically loads the *Node.js* environment, however.
+
+First he tries the *Git* `shell` utility. The rodent finds it somewhere in his well-organized *start* tab. His paws flash over the keyboard deftly as he types `node`. If an error occurs, he kills this `shell` utility and opens the command prompt that comes with *Node.js* (also found in his well-organized *start* tab).
+
+**However**, if, within the *Git* `shell`, the command `node` gives Christián Michael Newman (the rodent to which I refer) another prompt, he continues with the *Git* `shell`. He hits *Ctrl-D* to get back to the normal command prompt.
+
+Either way, the rodent (who is the Christián Michael Newman to which I refer) points his slightly bulging eyes at the rectangle of the command prompt. It should indicate where he is within his directory (**folder** to you Windows-lepers) structure. Something like `/users/dickboy`. He enters the following with sweaty, trembling paws:
+
+```
+npm install -g hexo-cli
+```
+
+#### Create the **BLOG**, ya squelch.
+
+Christián, a rodent, dreams up a name for the directory of his **BLOG**. This name is unimportant. It is just a place to keep the bloody thing locally, you **shaft**! Don't sit there fucking deliberating it!
+
+```
+hexo init THENAMEOFTHEFUCKINGFOLDERYOUCUNT
+```
+
+Casually, the rodent follows up with `cd THENAMEOFTHEFUCKINGFOLDERYOUCUNT`. He then either types `ls` or `dir` depending on which `shell` or command prompt he has chosen to use (*Git* and *Node.js*, respectively) to see the files in his **BLOG** directory. Of course, being a rodent, he also checks it out in Windows Explorer, which displays for him the files also in a non-finicky manner. Christián sees the two files `_config.yml` and `package.json`. These files are important, my furry friend.
+
+That being said, replace them with this "_config.yml"[4] and this "package.json"[5] with whatever means you know to replace files. I could explain how to do it simply from the command line, but that would just not be very **GODLIKE**.
+
+Now get your penis out of that goat!
+
+Back at the command prompt (and making sure he is still in the **THENAMEOFTHEFUCKINGFOLDERYOUCUNT** directoy), the rodent happily enters `npm install`. Shit occurs. When the shit ocurring finishes occuring, Christián Michael Newman (a cute, furry rodent), installs a new *theme* by doing the following:
+
+```
+cd themes
+git clone https://github.com/hexojs/hexo-theme-light.git light
+```
+
+If this part does not work, the rodent sends a message to the **DEITY** that is me and tells him immediately.
+
+If it does work, the rodent backs up one directory (*folder* - yeah, yeah) with `cd ..` and starts his **BLOG** server: `hexo server`.
+
+Once Christián M Newman (a rodent) goes to his browser of *choice* and thurks to the parenthesized link, he will contact the **HIGHER BEING** that has written this.
+
+(http://localhost:4000[6][7])
+
+
+=> https://hexo.io/ 1: https://hexo.io/
+=> https://git-scm.com/download/win 2: https://git-scm.com/download/win
+=> https://nodejs.org/dist/v4.3.2/node-v4.3.2-x64.msi 3: https://nodejs.org/dist/v4.3.2/node-v4.3.2-x64.msi
+=> https://github.com/inhortte/hexo-death/raw/master/_config.yml 4: https://github.com/inhortte/hexo-death/raw/master/_config.yml
+=> https://github.com/inhortte/hexo-death/blob/master/package.json 5: https://github.com/inhortte/hexo-death/blob/master/package.json
+=> http://localhost:4000 6: http://localhost:4000
+=> http://localhost:4000 7: http://localhost:4000
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

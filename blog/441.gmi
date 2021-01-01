@@ -1,0 +1,308 @@
+# How I Ruptured my Cerebrum Implementing Activity Pub
+## Topics: programming, blog, elixir, ruby, pleroma, activitypub, mastodon
+## 2019-12-26
+
+I spent a few months on and off, that is to say, not very consistently, attempting to get this blog **Activity Pub Sensitive**. There were many false starts, many moments where I gave up, many spilled comestibles and one or two plagues of sentient lice. In the end, my implementation is far from *perfect* or *finished*, but it does what I need it to do for now.
+
+I'm in metaphysical debt to the following:
+
+* Activity Pub as it has Been Understood[1]
+* How to Read the Activity Pub Specification[2]
+* Activty Streams Vocabulary[3]
+* Activity Pub Specification[4]
+
+My code is here: https://github.com/inhortte/martenblog-elixir[5]
+
+Martenblog is a single user federated app, so, unlike #mastodon or Pleroma. This *single user* is the manifestation of the blog, perhaps, were it sentient. Perhaps it is. I'm not sure. Whereas **Actors** on Mastodon are indicated by `https://instance/users/username` (I'm https://sonomu.club/users/flavigula[6] on Mastodon), my singular actor is `https://flavigula.net/ap/actor`. I didn't come up with this genericism myself, but by stealing the idea from ... well, it seems I cannot find the repository any longer. I am also in metaphysical debt to this *human* who did a Node.js implementation for his own blog.
+
+`curl -k https://flavigula.net/ap/actor` will show you my actor.
+
+Backtracking slightly, I found it necessary to implement webfinger[7] so that other servers could see me. My initial testing goal was to be able to type @martenblog@flavigula.net into the search field on Mastodon and find the manifestation of Martenblog.
+
+```
+  def webfinger do
+    json = %{
+      aliases: [
+        "https://#{@domain}/ap/actor"
+      ],
+      links: [
+        %{
+          href: "https://#{@domain}/ap/actor",
+          rel: "self",
+          type: "application/activity+json"
+        }
+      ],
+      subject: "acct:martenblog@#{@domain}"
+    }
+    json
+  end
+```
+
+I suppose that's pretty self explanatory. You can see the result at https://flavigula.net/.well-known/webfinger[8]
+
+While I was at it, I added the https://flavigula.net/.well-known/host-meta[9] endpoint:
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<XRD xmlns="http://docs.oasis-open.org/ns/xri/xrd-1.0">
+  <Link rel="lrdd" template="https://flavigula.net/.well-known/webfinger?resource={uri}" type="application/xrd+xml"/>
+</XRD>
+```
+
+Also, the https://flavigula.net/.well-known/nodeinfo[10] endpoint:
+
+```
+{
+  "links": [
+    {
+      "rel": "https://nodeinfo.diaspora.software/ns/schema/2.0",
+      "href": "https://flavigula.net/.well-known/nodeinfo/2.0.json"
+    },
+    {
+      "rel": "https://nodeinfo.diaspora.software/ns/schema/2.1",
+      "href": "https://flavigula.net/.well-known/nodeinfo/2.1.json"
+    }
+  ]
+}
+```
+
+And the two endpoints referenced within nodeinfo:
+
+```
+{
+  "version": "2.0",
+  "usage": {
+    "users": {
+      "total": 1,
+      "activeMonth": 1,
+      "activeHalfyear": 1
+    },
+    "localPosts": 419
+  },
+  "software": {
+    "version": "1.0.0",
+    "name": "Martenblog"
+  },
+  "services": {
+    "outbound": [],
+    "inbound": []
+  },
+  "protocols": [
+    "activitypub"
+  ],
+  "openRegistrations": false
+}
+```
+
+```
+{
+  "version": "2.1",
+  "usage": {
+    "users": {
+      "total": 1,
+      "activeMonth": 1,
+      "activeHalfyear": 1
+    },
+    "localPosts": 419
+  },
+  "software": {
+    "version": "1.0.0",
+    "repository": "https://github.com/inhortte/martenblog-elixir.git",
+    "name": "Martenblog"
+  },
+  "services": {
+    "outbound": [],
+    "inbound": []
+  },
+  "protocols": [
+    "activitypub"
+  ],
+  "openRegistrations": false
+}
+```
+
+The code for those are in https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/router.ex[11] along with every endpoint of my website.
+
+I only want to *federate* blog entries to people who follow me from other regions of the Fediverse. An api endpoint exists for this, appropriately named *followers*. (https://flavigula.net/ap/actor/followers[12]) Though I implemented the endpoint and find it likely that it is required to do so to have a functioning server, the resulting *collection* didn't serve as I thought it should according to my interpretation of the specifications. I'll come back to that later, however.
+
+One must accrue followers. That is, I'm not going to send blog entries arbitrarily out to fediverse entities. So, when someone follows Martenblog, it receives something along these lines to the *inbox* (that's https://flavigula.net/ap/actor/inbox[13]):
+
+```
+{
+  "type": "Follow",
+  "object": "https://flavigula.net/ap/actor",
+  "id": "https://sonomu.club/94904728-1d32-4a51-b422-0373323ec61c",
+  "actor": "https://sonomu.club/users/flavigula",
+  "@context": "https://www.w3.org/ns/activitystreams"
+  }
+```
+
+The code takes this json and wraps it in an *accept* activity:
+
+```
+{
+  "type": "Accept",
+  "object": {
+    "type": "Follow",
+    "object": "https://flavigula.net/ap/actor",
+    "id": "https://sonomu.club/94904728-1d32-4a51-b422-0373323ec61c",
+    "actor": "https://sonomu.club/users/flavigula",
+    "@context": "https://www.w3.org/ns/activitystreams"
+  },
+  "id": "https://flavigula.net/ap/48394fc9-114a-4849-86e4-3b78226915d9",
+  "actor": "https://flavigula.net/ap/actor",
+  "@context": "https://www.w3.org/ns/activitystreams"
+}
+```
+
+and sends it on its way, which will be explained next, as it is the most complex bit. The *inbox* endpoint in https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/router.ex[14] sends the *follow* activity to the *inbox* function in https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/activitypub.ex[15], which calls the `accept` function in the same file.
+
+Implementing the *sending an activity to another Fediverse server* part was like excoriating myself with a rusty spanner, mainly because I couldn't find a clear way to **test** during development, so I was, as it were, programming blind, deaf, motionless and possibly without appendages whatsoever.
+
+```
+def sign_and_send(activity, inbox) do
+  target_domain = Fuzzyurl.from_string(inbox).hostname
+  inbox_fragment = String.replace(inbox, "https://#{target_domain}", "")
+  date_str = Utils.rfc2616_now 
+  Logger.info "Reading private key..."
+  {:ok, priv_key} = File.read("/home/polaris/keys/martenblog.pem")
+  Logger.info "priv_key: #{priv_key}"
+  string_to_sign = "(request-target): post #{inbox_fragment}\nhost: #{target_domain}\ndate: #{date_str}"
+  [ rsa_entry | _ ] = :public_key.pem_decode(priv_key)
+  decoded_key = :public_key.pem_entry_decode(rsa_entry)
+  sign_me = :public_key.sign(string_to_sign, :sha256, decoded_key)
+  signature = :base64.encode(sign_me)
+  sig_header = "keyId=\"https://#{@domain}/ap/actor#main-key\",headers=\"(request-target) host date\",algorithm=\"rsa-sha256\",signature=\"#{signature}\""
+  case Poison.encode activity do
+    {:ok, json_activity} -> 
+      Logger.info "sign_and_send -> activity: #{json_activity}"
+      Logger.info "string_to_sign: #{string_to_sign}"
+      Logger.info "signature header: #{sig_header}"
+      Logger.info "date_str: #{date_str}"
+      case :hackney.post(inbox, [
+          Host: target_domain, 
+          Date: date_str, 
+          Signature: sig_header, 
+          "Content-Type": "application/ld+json; profile=\"https://www.w3.org/ns/activitystreams\"",
+          Accept: "application/activity+json, application/ld+json" 
+        ], json_activity) do
+        {:ok, res} -> res
+        error -> error
+      end
+    error -> error
+  end 
+end
+```
+
+This function is invoked with the activity to be sent and the inbox of its recipient. In this case, said recipient would be the *actor* from another federated site that sent me a *follow* activity. I extract the *inbox* of the actor who wants to follow me by grabbing the actor and extracting its *inbox* field. The `remote_actor` and `fetch_actor` functions do this. You may want to take a look at https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/ap_resolver.ex[16], also, which handles actors cached in the database.
+
+I diverged from the main point a bit. `sign_and_send` receives the *activity* to send and the *inbox* of the remote actor to send it to. First, it calculates the `inbox_fragment` from the remote *inbox*. That'd be, say `/users/flavigula/inbox`. Next, the date, which **HAS** to be in this format: `Thu, 26 Dec 2019 15:25:21 GMT` - the rfc2616[17] format. If you do not use that format, you will instantly be beheaded.
+
+It seems that Pleroma is more flexible concerning the format of the date it receives. Mastodon is not. It **must** be RFC2616. Take a look at the function `rfc2616_now` at https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/utils.ex[18]. Notice that I manually append GMT at the end. Since I use `DateTime.utc_now`, the time zone is not relevant, but be warned that if you use a conversion tool that gives you `UTC` as the time zone, your signature **will be rejected by Mastodon servers**. Tacking on `GMT` is my solution.
+
+Mastodon uses this bit of Ruby to verify the date:
+
+```
+def matches_time_window?
+  begin
+    time_sent = Time.httpdate(request.headers['Date'])
+  rescue ArgumentError
+    return false
+  end
+  (Time.now.utc - time_sent).abs <= 12.hours
+end
+```
+
+I recall reading that the *window* for submitting a response is +/- 30 seconds. Obviously, Mastodon thinks otherwise.
+
+Sometime before you get to this point, you need to have generated a public / private key pair. If you don't know how to perform these duties, check out the following url: https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/[19]. It also complements several processes I've already described, so is generally helpful.
+
+So, Herr `sign_and_send` fetches my private key and constructs the so called `string_to_sign`, which his this aspect:
+
+```
+(request-target): post /users/flavigula/inbox
+host: sonomu.club
+date: Thu, 26 Dec 2019 15:25:21 GMT
+```
+
+The function continues by decoding my private key, signing the key via *sha256*, and encoding the result via *base64*. Of course, the tools you use to perform these three steps will vary depending on your language. I'm hanging out with Elixir at the moment and the procedure is carried out by functions from the underlying Erlang system (note they all start with `:`). The aforementioned *blog.joinmastodon.org* url details the same steps in Ruby.
+
+The `sig_header`, an amalgam of the preceeding steps, comes out similar to this:
+
+`keyId="https://flavigula.net/ap/actor#main-key",headers="(request-target) host date",algorithm="rsa-sha256",signature="VHYpjLbjhxwsVwOQTPzsbzzSkqCHXRtnhUp3CYYJsXRcdosKAeSHKShm3OuwCLlyx7iLvsU7y+jN2i4zrf2nLfAi6ujXqUBxsfrtHXBaLkjMyypRZ6eYwprZvZsDgWQ0v+M1E2KsWowlLINpAWGG9Nydh4wCa37RB7sAhqv/Ccdp57FACT5O9DQFUccgko93Yns4Amo7ZWtKth0QAR4H5bILe8lLGa0E6IfgyX1SSuitXRMqVsd8RDPY9ARKUl7arge6mPNl9WFtxPjNzhfXIiEYn7VHIt1WA82ungMnNUy6+aOOrBwJWu8BDYOlZT+Sl5/qN91ggjjtgq7vT+qjrA==`
+
+Now, you can *POST* the activity to the foreign inbox. Again, I'm using Erlang - *hackney* to be exact. Set the `Content-Type` to be `application/ld+json; profile=\"https://www.w3.org/ns/activitystreams\"` or be beheaded once again.
+
+On to sending actual blog entries.
+
+Wrapping an entry into an article[20], I get the following:
+
+```
+%{
+  "@context": ["https://www.w3.org/ns/activitystreams"],
+  attributedTo: "https://flavigula.net/ap/actor",
+  cc: [],
+  content: "<p>Strange how these days remind me...</p>\n",
+  id: "https://flavigula.net/entry/by-id/4",
+  name: "Winter eve",
+  published: "Thu, 26 Dec 2019 15:25:21 GMT",
+  to: ["https://sonomu.club/users/flavigula"],
+  type: "Article",
+  url: "https://flavigula.net/#/blog/2006/12/8"
+}
+```
+
+... constructed by the `article` function in `activitypub.ex`. Though I didn't find reference to it in documentation anywhere (but I honestly didn't look for more than twenty six seconds), the `url` field provides a nice link using the `name` at the beginning of an article federated to Pleroma. Mastodon ends up with the contents of the `name` field followed by the url.
+
+The Elixir *map* (that's the construction you see above that begins with `%{` and ends with `}` which is certaily not json yet) is piped through the `create_activity` function and another *map* emerges:
+
+```
+%{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  actor: "https://flavigula.net/ap/actor",
+  cc: [],
+  id: "https://flavigula.net/ap/20a8f2d0-8f14-42bf-ab4f-c4d5a98c7c5a",
+  object: %{
+    # The article above
+  },
+  published: "Thu, 26 Dec 2019 15:25:21 GMT",
+  to: ["https://sonomu.club/users/flavigula"],
+  type: "Create"
+}
+```
+
+As I noted earlier, and also to prevent yourself from being beheaded a third time, make sure the `published` field in the *article* (represented in the `object` field in the *create activity*), the `published` field in the *create activity* itself and the *date* that goes into the `sign_and_send` apparatus are **all** within thirty seconds of each other. Edit: The Ruby code I quoted above and which comes straight from the Mastodon source seems to think 12 hours is good enough. Regardless, playing it safe is better.
+
+Identical to sending the *accept* activity previously, this *create activity*, along with **every** follower's inbox goes to `sign_and_send`. I loop through each inbox, calling `sign_and_send` repeatedly, and certainly realize this is not particularly efficient. I'll get around to improving this and other laxnesses soon.
+
+As I mentioned near the beginning of this spiel, though, I could not get the *send to followers* functionality of Activitypub to work. Therefore, instead of having `https://flavigula.net/ap/actor/followers` in the `to` or `cc` fields, I directly add an array of the followers' inboxes. The issue needs more investigation.
+
+So, there you have it. I possibly missed a few steps and / or parts are misaligned and inexact. Having stated that caveat, I hope what I've written is of help to some of those *humans* I keep hearing about who are ostensibly wandering around on the face of the planet. If so, said *humans* should relax, celebrate, take some ketamine or whatever suits their fancy. I know I would were I a *human* instead of a mere *mustelid*.
+
+
+=> https://flak.tedunangst.com/post/ActivityPub-as-it-has-been-understood 1: https://flak.tedunangst.com/post/ActivityPub-as-it-has-been-understood
+=> https://tinysubversions.com/notes/reading-activitypub/ 2: https://tinysubversions.com/notes/reading-activitypub/
+=> https://www.w3.org/TR/activitystreams-vocabulary 3: https://www.w3.org/TR/activitystreams-vocabulary
+=> https://www.w3.org/TR/activitypub/#followers 4: https://www.w3.org/TR/activitypub/#followers
+=> https://github.com/inhortte/martenblog-elixir 5: https://github.com/inhortte/martenblog-elixir
+=> https://sonomu.club/users/flavigula 6: https://sonomu.club/users/flavigula
+=> https://tools.ietf.org/html/rfc7033 7: https://tools.ietf.org/html/rfc7033
+=> https://flavigula.net/.well-known/webfinger 8: https://flavigula.net/.well-known/webfinger
+=> https://flavigula.net/.well-known/host-meta 9: https://flavigula.net/.well-known/host-meta
+=> https://flavigula.net/.well-known/nodeinfo 10: https://flavigula.net/.well-known/nodeinfo
+=> https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/router.ex 11: https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/router.ex
+=> https://flavigula.net/ap/actor/followers 12: https://flavigula.net/ap/actor/followers
+=> https://flavigula.net/ap/actor/inbox 13: https://flavigula.net/ap/actor/inbox
+=> https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/router.ex 14: https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/router.ex
+=> https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/activitypub.ex 15: https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/activitypub.ex
+=> https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/ap_resolver.ex 16: https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/ap_resolver.ex
+=> https://tools.ietf.org/html/rfc2616#page-124 17: https://tools.ietf.org/html/rfc2616#page-124
+=> https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/utils.ex 18: https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/utils.ex
+=> https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/ 19: https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/
+=> https://www.w3.org/TR/activitystreams-vocabulary/#dfn-article 20: https://www.w3.org/TR/activitystreams-vocabulary/#dfn-article
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

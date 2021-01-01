@@ -1,0 +1,27 @@
+# I bumped off the sheriff
+## Topics: music, alfred
+## 2011-01-17
+
+As I said in one dream I had as a child:
+
+> I have happily created a portion of a piece
+> of art and can bask in this realization until
+> it comes to pass that the itch must again be
+> scratched and a following piece of art be
+> produced.
+I've successfully stuck with the minimalistic character of the piece that was evident in its inception as *AcyBob* and has carried itself through the parts and transformations therein. *Part V* contains a bastardization of the bastardization in *Part III* of the melody in *Part I* played on the bass and 'bassoon'. The only other non-percussive instrument is the *Mellotron*. I am getting closer to the end of this. Each part is easier to write. Each contains more and more material which has already been written. Good for them.
+
+#### And there is space!
+
+It's not **space rock**, but there is space. The piece definately needs space after parts two and three (there are more contrasts and lulls in part four, giving the initial exhalation after the relentless first three parts).
+
+The next task is *Part VI*. I already have a sketch of it in my mind. It begins with the bassoon playing `/e f ees/ e`, `/ees f e/ ees`, `/e f ees/ e`, and `/f ees e/ f`. These are each repeated six times (making three measures of 4/4 each and following the triplety *Part II* 'template'). On the final note of each small sequence, IE, on beats **two** and **four**, the rhodes will play **F major7** and **Bes major7** alternately. These chords will be accompanied by a bass note which is not necessarily related to the chord.
+
+So, a film and then to sleep. Tomorrow (later today, yah) finds me on a short journey to Odessa and the dermatologist.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

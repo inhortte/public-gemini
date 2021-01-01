@@ -1,0 +1,20 @@
+# Cycle Part V
+## Topics: music, alfred
+## 2011-01-16
+
+The collusion of contrasting ideas concerning the fifth part of Cycle are now in concert. The result, in my mind, anyhow, will debauch the easy and hypnotic feeling established during the final ostinato of part four.
+
+##### So the first concern is the transition.
+
+I know that before I wrote that I would not write proper transitions but instead let the music suddenly stumble from one frame to another with no harmonic *warning* or set up. I feel this must be an exception to this so-called *rule* I created for myself.
+
+The ostinato that ends part four, as it is now, is rooted in **Dm** (with the additional `bes c g` that could be seen as a **C7** atop the **Dm**). It will change this rooting thrice. Once to **Ees major**, then back to **Dm**, then to **E major**. The latter will lead easily into part five, which will retain the chord progression of part three, in order.
+
+After a walk, I shall continue
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

@@ -1,0 +1,82 @@
+# Lakife - Babel Text
+## Otherwise known as the first bit of Genesis
+
+=> index.gmi tzifur
+=> ../index.gmi jenju
+
+Fal sopene pot, kotjo jena qoqihara miqir tzemi.
+
+In the beginning God created the heaven and the earth.
+
+Notes:
+
+* *Fal ... pot* is "during".
+* *Sopen* is "beginning", taken from Toki Pona's "open", obviously purloined from English. I do like the connotation, however.
+* The *-e* suffix is probably not needed (making *sopon* definite), as it is (to me) obvious, but I'll leave it for now.
+* As a verb, *sopen* could be used to indicate the initiation of an event. *Anju jo ten qoqisopen*. He turned on the light. Or intransitive: *Kop keziz qoqisopen*: The goat's head became radiant.
+* This begs the question of how to construct passivity. How do you say "The time of death has begun?" Let's assume *nola* is epoch. *Nola smet liz quisopen*: The time of death has begun. *Nola smet liz qoquisopen*: The time of death had begun. Note the *ui* diphthong.
+* *Kotjo jena* is the "one" (or unique) deity (god). The ergative particle *jo* must be used because *qoqihara* is transitive.
+* The *-i* hanging at the end of *tzem* indicates it is conjunctive with *miqir*. The sky (heaven) and earth.
+
+--------------------------------------------------------------------------------
+
+Tzeme qomipes soxel jetz, qominuluqi: Nozu qominuz fix nulu liz nis. Ses kot liz jena qoqimolja nuz fix teliz topen.
+
+And the earth was without form, and void: and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+
+Notes:
+
+* *Ja* means actor or active or 'occurance'. *Mol* is "space" or "place". *Molja* is "movement".
+* *Qoqimolja* is "changed into the state of moving".
+* *Pes ... jetz* == 'without'. Add the past tense "existence" prefix *qomi* and you get *Qomipes soxel jetz*. (It) existed without form (shape).
+* You can also say *Tzeme qomisoxelum*. The earth was no-form. *-um* is the negative suffix and can also be placed apart. *Um tzeme qomisoxel*. The earth was not formed.
+* *Nuz ... topen* == 'along' (in a directional sense). It's an adverbial phrase here, modifying *Qoqimolja*. *Kar teliz* == 'face of the water', though probably it'd be more appropriate to say 'surface of the water' because the former is an english idiom. Currently, there is no word for "surface", volečku. Fix this. *Fix* == surface, from czech povrch. It also means skin or rind.
+* I've changed "darkness" to *nozu*. This can also mean "blackness". *Noz* is either "night" or "black", depending on context.
+* *Noz* is night. *Fenoz* is "concerning night", translating as "darkness". I'm not sure about this. There is no "essence of" particle, though. As stated, "darkness" is now *nozu*.
+* *Nuz ... nis* == 'on' (as in placement). To create past from a verb of "existence" (the present form doesn't exist in Lakife), add *qomi* to the preposition. *Nulu* is void or nothingness.
+* *Ses* is spirit or ghost. *kot jena liz* == Deity Unique Genetive-Particle. I'm not yet sure how ambiguous the placement of the genetive particle is. Originally, I wrote it *kotiz jena*. I'll go with pacing the particle after the head of the noun phrase.
+
+--------------------------------------------------------------------------------
+
+Kotjo jena qotzilak, «Jax miten». Qomiten.
+
+And (the one) god said, Let there be light: and there was light.
+
+Notes:
+
+* *Jax* introduces the jussive mood, to exhort something in third or first person, in this case, into existence.
+* *Jax miten*: Let there be light.
+* Using *af*, the hypothetical particle:
+* *Jax af miten*: If (only) there would be light! I would like there to be light!
+* *mi-* in the so-called "existential" verbal prefix. It creates an existential verb from a noun.
+* *Et mihiqa*: I am alive. I am living. *Et qihiqa*: I am becoming living (born). *Is mismet*: You are dead. *Is qismet*: You are dying (becoming dead).
+* Thus, *Qomiten* means "light (or day) became extant (or came into being)".
+
+--------------------------------------------------------------------------------
+
+Kotjo jena qotzilok tene. An qomitetz. Kotjo jena qotzitaf ten pes nozu topen.
+
+And God saw the light, that it was good: and God divided the light from the darkness.
+
+Notes:
+
+* *Tzilok* is to see, or, specifically present tense of "to see", from the noun *lok*, "eye". *Tzi-* precedes a noun, making it a "transactional" verb. Though this, as well as the other verb terminology is vague, you'll get used to it or be cast into the void. So, *tzilok* means the subject is having a transaction with the object, or, is "seeing" the object, absorbing its light, if you will. That's the transaction, vole. I also want to differentiate between *tziloku*, which is "to see passively" and *tziloka*, "to see actively (to look at)".
+* So how does one say "cast into the void"? First, we need a word that means "to throw". What noun can be converted into this? *Ja* is an action or transformation. *Molja* is a transformation in space, or movement. *Etjo tzimolja ferix kop kez liz pes ruzam topen*: I rapidly moved the goat's head from my hand. This is very Toki Pona-like. *Tzimolja ferix pes ruzam topen* is "Moved (in space) rapidly from hand directional". I'm sure this can and will be shortened.
+* *Is qetzuimolja ferix pes ruzam tin nulu topen*. Another passive phrase! You will be thrown (from hand) into the void. I employed an idea I'd thought about last night (2020-10-04) that multiple adpositional phrases that share the same "aspect" can be combined. IE, instead of *pes ruzam topen tin nulu topen*: from hand directional into void directional, simply *pes ruzam tin nulu topen*: from hand into void directional.
+* *Taf* is two. *Qitaf* is to divide. Perhaps this should be transactional instead of transformative. IE, *tzitaf* instead of *qitaf*. I'm not really transforming light (*ten*) into anything. Something to think about.
+* Directional again: *pes noz topen*: from the darkness. Perhaps nozu is better.
+
+--------------------------------------------------------------------------------
+
+Kotjo jena tenu petz Ten qoqilamu. Nozu petz anjo Noz qoqilamu. Ten pinu teni sopen qoqiten jeniz.
+
+And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
+
+Notes:
+
+* *Petz* is the dative particle, though one can use *peletz* if one is feeling poetically ruminant. From *pelis ... jetz*, "on behalf of". Place it after a noun to create an indirect object for tri-valence verbs.
+* *Lamu* is name / label / title. *Qilamu* is what you expect it to be. It's completely transformative. No questions there. By tri-valence, I mean it takes a subject (the namer), an object (the name) and an indirect object (what is named).
+* *Tenu petz* is "to the light", the dative of *tenu*.
+* *Ten pinu* is the end (*pinu*) of the day, or evening. *Ten sopen*, the start of the day, or morning.
+* The verb, *qiten*, means "to become light", or, in this case, "to become (the) day".
+* *Jen* is one. *Jeniz*, of one, or first.

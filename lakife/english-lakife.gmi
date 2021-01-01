@@ -1,0 +1,512 @@
+# Lakife
+## English -> Lakife
+
+=> gemini://thurk.org/lakife/index.gmi tzifur
+
+3d space - tixil 
+above / over / in place of - pir 
+abrupt  - kotzom 
+accelerate - tzisas 
+ace - kar 
+action / movement / transformation  - ja 
+active, laborious work  - sofora 
+actor / impetus / ergative particle - jo 
+adroit / dexterous  - par 
+adroitly - fepar 
+after (adv. in time) - potonolu 
+after / behind / beyond - potom 
+age - zar 
+aged - muizar 
+air - haqu 
+all quantities (greatest quantity?) - solek 
+alone / only - jenu 
+always - nolek 
+anger - rejx 
+angle - helu 
+animal  - hijuqa 
+anus - natol 
+apple - jatul 
+area of residence - peit 
+arm  - ruk 
+around / in spite of - rok 
+around / in the immediate vicinity of / circling  - rek 
+art  - laret 
+association / interaction - jetz 
+at / concerning / as a means of / to - fek 
+at the back - fespal 
+at the place - mofek 
+at the time - nofek 
+attain velocity - qisas 
+augmentation / rise - halja 
+augmmentation (in time) - nohalja 
+autumn (fourth of decline) - kekar (lipiz tetyk) tulja 
+baby - tex lizarotz 
+back - spal 
+bad - Plax 
+bad time - Nol plax 
+bag  - sak 
+bastard - petetar 
+be here query / invitation - pax mimole 
+be present query / invitation - paxom 
+because / for that reason - nozol(e) 
+before (adv. in time) - funolu 
+before - fur 
+beginning - sopen 
+beginning / start - sopen 
+being - hiq 
+below / under - nat / tul 
+besides / towards / in the company of - kon 
+between / through - tzuf 
+big (size) - mohal 
+bird - hiju letiz 
+birth - tihiqu 
+blackness - fenozu 
+blind - peloketz 
+blood  - tam 
+bloom - Piluf 
+boat - neimolja tel 
+body / form / shape - soxel 
+book - Kitab 
+bough - tafju pejer 
+bread - xep 
+break / crack / fracture / rupture - rox 
+brightness / radiance - peten 
+broken / cannot become functional  - qiharja paum 
+bus  - pus 
+cane (for walking) - pejer lan 
+cat  - kotz 
+child - tex lizar 
+child of same parent / sibling - tex tetiz jezor 
+church  - mokot 
+circle - Perpet 
+clone / duplicate - zora 
+close people / neighbours / roommates / flatmates - lanas pelimol 
+coffee - Tar 
+cold - sim 
+colour - tosin 
+colourful - fetosin 
+concerning night / darkly - fenoz 
+concert - soharju hup 
+consciousness  - rez 
+containment case (locative?) - naj 
+content (state) - mifelu 
+content - kofelu 
+contentment  - felu 
+cosmos / universe - fejs 
+country / state - tzem falun 
+countryman / fellow townsman / person in the same region - lanas peit liz 
+cover / top  - sykju 
+covering - map 
+crack / fracture  - rox 
+creation - har 
+crossed / perpendicular - miriz 
+cytoplasm / atmosphere / inner air / inner fluid - sipas 
+dance / drumming - sulex pefoja 
+danger - perik 
+darkness - nozu 
+dead / lifeless - hiqaum 
+death - Smet 
+death / afterlife / outside of life - sohiqu 
+decline - tulja 
+deity  - kot 
+dense - hais 
+designation? - lam 
+difference - kezip 
+diffuse  - seif 
+diminish - tzitul 
+direction - letz 
+discrete operation - harju 
+disorder / disarray / shambles - turos 
+dividing line / partition - xil li tzitaf 
+dividing line between land / fence - tzuf tzemju nis xil li tzitaf 
+division / branch - tafju 
+dog  - hun 
+domestic  - kopeit 
+down / below / low / little / less - Tul 
+duration - falu 
+during / about / among - fal 
+during little time (rarely) - Falipot 
+during much time (often) - Famupot 
+ear  - luz 
+early / just before - funolu mik 
+earth / ground / soil - tzem 
+east / towards the sun - peltet 
+egg - jet fosju 
+elaboration / performance  - soharju 
+ellipse / circle / orbit - lip 
+end - pinu 
+energize - qipefoju 
+everything - holek 
+everywhere - molek 
+excessive(ly) - pihal 
+exertion  - sulex 
+existence  - hiqu 
+expanding place / creation - hara 
+expression - posa 
+expression of joy - posa fela 
+eye  - lok 
+fake / false - zoru 
+falsely - fezoru 
+feces - xof 
+female - anja 
+few / infrequent - Lil 
+finalization - pin 
+fire - hapa 
+fish - hijuqa tel 
+flatmate / roommate - lanas pelimol peitu liz 
+floor - tunaham 
+flower - Folor 
+fly / hover / levitate - let 
+food  - jet 
+food with seed (fruit) (jet kon fosu jetz) - jet kofosju 
+foot  - naham 
+for all reasons - zolek 
+for no reason - zolum 
+for some reason - zolap 
+for this reason - zole 
+forest  - moles 
+fourth - kekar 
+Frequent - Mut 
+fresh - met 
+friend  - perital 
+from here - pemole 
+from seed (growth - of plants) - pefosa 
+front tooth - soqofur 
+fun / diversion / distraction - syt 
+functionality - harja 
+functioning / on - miharja 
+future - potonol 
+gamble / gambling - syt hutiz 
+general public quality opinion - folu (fe)lofez 
+general public superficial aesthetic quality opinion  - soxfolu (fe)lofez 
+glow - tena 
+goat  - kez 
+good - tetz 
+good time - Nol tetz 
+grain - sur 
+granfalloon / farse - falun 
+grass - xilja fen 
+great time / long time - hanol 
+green - fenu 
+greenness? - fen 
+guitar  - kitar 
+gullet / throat - jiz 
+half - ketaf 
+hand  - rukam 
+has utility / has the ability to be functional / "util" - paharja 
+have fun - tzisyta 
+head  - kapez 
+head - kop 
+hearing - luzu 
+heat - hap 
+hence / until / toward / on behalf of - pelis 
+here (this place) - mole 
+hidden - miusyk 
+hidden thing / hidden part - syk 
+high quality - folu hal 
+himself / herself / itself / yourself / myself - ar 
+historical / cultural knowledge - zanu 
+home / permanent area of residence - peitu 
+house / domicile  - peimu / peimapu 
+how much? - solit 
+how? - rolit 
+hunter - lasja 
+ice - sima 
+idea  - myxa 
+idle thought / daydream  - myxu 
+in / into / according to - tin 
+in every manner / way - rolek 
+in no manner / way - rolum 
+in peace / peaceful (state) - mifel 
+in some manner / way - rolap 
+in this manner - role 
+in this manner / way - role 
+increase - tzihal 
+inert (cannot be functional) - miharjaum pa / miharja paum 
+inflation (in amount) - sohalja 
+inflation (in space) - mohalja 
+instant - Nolju 
+intersection / perpendicular-ness / cross - riz 
+invisibility  - pelokja 
+invited person / guest  - lanas tzuipax 
+joke  - fatip 
+journey / sojourn  - sozen 
+joy - fela 
+joyful - kofela 
+jungle - moles hais hap 
+just (modifyer) - mik 
+kiss  - plez 
+knowledge - zan 
+label / name / tag - lamu 
+language  - lakif 
+large - ful 
+late / just after - potonolu mik 
+laugh - posa fela hupol / posa fela lak
+leg  - nak 
+leprosy - pasiz 
+life - hiqa 
+life-like sleep / dream - tomija 
+light / white / day - ten 
+light brown - pez 
+lightness / whiteness - tenu 
+line / queue (of people) - xil lanas 
+lip - ret 
+liquid - Tekut 
+little / short time - linol 
+little quality - folu lil 
+living thing - hiju 
+low quality - folu tul 
+lying (position) - miref tul 
+made (of) - muihar 
+made / created from particle - feha(ra) 
+make into nothing - txinul 
+male - anju 
+mammal - hiju jeliz 
+mammal - jehiju 
+many / much amount - somut 
+Mars (red planet) - Maret 
+meadow / pasture - tzem zir muihar xilja fen 
+meadow / pasture - tzem zir xilja naj fen 
+measure - xilu 
+meditative work - soforu 
+middle / nucleus / center / self / stable place - haru 
+middle quality / resonant quality / just right - folu haru 
+milk - jel 
+mist / fog - tel haquiz hais 
+model / representation  - zor 
+momentum / energy - pefoju 
+monkey - qulan tul 
+mouse  - mez 
+mouth  - hupol 
+move forward - txipefoja 
+movement  - molja 
+much (many) quality - folu mut 
+much time / frequent - nomut 
+music  - hupa 
+natural structure - tzexaif 
+nearness / proximity - pelimol 
+never - nolum 
+next - Sylet 
+Next thing - Hol sylet 
+night / dark / black - noz 
+no  - um 
+no amount / quantity - solum 
+noise / static - hupu 
+north / south / across the sun - kekotet 
+nose  - nos 
+not- functional / off - miharjaum 
+nothing - holum 
+nothing / zero - nul 
+now (this time) - nole 
+now - nole 
+nowhere - molum 
+obligation - mou 
+occasion (nolja sylet - next time. nolja mut - many times) - Nolja 
+of him / her / your / my / itself - ariz 
+offspring  - tex 
+old (many age) - muzar 
+on / along / because of / by using - nuz 
+once - jenolja 
+one and a half - jen ketafi 
+one continuous time? - Jenol 
+one to ten - Jen Taf Tir Kar Pet Sis Sequm Hoz Tef Seqen 
+opening / orifice - pol 
+opposite / across / against - kekon 
+opposite direction / away - kekoletz 
+origin - fos 
+origin thing / seed / egg - fosju 
+our star (the sun) - tetyk yziz  / tetyk soletiz 
+outside / out of  - sot 
+parent - tet 
+park  - mokolep 
+part / chunk / portion / piece - zipik 
+partition - xilitaf 
+past - funol 
+patiently  - pes myx fek nol jetz 
+peace - fel 
+peasant - lanlofez 
+pen  - lapis 
+pencil - Karen 
+person - Lanas 
+photon / star - tetyk 
+piece of land / plot - tzemju 
+piece of music - zipik hup 
+place - molju 
+place of sleep / bed - motomir 
+plain  - tzem zir 
+plane - taxil 
+plant - hijuqu 
+plot partition / fence - xilitaf tzemju 
+point / atom / dot / singularity - tyk 
+poison  - pozon 
+position - motyk 
+possibility - pa 
+possibly - fepa 
+prey  - lasju 
+primate - qulan 
+principal / main - jenju 
+prison  - turam 
+probability - hut 
+probably - fehut 
+quality - folu 
+quality of life - fohiqa 
+radiant - retena 
+rage - rejxa 
+rain (sky water) - miqitel 
+rapid - rix 
+rapidly - ferix 
+rat  - keris 
+rationality - rezu 
+receptacle / container - neit 
+red - maru 
+repeated  - Muta 
+request / query - pax 
+revolution / revolve - xir 
+rhythm - pefoja 
+rice - sur ten 
+rodent - holat 
+sadness  - smut 
+same(ness) / similarity - jezor 
+school -xaif zan 
+scorn / idle anger - rejxu 
+season (fourth of a year) - kekar lipiz tetyk 
+sensation (not touch) / emotion - posu 
+sheep  - lofez 
+shelter  - mapu 
+side - pilos 
+side - pilos 
+sight - tilok 
+sign / banner / flag - Sikul 
+silence - tix 
+silent - kotix 
+since / far from / from / without - pes 
+singular / unique - jena 
+sitting - miriz tul 
+skin - fix 
+skin / surface - fix 
+sky - miqr 
+sleep  - tomir 
+slow - pom 
+slowly - fepom 
+small  - mal 
+small child / offspring / cub - texotz 
+smell - nosu 
+smell - qouf 
+smile - posa fela ret 
+snow  - miqisimu 
+some quantity - solap 
+something - holap 
+sometime - nolap 
+somewhere - molap 
+soon - pelin(ol) 
+sound  - hup 
+specific time in the future (then) - potonole 
+specific time in the past (then) - funole 
+sphere / ball / round - sefu 
+spirit / ghost  - ses 
+sporadic - Mutu 
+spring (fourth of rise) - kekar (lipiz tetyk) halja 
+sprout / bud / embryo - fosja 
+squirrel  - holat les 
+standing  - miriz hal 
+straight / along / parallel - ref 
+structure / edifice - xaif 
+strut / support - pejer 
+sudden - sonulen 
+suddenly - rosonulen 
+summer (fourth of heat) - kekar (lipiz tetyk) hap 
+superficial aesthetic quality  - folu soxel 
+superficial aesthetic quality - soxfolu 
+taste - fiak 
+tea - Tzaj 
+tear - Soloz 
+the act of killing for food / hunt - las 
+thing / apparatus  - ju 
+third - ketir 
+this much - sole 
+this thing - hole 
+thought  - myx 
+thread / line / long thing  - xil 
+through / between - tzuf 
+tidiness / order / organization - jupoj(u) 
+time / duration - Nol 
+to create - txihara 
+to cut short (in time) - tzifalu 
+to drink - tzitela 
+to follow mindlessly  - tzilofez 
+to grow (of plants) - tzipefosa 
+to hear (bivalence) - tziluzu 
+to here - femole 
+to hide / to cover - txisyk 
+to know - txizanu 
+to last - tzifal
+to listen to - tziluza 
+to prolong  - tzifala 
+to rant - tzihupolax 
+to reside/ to dwell - tzipeit 
+to say (something) - tzilak 
+to senseschoolboy  - tziposa 
+to smell - tzinos 
+to swallow - tzijiz 
+to talk aimlessly - tzihupol 
+to turn - xira 
+to turn green - qifen 
+to yammer - qihupol 
+to yell - tzihupoluk 
+together  - kon ar jetz 
+tomorrow (next day) - ten sylet 
+tomorrow - ten potome (jeniz) 
+tongue  - lak 
+tool - xer 
+tooth  - soq 
+top / apex  - hale 
+touch - nufix 
+train  - suk 
+tree  - les 
+try (aspect) - fetou 
+turn / twist - hel 
+twice - tanolja 
+two - taf 
+two days ago - ten fure tafiz 
+two days from now - ten potome tafiz 
+undetermined time in the past - potonol 
+unit in space - moxilu 
+unit in time - noxilu 
+up / above / high / great / more - Hal 
+up until now - pelinole 
+urine - motz 
+vagina (copulatory hole) - tipol 
+vagina (spawn-hole) - tepol 
+vector - topen 
+vector / course - letza 
+vehicle - neimolja 
+velocity - sas 
+Venus (green planet) - Fenut 
+very early - funolu mikuk 
+very late - potonolu mikuk 
+violin  - filin 
+visibility - lokja 
+vision - fison 
+void / limbo - nulu 
+water - tel 
+water vapor - tel haquiz 
+west / along the sun - nutet 
+what thing? - holit 
+wheat - sur pez 
+when? - nolit 
+where? - molit 
+why? (for what reason?) - zolit 
+wide / broad  - zir 
+wild - pepeit 
+wind / air  - sesa 
+winter (fourth of cold) - kekar (lipiz tetyk) sim 
+wisdom - zana 
+wish / hope - tou 
+without life / lifeless / dead - pehiqa 
+word - lem 
+work - sofor 
+writer - lankaren 
+year - lip tetyk 
+yes  - i 
+yesterday - ten fure (jeniz) 
+young (little age) - lizar 

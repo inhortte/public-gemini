@@ -1,0 +1,18 @@
+# I believe I'll need some sort of image representation
+## Topics: blog
+## 2013-12-23
+
+Now, inline images have always been a problem. What if the link doesn't exist anymore? Well, I must maintain them in a proper place, then! I suspect that will be on the server itself. IE, the link will have to be local. Yessiree. So, let's give it a whirl.
+
+=> /images/blog/228_01.jpg San Sebastian [IMG]
+
+Now! Isn't that lovely? I'll find out the answer to that question in a few moments.
+
+The simplest solution has now been implemented. Now I am off to gnash my teeth during my dreams.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

@@ -1,0 +1,46 @@
+# Blind drunk and creative
+## Topics: creativity, music, programming, aesthetics, frustration, stonecrop
+## 2014-01-15
+
+Yesterday, I reached an impasse with the *Think Like A Mink* programming project. I hit a wall with ember.js[1] and was either too frustrated or too lethargic to deal with it. In the past, especially in a employment environment, such frustrations have led to stress. I am further carried upon the stream to unproductive agitation when this occurs. I have found that stepping back from a project for even a few days is the best solution. I shall do that now.
+
+Of course, when pondering this topic, *Stonecrop* and *Steve* come to mind. I'm all for planning and creativity, but Steve took it to an extreme. I believe others had the same problem I did with his methodology. As far as I know, he carries on this very day with the same *hovno*.
+
+Research and design can only come so far. Perpetual research and design is ultimately distructive to productivity. If the end goal is to vomit out ideas but never implement them, I'd not be typing this on this very fine piece of word processing software called Vim[2]. The denizens of *Stonecrop*, however, could not stop. Thus - the product was sloppy, irresponsive and ultimately a lumbering hunk of machinery without any aesthetic form.
+
+When Jeremy and I decided to do something about the hack process, we were shot down over and over again by the *quick and dirty* attitude that pervaded the company (I laughingly call it that). Idealists to the marrow, we soldiered on and created the basis for a product that could flexibly expand to greatness. Fruition did not happen. The *Mountain Weasel* is dormant. I suspect she is only hibernating.
+
+*Think Like A Mink* is wholly different. I am just stepping back for a day or two. My first goal when stepping forward again will be to deal with these few issues:
+
+* Ember Data Store and its Promise mechanism.
+* Pluralization rules gone awry (User model).
+* Returning the current user via authorization key.
+* Breeding Palm Civets[3] in a fossilized Ground Sloth's[4] bladder.
+
+--------------------------------------------------------------------------------
+
+Since *Think Like A Mink* is on hold for today, I shall carry on with the *Flavigula* musical project. The next piece will not follow directly from *The Fen* and *Hela...*, but will contain vocals. Yes, I must convince Christián to sing it.
+
+If this will be the case, there is the consideration of lyrics. After reading the liner notes to *Le Poison Qui Rend Fou* two days ago, I'm going to go with Roger Trigaux's premise that any sufficiently *meaningful* lyrics will take away from the composition itself. They will readjust the focus to something that is not my intention. So, whether I create the words or I just hand that job over to Christián (him willing, samozřejmě), their nature is to be whimsical.
+
+I only have a vague notion of how the piece will run. As with every piece of music I have ever created, its shape will contort into something previously unimagined during the composition process. Another element I need to pay more attention to is the actual timbral variety and mixing. I am decidedly sloppy at especially the latter. Improvement is needed or punishment involving cysts on my uvula. Perhaps I can have my pyloric sphyncter bifurcated. Humans are in need of another path of excretion. I'll lead the way into a new age of hominid morphology.
+
+Having listened many times to Richard Pinhas's new album Desolation Row[5], I shall opt for a moog-like sequence percolating behind what will most probably come to be chord sequences. I may toy with creating a melody over no chord sequence, but am unsure how that would turn out. Linear counterpoint is fun, but not really in the spirit of these *Flavigula* sessions.
+
+#### What is that spirit?
+
+*It is the spirit of aleatoric composition.*
+
+
+=> http://emberjs.com 1: http://emberjs.com
+=> http://www.vim.org 2: http://www.vim.org
+=> http://en.wikipedia.org/wiki/Asian_palm_civet 3: http://en.wikipedia.org/wiki/Asian_palm_civet
+=> http://en.wikipedia.org/wiki/Ground_sloth 4: http://en.wikipedia.org/wiki/Ground_sloth
+=> http://www.cuneiformrecords.com/bandshtml/pinhas.html 5: http://www.cuneiformrecords.com/bandshtml/pinhas.html
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

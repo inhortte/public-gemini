@@ -1,0 +1,16 @@
+# The IT Crowd
+## Topics: psychology, programming
+## 2011-10-04
+
+I postulate that **IT** humans who are more interested in hardware and low-level programming (such as machine and assembly code and possibly C) are more likely to be interested in repetitive, logical tasks. They are also the ones who listen to *Techno* whilst working (and whilst doing other repetitive activities).
+
+Others, who enjoy the elegance of high level languages are more creative, more holistic, and overall better people.
+
+Heh.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

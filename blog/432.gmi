@@ -1,0 +1,12 @@
+# Beat Borrowing
+## Topics: metaphysics, philosophy, absurdity
+## 2019-07-09
+
+Kant was very specific about the difference between a *Phenomenon* and a *Noumenon*. The perception of sonic information creates the *phenomenon* of music. I find this an initially clear view of the dichotomy. One could name the waves buzzing from my near field monitors the *noumena*, but they lack interpretation. To confound the issue, an oscilloscope, though distant from intelligent machines to come, interprets these *noumena* quite differently than our brains. The sensory apparatus of the machine is not unlike our eardrums, but the brain of the machine translates incoming waves into organized vector graphs. This *phenomenon* itself is a *noumenon* on a different level. Our eyes interpret it into a different *phenomenon* - that is, a representation of a sound wave as we know it with light. In this sense, there are endless tiers of *phenomena* interpreted from *noumena*. Is there a base *noumenon* from which all springs? I'd like to believe it's an infinite recursion.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

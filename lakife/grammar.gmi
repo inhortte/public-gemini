@@ -1,0 +1,254 @@
+# Lakife - some grammar ideas
+
+=> gemini://thurk.org/lakife/index.gmi tzifur
+
+### to have
+
+* Kon ... jetz == with ...
+* Et kon kolep jetz: I'm with a pigeon
+* Li introduces a modifyer phrase
+* Piluf sylet li kon soloz jetz: Another weeping bloom
+* Piluf (s)ylet: next bloom
+* la kon soloz jetz: that has a tear
+* Qikon af ... jetz: to want. *af* is the hypothetical particle. Literally "i hypothetically have" or "were i to have".
+* et qikon af li lofez qisylet (jetz): I hypothetically have that a sheep becomes another. I want another sheep.
+* jetz should be understood with want
+
+### one of your pidgeons
+
+* like in czech: jeden z tvých holubů
+
+### spatial
+
+* near: at the side of - konis == beside
+
+It is near (at my side): an konis You are near: is konis You are near (beside) me: is kon et nis You are here. Is mole. I'm coming (to you). Et qikon is topen. I'm coming there (to your place). Et qitin mole isiz. to stay, remain, wait: mikonis I'll wait until tomorrow: et mikonis pelis ten sylet (pot). Fek ten sylet pot et qeqikez. Tomorrow, I become a goat.
+
+* proximous
+
+It is proximous: an pelonis You are proximous: is pelonis You are close to me: is pelis et nis You are by (at) my side: is fek pilos nis
+
+* far: without touch
+
+It is far: an nufixum / an pes nufix nis. It is without touch. You are far from me: is pes et nis
+
+* distant: unseeable
+
+Is fek tilokum topen. You go out of sight / no sight. Anju qoqifek tilokum topen. He left. Anju qomimole um. He became not here. He left. Is fek nufixum topen. You go out of touch / no touch. Et sot mole topen. I go out of this place. I'm outta here. Joz sot mole topen. Get out of here. You are very distant (you are outside of this space): is sot mole nis
+
+* near (communication): with words
+
+you are near (you are with words): is kolam jetz (is kon lam jetz == literally they have words)
+
+* far (communication): beyond words
+
+they are far: solan pelam jetz (solan pes lam jetz == literally do not have words)
+
+* distant: with silence
+
+she is distant: an(a) kotix jetz
+
+* side: pilos
+
+
+* back: spal
+
+
+* at the back: fespal
+
+
+* I'm at the back: et mispal (I exist in the back - more permanent?)/ et fespal
+
+
+* body / form / shape: soxel
+
+
+* head: kop
+
+
+* sky: miqir
+
+
+* face: kar
+
+
+* skin / surface: fix
+
+
+* foot: naham
+
+
+* floor: tunaham (from tul & naham)
+
+
+* earth : tzem
+
+
+* middle / stable place: haru
+
+
+* expanding place: hara (creation)
+
+
+* position: motyk
+
+
+* sitting / squatting: mi-riz tul
+
+
+* lying: mi-ref tul
+
+
+* standing: mi-riz hal
+
+
+* et qin haru nis: I am in the stable place (home?)
+
+
+* an tzunis: it is in the middle (in the between)
+
+
+* lanase tul fek ses jetz: that person is low in spirit. Spiritual sense. Not depressed.
+
+
+* lanase tul fek haru jetz: that person is low in stability / home-place. Depressed?
+
+
+
+### Time
+
+* nole - now
+* noljae - this instant
+* funol - past
+* funolu - past discreet time
+* funola - past indeterminate span
+* funola jeniz - once (during one span of time in the past)
+* potonol / potonolu / potonola - future
+* pelis nol lil pot - in little time/ soon
+* pelin(ol) - soon
+
+### pronouns
+
+* et / solet: I / we
+* yz: We, exclusive
+* is / solis: You
+* an: he / she / it
+* anju / anja: he (male) / she (female)
+
+### verbs
+
+* existence, change into a state, transaction between a source and a beneficiary, and part or quality of a whole
+* qi- ... change into a state
+* hupu qihupa: the noise becomes music
+* hapa: fire, qihapa: to become fire, qoqihapa: burned, qeqihapa: will burn
+* kitap qihapa: thebook becomes burning
+* anja jo qoqihapa kitap: she burned the book
+* hara: creation: qihara: become extant, qoqihara: made, qeqihara: will make
+* pro-verbs?
+* rolihara: to do in this manner (thus)
+* et(jo) txihara rolit? Do I do it this way?
+* et rolitihara? Do I do it this way?
+* is txihara holit? is holitihara? What are you doing?
+* pepir: from above. qipepir: to begin to fall
+* mi-: existence
+* mitzunis: to be in the middle / float
+* mifonis: to be among / mingle
+* qifonis: to become part of / join
+* et mifonis kon lanas sol jetz: I'm mingling with people
+* et mifonis kon myx sol etiz jetz: I'm among my thoughts - thinking hard?
+* et mitzunis kon myx sol etiz jetz: I'm floating (lost) in my thoughts
+* et fol myxu nis: I'm among my daydreams.
+* mikon af (jetz): to need
+* isjo mikon af tam. She needs blood
+* is mikon li tet anju isiz qismet: She needs her father to die (she needs that he father dies)
+* tzi- transaction
+* tzimyx: to think
+* tzimyxa: to have an idea
+* etjo tzanon tzihupa: i music (play on an instrument) the song
+* etjo tzanon tzihup: i sound (play) the song (on a stereo)
+* Qisylet: to become another of / another. Always in clause.
+* Qijen: to become one with (join)
+* is qeqijen kon is jetz. I will join you.
+* tzilok: to see. tziloka: to look (at)
+* anja jo sopen teniz tzilok. She saw the dawn (beginning of the day)
+* anjo sopen teniz tziloka: She watched (looked at) the dawn
+* laugh AT... normal ERG ABL verb ... no preposition is needed
+* *Etjo qotxiposa fela hupol kez.* I laughed because of the goat. Or the goat made me laugh. This does not mean I made fun of the goat.
+* I smiled because of the goat. *Etjo qotxiposa fela ret kez.*
+* I smiled at the goat. *Et qotxiposa fela ret pelis kez.*
+
+### adjectival clauses
+
+* xebe li soletjo qotzikomu (an): that bread that we ate (it)
+* anju li qomilankif qoqikuraf: he who was a drunkard became a prostitue.
+
+### nouns
+
+* mark all subjects of transitive verbs ergative (jo)
+
+### adverbs & connectives
+
+* zas: again
+* Zas is qikon af tam. She wants blood again.
+* Mou zas is qikon keris. She needs a rat again
+* jena: singular
+* jenu: lone, only
+* potot: afterwards
+* mofek: at the place
+* nofek: at the time (then)
+* ronuz: in this / that way (referring to the previous phrase)
+* pelja (pelis ja nis): almost (near the transformation)
+* hal ... jetz: instead of (in the "place" of)
+* x tzuf mole y liz: x instead of y
+* x fal nole y liz: x in spite of y
+* fal ... jetz: in spite of
+* *nuzole* - because. ends the phrase that starts with *li*.
+* *Li et mikonum hiqa nuzole pa is kon kez etiz jetz.*
+* Because I am dead, you can have my goat.
+
+### conjunctive
+
+* -i: and. miqir tzemi: heaven and earth
+
+### idiomatic?
+
+* et kon myx isiz jetz (nis?): I am with your thoughts (I agree)
+
+### pejorative
+
+* It would be funny if the context tells you whether or not you are being pejorative
+
+### aspect
+
+* incohatove - qi- (intransitive): *lok sol kes liz qoqinoz*. The goat's eyes darkened (became dark)
+* CAN - *pa* particle.
+* volitive - *tou* particle.
+
+### valence (see book)
+
+### phrases
+
+* *Pelis pinu noliz pot anja kez fek nulu topen tzihupol.* Until the end of time, the goat-like woman yammers into the void.
+
+### comparatives
+
+#### coordination
+
+*Anju somut anjao*. Boy much-amount girl-comparative. More boys than girls. *-o* is the comparative suffix, which works the same as *-i*, the conjunctive suffix. *somut* is "more" (much amount). *somute* is "the most" (amount). *nomute* is "the most" (time). *momute* is "the most" (space). *Ten teno fure kez somut qotzifek mole*. Today day-then the-before goat many past-to here. Today, more goats came than yesterday.
+
+### Subjunctive
+
+* whatever. *hole af*.
+* anywhere / wherever. *mole af*.
+* whatever you want. *Hole af li is qikon af.*
+* wherever the sheep needs to go. *Mou mole af li lofez tzifek.*
+
+### Subordinate clause xof
+
+We are going home to feed the goat. *Yz fek peite topen lijo kez peletz txijet.* We to home direction that-ERG goat DAT TRS-food.
+
+* I'm not sure *jo* is needed.
+
+We're arriving soon to eat the goat. *Pelin yz mimolap topen lijo kez tzijet.* Soon we be-somewhere direction that-ERG goat TRS-food. Let's go to the place that has contented goats. *Jax solet fek mole li (an) kon kez sol kofelu.* JUS we to place that it with goat PLU content. **an** is only needed if the subject of the subordinate clause is ambiguous.  I see the village that we're going to. *Etjo txilok peitotz li solet fek an.* I-ERG INC-eye village that we to it.
+
+*role* can introduce a subordinate clause or simply a noun phrase. It means, roughly, "how". *Kez jo kop ariz qotzirox role naham etiz.* By-the-means foot my. *Et kon zanum role kez qoqihiqaum.* i with knowledge-not how goat past-incoh-life-not. i don't know how the goat died.

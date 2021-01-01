@@ -1,0 +1,26 @@
+# Angelic voices needling my uvula
+## Topics: music, blog
+## 2013-10-29
+
+I found a very annoying bug in the input 'script' for martenblog last night. I was too tired, however, to fuck with it. The fault of the mistake is mine. My lack of Node understanding caused it. The Entry module has a line like so:
+
+```
+module.exports = Entry;
+```
+
+It recently was like this:
+
+```
+module.exports = new Entry();
+```
+
+My suspicion is that the new Entry object is created **ONCE** at program initialization. So, when multiple files like this one are published, the _id of the first is preserved. Therefore, each subsequent file overwrites the original. Entiendes?
+
+This is a seemingly useless addition to this post.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

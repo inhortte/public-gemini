@@ -1,0 +1,19 @@
+# The dreaded and leprous lethargy
+## Topics: phlegmatism, clojure
+## 2012-05-19
+
+I wonder how I managed to be so productive in *Seminole* during December 2010 and January 2011. It is a mystery since now I spend my time lolling about reading useless forums. I was musically active then. I wrote 30 000 words of a novel which is yet to be completed. I need to get off my ass mentally and produce **something**.
+
+I must admit that I have finished (I say the word a bit laughingly) the *martenblog* in Clojure and it is running on Heroku. Next! Assign a real domain name to it, *Bobbus*. Jah. Bluehost will become dead in the water. I'll probably not pay for it in December. By some sort of miracle, money will begin rolling in from grey holes all around, financing sites in the *clouds*. For üheksakümmend üheksa bucks a month, I can have unlimited dotcloud[1] uptime. First, I must get something like this blog running as an example there. Eventually lutreola has to go somewhere that supports the Java (and therefore Clojure) platform. That means a cloud service like Heroku[2] or dotcloud[3]. There are many other choices, of course. These are just the two (actually mostly the former) I've been tooling with. Jah.
+
+
+=> www.dotcloud.com 1: www.dotcloud.com
+=> www.heroku.com 2: www.heroku.com
+=> www.dotcloud.com 3: www.dotcloud.com
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

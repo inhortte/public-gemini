@@ -1,0 +1,17 @@
+# Scrub the javascript from that old, mouldy boot, please
+## Topics: javascript, programming, blog
+## 2013-12-19
+
+The *prototype* version of **blog_to_mongo** is not grabbing topics, arranging them, finding their ids, and scrunching them into the *topic_ids* array of the *entry* in **MongoDB**. We'll see if it is now and revisit this post shortly.
+
+Excellent! I'll consider this **bug** closed. Speaking of which, I need real bug tracking for these projects. I'll defer to github[1], I **guess**.
+
+
+=> http://github.com 1: http://github.com
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

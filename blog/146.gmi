@@ -1,0 +1,12 @@
+# Clojure and its smirkless tetrahedron
+## Topics: idiocy, future
+## 2012-05-14
+
+This is a test post. If it works, it shall be the first time that my Clojure-coded martenblog will have been able to add new entries to the database.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

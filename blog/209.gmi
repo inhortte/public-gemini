@@ -1,0 +1,26 @@
+# The fall of the hedonistic software firm
+## Topics: stonecrop, quiet, hedonism, introversion
+## 2013-11-20
+
+I'm reading *Quiet*. Yes - I've been reading this book sporadically since April. I do love it. That is not an issue. My scattered thought patters and erratic behaviour is the cause. But I'm not particularly concerned about these causes or symptoms at the moment. See... I'm reading *Quiet* and I am on a muted train bound from Miranda de Ebro to San Sebastian. The mustelid brain is trusting of the future.
+
+I quote *Quiet*.
+
+> The papers turned out to be chock-full of irregularities. If I'd been in the bankers' shoes, this would have made me nervous, very nervous. But when our legal team
+> summarized the risks in a caution-filled conference call, the bankers seemed utterly untroubled. They saw the potential profits of buying those loans at a discount,
+> and they wanted to go ahead with the deal. Yet it was just this kind of risk-reward miscalculation that contributed to the failure of many banks during the Great
+> Recession of 2008.
+The topic is risk-reward. Well, no, the topics are *Stonecrop*, *Quiet*, *Hedonism* and *Introversion*, as anyone reading the top of this entry can clearly see.
+
+I made the *Stonecrop* connection whilst reading this section of the book. The parallel is clear. It is unmuddled. Doug and Steve and Poggi are acting exactly like the bankers describe in the above quote. They are obsessed with immediate risk-reward. Any reward which is delayed, no matter quality of results, is not as important. Jeremy says they have hired an additional four *Rails* programmers. I suppose that brings it to five, including Fred. Jeremy continued to muse about them all **buzzing** (my word - not his) in the increasingly cramped office but never moving forward. I suspect he means *never moving forward to my satisfaction*, but the idea still holds.
+
+I was brought on in May. This risk-reward seeking seemed evident from the first. Steve, especially, the epitome of extrovert, pushed. Undoubtedly, he was being psychologically kicked around by Doug. As Jeremy always claimed, Steve was led on by the golden carrot in front of his nose. I have no doubt that Jeremy was/is right.
+
+Jeremy and I, both introverts, longed to create something over the long term which was quality, expandible and modular. This brought us nothing but misery. Ok - it wasn't exactly misery, but close.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

@@ -1,0 +1,26 @@
+# Reduction
+## Topics: music, alfred
+## 2011-01-18
+
+As I was attempting to fall asleep at approximately 1.00 in the morning, I was musing over the last piece of the album. It's name is **Reductive**, since there is a many to one mapping from each of the other pieces to it. I have also decided to title the other *Untitled* piece **Injective** since all of its themes can be mapped exactly to one theme of the following piece, **Fold**. Well, actually, we'll see about that name later.
+
+##### So back to the purpose of this entry.
+
+I was musing also during the morning hours about **Reductive**. It will be in *7/4*. A single bassoon note will begin. All alone, it will paint the initial two measures. The bass will begin on the third beat of the third measure, playing a repeating pattern which lasts three beats. Well, much like this:
+
+```
+(Elegant elk?)
+Layout    | * * * * * * * | * * * * * * * | * * * * * * * |
+Bass      |     x x x     |     x x x     |     x x x     |
+Rhodes    |         x x   |         x x   |         x x   |
+Bassoon   | - - - - x - - | x - - x - - - | - x - - - x - |
+```
+
+The *x*s are the beats on which the instruments play. The *-*s in the case of the *Bassoon* are a continuous note, the *x*s being the places where the note changes. I'll possibly keep this same rhythm, in the spirit of minimalism, throughout, though variegating the harmony. With regard to the name **Reduction**, one theme from each previous piece will be included, scaled down and most likely transformed.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

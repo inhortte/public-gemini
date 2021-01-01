@@ -1,0 +1,16 @@
+# The Meat Locker of Earlthly Desires
+## Topics: absurdity, blog, elixir, hashtag
+## 2019-08-09
+
+The initial purpose of this entry is to test a new #blog functionality. An astute reader will notice the hash symbol in front of the word *blog* in the previous sentence. After reading about the Linux / MacOS command line application *JRNL*, I decided that dispensing with my ubiquitous *topic header* shall be done today. The original format of these entries, all written in either *Emacs* or *Vim*, of course, since I am **old school**, is a series of headers terminated by newlines. One of them is *Topic*, after which is listed a comma delimited list of topics an entry pertains to. I've come to realize that being **old school**, though attractive to all the Romanian Prostitutes roving these parts, isn't always the ideal state of being. Indeed, the *ideal state of being* is ever changing, or *progressive*, if you will.
+
+Speaking of Romanian Prostitues, I've been made aware that they may be of help with #Elixir regular expresions. Growing up in Romania, especially in the cluttered berg of Deva, has its advantages, you see. Young girls are raised to be one thing or another. That's an *inclusive* or. The first, as the peruser of **Martenblog** may have guessed, and given its references in this and the previous paragraph, is a *Romanian Prostitute*. The second, as the peruser of **Martenblog**, being swift in mental capacities, should have assumed by now, is a *Elixir Regular Expression Guress*. **Guress** is the feminine of **Guru**. As their male counterparts swelter on mountainsides and in Slivovice distilleries, these soon to be defouled innocents are schooled rigorously in both trades.
+
+Returning to the topic, absolutely no pun intended because I despise puns and find them the lowest, peasanty humour available, bubble-like and crude, is that a #hashtag in the body of an entry creates a topic much like the aforementioned comma delimited list. Now to test. Go fetch yourself a Romanian Prostitute.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

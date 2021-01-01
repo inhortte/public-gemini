@@ -1,0 +1,124 @@
+# When Sylvie opens a discussion, we all become translucent
+## Topics: music, thinklikeamink, programming
+## 2014-01-13
+
+Today's special writing music is *Open* by **The Necks**. I am pretty sure that my parents will interrupt me during the piece, as it is approximately one hour long.
+
+Yesterday, I spent most of my productive time grinding my molars on the bones of a Palm Civet. That is, I was getting authentication to function on the previously named *Radiotracking* site. The new moniker is, of course, *Think Like A Mink*. Though my *journal* is currently also hosted here, the main point of purchasing the domain name was to have a stable place to host all things related to Project Lutreola[1] and whatever I decide to call Madis's pursuits in the Ebro valley.
+
+#### My fingernails are encrusted with blue.
+
+I finally, after trying the *roll yer own* method and ember-auth, I went with ember-simple-auth[2], as it is complient to openid hovno and I suspect I should have learned that standard (by standard, I mean *hovno*) long ago. After allowing myself to be authenticated, I pushed the repository and became lackadaisical for the remainder of the evening. I even ate some potato chips. I purged afterwards.
+
+Today, I need to finally put together some sort of roles / permissions per user. This moment is meant as a brainstorming session.
+
+* Users are associated with a project.
+* Users can be associated with multiple projects.
+* Projects are associated with organization.
+
+Tiit wrote the other day:
+
+> YES, UNDER ONE ORGANIZATION SEVERAL PROJECTS. I WONDERS IS THERE SOME SORT
+> OF SITUATION WHEN TWO ORGANISATIONS ARE JOINTLY RUNNING A PROJECT, THEN ONE
+> IS LEAD-ORGANISATION.
+If I go with this method, however, then my current hierarchy (though not fully realized programmatically) will be reversed. Projects will be the peak carving on the totem pole. Organizations will point to them. Users will be associated with both, independently.
+
+*Ugh.*
+
+Furthermore, animals could be associated with various projects. I don't see as much of a problem with achieving this, however. Right now, when an animal is returned from the database, one gets the following json:
+
+```javascript
+{
+  "animal_id": 2675,
+  "frequency": 442,
+  "nickname": "Magda",
+  "sex": "Female",
+  "birthdate": "2012-05-18 00:00:00",
+  "release_date": "2012-08-25 00:00:00",
+  "microchip": "233388",
+  "enclosure_type": "",
+  "release_site": "",
+  "remarks": "",
+  "release_location_N": 0,
+  "release_location_E": 0,
+  "deathdate": "2113-05-10 00:00:00",
+  "cause_of_death": "",
+  "species_id": 1,
+  "project_id": 1,
+  "id": "5",
+  "species": {
+    "name": "mustela lutreola",
+    "id": "1"
+  },
+  "project": {
+    "name": "saaremaa 2012",
+    "abbr": "s2",
+    "organization_id": 1,
+    "createdAt": "2014-01-06T02:47:31.610Z",
+    "updatedAt": "2014-01-06T02:47:31.610Z",
+    "id": "1",
+    "organization": {
+      "name": "project lutreola",
+      "abbr": "pl",
+      "createdAt": "2014-01-06T02:44:51.935Z",
+      "updatedAt": "2014-01-06T02:44:51.935Z",
+      "id": "1"
+    }
+  }
+}
+```
+
+This butters my muffin dandily. If the animal is associated with more than one project, then I can turn "project" into "projects" and dump an array. That's about as cute as the Palm Civet I just flayed, boned and chewed.
+
+Users can be associated with animals, also. I'll create a "keepers" (or just "users") key that holds an array of them. Following Tiit's comment, however, one *user* will most likely be the *leader*.
+
+When I hit the url /projects, I get something like the following...
+
+```javascript
+{
+  "projects": [
+    {
+      "name": "saaremaa 2012",
+      "abbr": "s2",
+      "organization_id": 1,
+      "createdAt": "2014-01-06T02:47:31.610Z",
+      "updatedAt": "2014-01-06T02:47:31.610Z",
+      "id": "1",
+      "organization": {
+        "name": "project lutreola",
+        "abbr": "pl",
+        "createdAt": "2014-01-06T02:44:51.935Z",
+        "updatedAt": "2014-01-06T02:44:51.935Z",
+        "id": "1"
+      },
+      "animals": [ ... ]
+    }, ...
+  ]
+}
+```
+
+I'll replace "organization" with "organizations" and shove an array in there, supplanting the dastardly object or hash or whatever it's called these days in the fecund land of javascript naming conventions. I should just call it *Tasty Palm Civet Marrow*. So, the array I'll **shove** in there will be full of *tasty palm civet marrow*.
+
+Organizations will result in a similar layout.
+
+--------------------------------------------------------------------------------
+
+Looking and listening back on my realization of The Fen[3] a few days back, I'd like that plucked violin to be replaced with an actual instrument. My avid reader may recall that I mentioned a *mandolin* was originally intended there.
+
+I'll approach Christián or Ryan about it today. There will be a few rules they'd have to follow, however, in doing the deed. It must be a note by note rendition, of course, and no flourishes or improvisation is allowed. They'd be free to choose timbre, though, as long as it complimented (and certainly did not interfere with) the rhodes part.
+
+The screechy bit at the end could also call for a maniacal distorted guitar over the bass and harmonium. I'll approach Ryan with that one, as I do not think Christián has an electric with him. In fact, I don't even know if he has a guitar with him at all in the foul pit that calls itself Myrtle Beach.
+
+I shall inquire.
+
+
+=> http://lutreola.eu 1: http://lutreola.eu
+=> https://github.com/simplabs/ember-simple-auth 2: https://github.com/simplabs/ember-simple-auth
+=> https://soundcloud.com/flavigula/the-fen 3: https://soundcloud.com/flavigula/the-fen
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

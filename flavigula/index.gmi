@@ -1,0 +1,53 @@
+# Flavigula
+
+This space is intentionally a part of the void.
+Having stating the credo of this site and our lives, but before expounding on what may, to some, appear to be a type marmot or ware-bunny, please visit the releases page.
+
+=> releases.gmi Flavigula Releases
+
+-------------------------------------------------------------------------------
+
+As stated on the bandcamp page and possibly in other places:
+
+Flavigula wavers in crepuscular zones, modulating among ripples and maelstroms, within spectra of snow and hailstones. Neither she makes delineations among the pleasing and unsightly, nor distinctions within the crystalline, shifting phase. Bounding in abstract landscapes, she thrives.
+
+Of course, that is slightly pretentious and says nothing about the musical project itself. I, the writer of these pages, am the main composer and player, although my compatriot in sound sculpting, Christian Michael Newman, can be credited with myriad ideas and end-game scenarios. The bassist in "residence", a Kris Boudreau from Moncton, New Brunswick has also contributed to recent arrangements (whether he knows it or not).
+
+-------------------------------------------------------------------------------
+
+The appropriately titled new album, Za Rušení[a] is available as of 7 December of the current epoch.
+
+Our previous album, a so-called main-sequence album, Jēmaraz[b], was released by Submarine Broadcasting Company[c] on 15 September. It's a delicate balance between weirdness and psychedelia. Well - that is what I am told. One can also hear it on Funkwhale[d].
+
+Were you not compressed into a singularity by the previous paragraph, you'd visit myriad other places suited to Flavigula listening:
+
+Firstly, our bandcamp[e] page.
+
+Secondly, the thurk.org funkwhale[f] is brimming with both current and antique Flavigula. These include Omnivorous Expanse[g] (also on Bandcamp[h]), a project with Tim Rowe, and Bricked-up Cupboard[i], a collection of tunes that may or not be refined for future "release".
+
+Speaking of Tim Rowe, his music can be found on bandcamp[j].
+
+And Kris Boudreau has a number of fantastic atmospheric releases[k].
+
+Furthermore -
+Upon the venerable Audius[l] floats Flavigula albums.
+Our lucrative Spotify[m] home is aching for a few streams.
+The humble hovel that is Deezer[n] pines equally. 
+Amazon, Apple Music, etc, also carry our stuff.
+
+=> gemini://thurk.org/index.gmi tzifur
+
+=> https://flavigula.bandcamp.com/album/za-ru-en a. Za Rušení at Bandcamp
+=> https://submarinebroadcastingco.bandcamp.com/album/j-maraz b. Jēmaraz at Submarine Broadcasting Company
+=> https://submarinebroadcastingco.bandcamp.com/ c. Submarine Broadcasting Company itself
+=> https://funkwhale.thurk.org/library/albums/21/ d. Jēmaraz on Funkwhale
+=> https://flavigula.bandcamp.com e. Flavigula Bandcamp
+=> https://funkwhale.thurk.org f. Thurk.Org Funkwhale
+=> https://funkwhale.thurk.org/library/albums/14/ g. Omnivorous Expanse on Funkwhale
+=> https://timroweflavigula.bandcamp.com/releases h. Omnivorous Expanse on Bandcamp
+=> https://funkwhale.thurk.org/library/albums/7/ i. Bricked Up Cupboard
+=> https://timrowe.bandcamp.com/ j. Tim Rowe on Bandcamp
+=> https://kynduum.bandcamp.com/ k. Kris Boudreau on Bandcamp
+=> https://audius.co/flavigula l. Flavigula on Audius
+=> https://open.spotify.com/artist/6hHcK3iE7Yc58gekrURJez m. Flavigula on Spotify
+=> https://www.deezer.com/en/artist/64909162 n. Flavigula on Deezer

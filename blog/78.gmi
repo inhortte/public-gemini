@@ -1,0 +1,42 @@
+# More Project fucking Euler
+## Topics: project euler
+## 2010-12-22
+
+I am proceeding with my attempt at Project Euler Problem #254[1]. It revolves around reversing functions. *g(i)* is basically the reverse of *sf(n)*. What I am doing is taking an Integer (*i*) and returning every number *k* with the following property: If one adds up the digits in *k*, one comes up with *i*. Here is my code so far (see if you can spot the obvious error before I continue!):
+
+```
+listToInteger :: [Integer] -> Integer
+listToInteger xs = listToInteger' $ reverse xs
+    where listToInteger' [] = 0
+          listToInteger' (x:xs) = x + 10 * listToInteger' xs
+
+integersAddToInteger :: Int -> [Integer]
+integersAddToInteger i = sort . map listToInteger . digitsAddTo . take i $ cycle [1]
+
+digitsAddTo :: [Integer] -> [[Integer]]
+digitsAddTo [] = []
+digitsAddTo [x] = [[x]]
+digitsAddTo xs = thirdSet xs ++ secondSet xs
+    where secondSet xs    = digitsAddTo $ [first xs] ++ rest xs
+          thirdSet (x:xs) = map (x:) . digitsAddTo $ xs
+          first (a:b:xs)  = a + b
+          rest (a:b:xs)   = xs
+```
+
+When I call, for example, `integersAddToInteger 5`, I get this:
+
+```
+[5,14,23,32,41,113,122,131,212,221,311,1112,1121,1211,2111,11111]
+```
+
+Now, the obvious error is that if I want to find all *k* for an *i* greater than 9, the function `digitsAddTo` will begin using double digit numbers. I shall now attempt to fix this problem.
+
+
+=> http://projecteuler.net/index.php?section=problems&amp;id=254 1: http://projecteuler.net/index.php?section=problems&amp;id=254
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

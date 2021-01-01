@@ -1,0 +1,17 @@
+# The Altruist in Me
+## Topics: clojure, clj-record, open source software
+## 2011-10-11
+
+I just finished my contribution to clj-record[1], an open souhttps://github.com/inhortte/clj-recordrce[2] *wrapper* around *clojure.java.jdbc* which imitates (rather meekly at the moment) Ruby's *Active Record*. I added the *has-and-belongs-to-many* association. The code is here[3]. Now I can truthfully add *open source contributions* to my CV. Heh
+
+
+=> https://github.com/inhortte/clj-record 1: https://github.com/inhortte/clj-record
+=> https://github.com/inhortte/clj-recordrce 2: https://github.com/inhortte/clj-recordrce
+=> https://github.com/inhortte/clj-record/blob/master/src/clj_record/associations.clj 3: https://github.com/inhortte/clj-record/blob/master/src/clj_record/associations.clj
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

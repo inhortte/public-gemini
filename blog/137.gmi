@@ -1,0 +1,22 @@
+# Ruby has found a Clojure.
+## Topics: clojure, martenblog, sheepblog
+## 2011-10-09
+
+I've begun porting **Sheepblog** (IE, this thing you are looking at right now) from *Ruby/Sinatra* to *Clojure/Noir*. I am in the beginning phases, but I believe that the database schema will stay the same for now.
+
+#### New features
+
+* When not creating or editing a post, topics will set the session key :topic to the topic's id. Any look at /rutabaga will show only posts which pertain to the set topic.
+* Multiple user capability. Hopefully Christopher will eventually post something.
+* Comments, by user or anonymous.
+
+### First problem!
+
+*clojure.contrib.sql* no longer exists. Or, rather, it exists in an outdated form which breaks everything in sight with an unsightly **getRoot not found** or somesuch error. Use *clojure.java.jdbc* instead.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

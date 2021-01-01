@@ -1,0 +1,22 @@
+# Once you remove his liver, the chicks will snub him
+## Topics: blog, programming, clojure, nodejs
+## 2015-12-23
+
+I am not Shambal Brambel, but I know him. He is a greasy *spic* who sleeps on park benches beneath seven month old newspapers. You smell him from several hectometers away. He produces expansive and even at times artistic puddles beneath his place of rest simply by drooling during his slumber.
+
+I plan to kill him. Perhaps I already have and do not remember.
+
+--------------------------------------------------------------------------------
+
+The purpose of this post is to test whether blog_to_mongo.js still works on my new system. If it does not, I shall kill Shambal yet another time. The good thing about immortals is that you may slay them various times, each with pleasure.
+
+During the next few internet blackout days (in Fresneda), I want to rewrite the bulk of martenblog in **Clojure**. The original was in Clojure using Noir, which has not been maintained in ages.
+
+However, blog_to_mongo.js, if it is still functional, will remain, at the moment, as a script to be executed in Node.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

@@ -1,0 +1,42 @@
+# Älläï
+## 2019-12-16
+
+
+
+"Allai" is the idea of looking yonder, up, over there, or on the bright side. It is the vast, yawning abstraction that engulfs you from any one of those places.
+
+It's also the name of a plastic penguin that our imaginary flute player had as a child. That penguin meant everything. Please consider this whilst you listen.
+
+Bob Murry Shelton - guitar, myriad effects, a modular synth named "THE FURNACE", Supercollider, sneezings, brief mutterings
+Christian Michael Newman - pink fuzz, voice, palmas, extensive mutterings and caffeination
+James Anthony Hogard - bass
+Matthew Riley Walsh, Attorney at Law - piano
+
+Music composed by Bob
+Lyrics to Fold by Christian
+Lyrics to House of Strength and Love by Bob & Christian
+Edited and arranged by Bob & Christian
+Cover art by Christian
+
+Thanks to Daniel García for inspiration.
+
+
+
+=> release/allai/allai-flac/01-bon-bon-incident.flac Bon Bon Incident
+=> release/allai/allai-flac/02-fold.flac Fold
+=> release/allai/allai-flac/03-cake-eater.flac Cake Eater
+=> release/allai/allai-flac/04-portrait-of-a-wife.flac Portrait Of A Wife
+=> release/allai/allai-flac/05-rotary-dial.flac Rotary Dial
+=> release/allai/allai-flac/06-crack-open-the-barrel.flac Crack Open The Barrel
+=> release/allai/allai-flac/07-shambal-trundles-to-the-osmium-pits.flac Shambal Trundles To The Osmium Pits
+=> release/allai/allai-flac/08-still-life-with-shotgun.flac Still Life With Shotgun
+=> release/allai/allai-flac/09-buddha-wore-a-pistol.flac Buddha Wore A Pistol
+=> release/allai/allai-flac/10-glancing-bow.flac Glancing Bow
+=> release/allai/allai-flac/11-house-of-strength-and-love.flac House Of Strength And Love
+
+
+=> gemini://thurk.org/flavigula/releases.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

@@ -1,0 +1,50 @@
+# Split septum
+## Topics: programming, blog
+## 2011-01-18
+
+An *irritant* is quivering about within the sheepblog code. When a new entry is created, the time of the entry is always one minute past the hour. I searched for the error earlier, but came up with nothing. The culprit code must be in here somewhere:
+
+```
+(Elegant elk?)
+post '/new' do
+  if !get_user
+    redirect_with_message '/login', 'You are not loged in, vole.'
+  else
+    m = %r{^\s*(\d\d\d\d)[-/]?(\d{1,2})[-/]?(\d{1,2})\s*$}.match(params[:arbitrary_date])
+    timestamp = if m
+                  mysql_time Time.local(m[1], m[2], m[3], 23, 59, 59) rescue my sql_time(Time.now)
+                end
+    entry = Entry.new(:subject => params[:subject],
+                      :entry => params[:entry])
+    if entry.save
+      if timestamp
+        entry.created_at = timestamp
+      end
+      params['topics'].split(',').each do |t|
+        topic = Topic.first(:topic => t) || Topic.create(:topic => t)
+        entry.topics << topic
+      end
+      entry.save
+      redirect turnip_link_from_time(entry)
+    else
+      flash[:notice] = 'Problems:'
+      entry.errors.each { |error|
+        flash[:notice] += "<br />" + error[0]
+      }
+      redirect '/new'
+    end
+  end
+end
+```
+
+I want everyone reading this to send me an email[1] with your thoughts on what could be causing this caustic anomaly.
+
+
+=> mailto:inhortte@gmail.com 1: mailto:inhortte@gmail.com
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

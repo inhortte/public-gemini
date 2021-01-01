@@ -1,0 +1,26 @@
+# Working on this here blog thing
+## Topics: blog
+## 2006-12-05
+
+```html
+<p>This is really just a test post, so don't get your hopes up for something deep, philisophical, lurid or otherwise interesting at all.
+```
+
+My desk is a bordel. My brain is foggy with notions which are half-formed. I need to flee my workplace and hop on bus 49, on which I'll be sped away to a liaison (sortof) with bus 44, which will whisk me to a patch of cement which is within 7 minutes walk of my place.
+
+I should definately implement "multiple topics" per entry. I am wondering about the user interface, however. A comma seperated list? A list box for predefined topics? A dilemma! As for this test post:
+
+```html
+<pre>
+  code deleted for aesthetic reasons...
+</pre>
+```
+
+That should make things into paragraphs! I just thought of a possible problem, however. If I were posting boatloads of code, It would paragraphify it even if it were between 'pre' tags (or 'code' tags). Uff. Ah fucking well.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

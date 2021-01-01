@@ -1,0 +1,26 @@
+# Drugged and left for dead in Montana
+## Topics: psychology, west texas, goals, programming, ruby, seminole
+## 2010-12-14
+
+The first order of the morning is to comment on the negative atmosphere in which I have chosen to write. My mother and father argue constantly and consistently with voices which rip apart any concentration on the beings around them. Well, I assume their bickering affects everyone in the same way it affects me, but I can, of course, not be sure.
+
+I fell asleep sorely disappointed in myself. I had a list of things I wished to accomplish and only one even came close. Still, it was also not completed. I wake up refreshed and tell myself it will be a far more fruitful day. Perhaps. We shall go to Hobbs and meander around doing little, however. I'll take a novel which Christopher sent me weeks ago. I'll begin it since it seems to call to me, lying limply on the night stand. In case we go to the casino, which I assure everyone that we shall, I shall fold a new pocketmod so that any thoughts which spill from my beta-mind will not be lost in the noise, smoke and passing minutes.
+
+Another goal will be to create a simple blog which will do pretty much the same thing as 750words.com. I'll put it up on fucksheep where blog.fucksheep.org once resided. I know the code for that is still up, but it is ragged and unfinished (though functional). All I really need is a simple blog. I'll dump the entries table from the database and create a new table which will fuel the simple blog. I've decided on sinatra for a web framework, so I must update Ruby and its various gems. Perhaps I'll compile Ruby 1.9.2 on fucksheep. Oh, boy. That will be fun. I wonder if it will even work. If not, I'll stick with 1.8.7.
+
+One of the failed goals from yesterday was to begin writing about cognitive biases and evaluate myself in light of each one. There is an extensive list on wikipedia. Of course, I shall not go through all of them, but I'll guess my goal encompasses about 74%. Christopher, in our conversation two nights previous, and I decided to write about each other in the light of the cognitive biases, as well. He thought that getting an outside perspective would also be fecund. I thought the idea was splendid, but the more I imagine it, the more I believe it will be exceedingly difficult. He claims that our fundamental personality does not really change. I am worried that since we have not actually spent time in each others' presence in a consistent fashion in many years, that the evaluation will be skewed by fragments of memories we have of each other from years ago. Well, it's still an interesting experiment. Yah?
+
+Writing of cognitive biases: The first one I was to expound on is Anchoring. My mother just demonstrated an interesting example of it. She asked me from the small breakfast bar who I was talking to last night before going to sleep. She then quickly added 'Tony?' Though I answered loudly and clearly 'I was talking to Jana,' and she was looking at me, obviously paying attention, she replied asking me if he was doing fine, obviously still having Tony locked in her mind. Of course, she could have misheard me, but I don't think so. I am pretty sure my parents both exhibit anchoring to an extreme. I am not sure if it is their age or just a trait of their personality. She locked onto Tony because she was expecting him to be my answer. It's truth before proof. I could also assume this is a Confirmation Bias on a short term. That is, her belief that I was talking to Tony was not swayed in the least by contradicting evidence.
+
+I have been informed that we are going to the casino. Well, I shall enjoy myself. I have a small shittypie full of music, so I shall be happy in that. I should snag a novel now. They are calling me to come. More later.
+
+I have returned after winning about $450. I find that I do better when I am listening to very abstract music. I especially noticed the coincidental powers of 'Blemish' by David Sylvian.
+
+Looking through the Rspec/Sinatra pages I have discovered, I believe it will take only about 4 hours of work to put everything together I wish for the small blog. Getting up and running on fucksheep is another matter, of course, and will look into that after I have completed a working replica on mustela-ermina. I shall first write here (this is my plan) every day, then retype into the blog, revising a BIT. We'll see how it goes. Most likely, I'll eventually abandon 750words.com and put my 'morning (which are not wholly morning and most likely never will be) pages' directly into the blog. I have dubbed it, even before its birth, but certainly after its conception, 'sheepblog', for obvious reasons.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

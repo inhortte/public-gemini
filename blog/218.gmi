@@ -1,0 +1,14 @@
+# Oh, you squirrely javascript!
+## Topics: blog, programming, javascript
+## 2013-12-18
+
+As an experiment, I'm switching from the *Module* pattern of the **Entry** object to the *Prototype* pattern (and likewise to the *prototype* git branch). This humble post is a **test**. Soon, we shall see if it has worked.
+
+And, by fumbling around with the methods (ie, sending the object **this** to each fucking one), I have made it work. Cute, eh?
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

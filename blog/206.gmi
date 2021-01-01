@@ -1,0 +1,22 @@
+# Nightly, I yearn for morning bed sores
+## Topics: writing, illness, progress, programming, introversion, disconnection
+## 2013-11-13
+
+I wished to write every day in Spain, but I have slacked horribly. I am consumed by illness. Yes, it is only sinusitus, but it has taken me prisoner. Its cage is my bloated head. One three trap hike with Madis this morning destroyed me and I had to be returned to *home*. The last days have gone similarly.
+
+I awaken early, judge whether it is practical for me to go help with the trap-checking, have discovered it practical both yesterday and today, and accompanied. I was wrong about my ablities today. Yesterday, I was spry and unweary. Like it or not, my nodding reader, I was proud of myself.
+
+The afternoons have been spent learning EmberJs to create the front end of my blog. It is a frustrating process. One problem that I have noticed (and this is a problem that has a long history in **all** of my learning endeavours) is that I get to a point in the documentation where I want to experiment and I leave off reading it. I just start trying to make something work. When it does not immediately function, instead of going back to the documentation, I bash around with various hackey solutions until I give up in frustration. This method of *work* must change soon.
+
+Madis summoned me to lunch (14.00 - this is Spain, vole) where I found Christina, Asun and a man I'd never seen before *chatting* in the living area of their flat. The man, whose name I do not recall, turned out to be very loud, talk-happy and generally annoying. That was my first impression. As anyone who knows me in the slightest might understand - I initially dislike loud, boisterous people. They grate on me. I'm a soft spoken dude, vole.
+
+I realize once again that Spain is a very extroverted country. Or, mayhap, the culture forces even the introverts to act like extroverts. Spaniards gather in larger groups than I am normally used to and hurl words back and forth at one another, mostly not bothering to let anyone else finish a statement or question before voicing their own. I must get used to this behaviour to an extent, as I am planning to live in Logrono beginning in March (and perhaps earlier).
+
+The cold, frozen landscape - personality - of the north calls me at times like this.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

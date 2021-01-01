@@ -1,0 +1,36 @@
+# The wolf howls in mock delight (on a Tuesday, no less)
+## Topics: fresneda, change, music, spanish, relationships
+## 2015-08-18
+
+Tuesdays come at us from all angles. And by that I mean *every* angle possible. This includes those angles not able to be perceived by human grumpiness. Truly, Tuesday is a day of change, and, as the omniscient Michal says, every day is Tuesday. Therefore, every day is a day of change and of opportunity. This Tuesday is bright and full of clouds - a good beginning.
+
+If all goes as planned, I leave Fresneda today for *home*. Currently, as any reader might recall, home is Logroňo. Several things await me in Logroňo. The most important one to me at this moment is my guitar. I shall concentrate on lessons with my guitar. It is my hope that I will transcend other problems that I shan't mention right now with this *concentration*.
+
+Music has always been a defining factor in my life. It needs to be back in full force.
+
+Second is study of spanish. *El Principito* is good reading material. It is within my grasp. I need to proceed through a bit of it every day and accumulate vocabulary and fix proper phrasal construction in my mind. I also have the idea to go to *Santos Ochoa* and ask for a good *Espaňol para Extranjeros* book. And / or scour the internet.
+
+Third is a return to creativity in programming. *Lua* is an interesting language I could replace Ruby with for scripting.
+
+* Reinstall from source.
+* Install documentation.
+* Rewrite some of my Ruby scripts in Lua.
+* Investigate creating Android apps with Lua.
+* Recreate the *Addition* app in Lua.
+
+#### The ionosphere was not built in a day.
+
+**This I know.**
+
+I've listed aims in journals in the past, mostly in vain. My problem is that I usually lack focus. I drift. *Mis pensamientos están desperdigados*. Perhaps I take on too much simultaneously. Perhaps I get frustrated and give up too easily. Perhaps I am just a cunt.
+
+What I cannot put in my enumeration because it is overreaching is my relationship with Marisa. I have felt alienated whilst here, but as people disappeared and just a few remained in Fresneda, I felt better and better psychologically. Yesterday was particular telling. Our journey to *Pozo Negro* was frustrating in the *vehicle* because the conversations escaped me, for the most part, and, besides, I drifted. The actual time at the *pozo* was bonding. That is, besides the nasty průjem attack I had! Errrggghh.
+
+She doesn't want me to leave today. She said it in words, in both English and Spanish but more telling was her face. She was almost pleading. I'll see her again soon.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

@@ -1,0 +1,31 @@
+# Survival as a ritual
+## Topics: habits, ritual, stagnation, creativity
+## 2014-01-20
+
+I deny ritual outright. I see positive and negative consequences. Firstly, most ritual denies spontaneity. The compulsion even to have that morning cup of coffee before anything else after dragging oneself out of a comfy bed deletes anything residual from dreams. They fade quickly.
+
+I need again create a dream diary. In the past, it has spawned stories and poems - even sometimes music. I've arranged lines of code in unfamiliar fashions because of dream piques.
+
+I've returned to a ritual, as I always do when I am with my parents in Seminole. Today is time to delete it. I mustn't set specific schedules. If I feel like writing when I awaken, I can deny myself that first cup of coffee for even hours as I work on *November*. Sometimes musical flourishes arrive in dreams. They can be captured upon awakening with Lilypond[1] easily.
+
+I do walk in the arid park every day. These walks are never at a specific time, however, and are geared towards Spanish vocabulary. This semi-routine was ridden with more creativity in past lives here. I'd pause at random benches (there are fourteen, methinks) and scribble small epithets about a certain position of the atmosphere. I, even now, use those as jumping off points for weirdness.
+
+I am most concerned when a ritual becomes a habit. *Habit* implies to me something done in a similar manner repeatedly but without much thought. Rituals, though repetative, can be carefully planned each time, though a template is always the starting point. I've written elsewhere that habits frighten me. The more ingrained they become, the more one is a slave to unconscious processes.
+
+Beyond ritual and habit comes stagnation. When I was a child, I was fascinated by small programs which created virtual robots on the screen of my **Tandy Radio Shack Hovnisimo Shittypie** that *learned*. Initally, the robot was placed in the center of the play area - a bounded arena containing various obstacles. It set off in a random direction. Each time it collided with an obstacle, it'd remember its velocity and angle of impact. Then, it bounced off at a random slant. Again and again it gathered data until it found the easiest circuit within the arena. *The path of least resistance!* It no loger had to gather data because it'd be ensconsed in a routine. A ritual. A habit.
+
+My parents are like those virtual robots. They have, over years and years living in my ex-grandmother's house in Seminole, found their path of least resistance. Being a bit more complex than a virtual robot, however, their habits deviate occasionally, but are mostly set in *ahem* (red ((sand))) stone. Even though their jobs are in the dim past, weekends are reserved for cleaning the house. This example strikes me as bizarre - scary.
+
+Mealtimes are also set. I believe they would be even if my mother did not suffer from cukrovka.
+
+Modifying the details of rituals may give them more life, more intellectual stimulation. I've noted before that even tiny variation in lifestyle invigorates me. John once told me that I gravitate towards change.  That was in 1995. Yeah, I still do. Ritual is fatty between dendrite and axon. Habit is akin to death (muscle memory not included). Shave a different species every morning. Don't just stick with goats.
+
+
+=> http://lilypond.org/ 1: http://lilypond.org/
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

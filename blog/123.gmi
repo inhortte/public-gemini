@@ -1,0 +1,30 @@
+# The Gaarden of Hearthly Delights
+## Topics: music, displacement, cycle
+## 2011-07-13
+
+I do not think I have ever listened to this album before, though it has come up often in forums I have read, and even perhaps in one or two conversations. The title is to the point: **I Advance Masked**. It is, as some may know, by *Robert Fripp and Andy Summers*, and I am not sure why it is on the hard drive at the moment. It was staring at me from the top part of the Amarok artist listing, sandwiched between *Alvin Curran* and *Bearded Seals*. I stared back, so it is now the soundtrack of these words.
+
+I am in the **BRIDGE** *Bar - Eating House* in Terminal Three of London Heathrow Aeroport after discovering that they take Euros (17 of which occupied my walled). It is a pleasant enough place and the intertwining guitars block out the dull roar of its ambient noise. I am en-route from Praha to Boston. The final destination is Seaforth. The contrast in level of tranquility will most likely be astonishing.
+
+My original intention was to work on music. Specifically **Cycle** *Parts VI and VII*. That will not happen, however, because I do not have *Lilypond* installed on *Mustela-Ermina*. Why I neglected this when installing *Ardour* and the like to pursue my first musicking outings after the reinstallation of the operating system (with Arch Linux) is beyond the feeble computing power of my mind at the moment. (It must be either the lack of sleep or dearth of neural activity in general which has plagued me over the past weeks to blame.)
+
+I suppose I could sketch the idea which is in my mind and in doing so perhaps fill it out a bit more.
+
+Cycle left us at the end of a meandering path which could seemingly wane and wane into a pasture, growing fainter and fainter as it wound further. *Part V* ends ambiguously, stumbling in 3/4 time, punctured with syncopated *bassoon*. (It's not really a bassoon, you know.) Originally, I intended to bring *Part II* crashing back in with a sort of dissonant majesty. I no longer feel this way. I like the meandering path analogy. It fades.
+
+*Part VI* shares structure with *Part II*. It is based on a foundation of three notes: *F E Ees*. In *Part II*, the progression added the *E* again at the end, creating an edginess underpinning a majestic melody. I want the melody to be more subdued this time.
+
+In the spirit of things, I'll reverse that *progression* this time, beginning with *E*. I'll just check if that'll work with the end of *Part V*. One moment, please, whilst I check the sheet music.
+
+*Part V* ends on an *E*, with a *d e* hanging above and *gis a* beginning the final measure. Then *Part VI* begins by resting on *E*, though switching back to our familiar *F major*. I play with my favourite modal scale here, the *A phrygian*. First, after this pedal point is established (which will not change as often as in *Part II*), an ostinato begins. It toys especially with the *bes*, which is the *second* of the phrygian scale. Another important point is the ambiguity between *F major* and *Bes major* (again). The ostinato, especially when the pedal point shifts to *Ees*, feels like *A locrean*. This ostinato repeats for the whole of *Part VI*. No. Parts of it drop out (the higher registers) to make way for the melody (the same which is in *Part II*), which subtly blends with it. An intesnifying factor will be the mellotron which builds dissonantly as the *E Ees E F* foundation begins shifting more rapidly.
+
+Then there is *Part VII*, a *reprise* of *Part I*.
+
+I am happy with what is currently in my mind. I must install *Lilypond* whilst at John's this evening, however! (Or in the morning.... oh, meandering mind).
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

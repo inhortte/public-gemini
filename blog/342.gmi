@@ -1,0 +1,33 @@
+# I stared at at the fissure in her eye-pit until I was color blind
+## Topics: music, lifestyle, relationships
+## 2016-01-22
+
+The sound of tape unsticking itself from its roll, being severed by a razor, and then applied to rough cardboard fills the air amid the music of *Amarok* that spills from my telephone to my right. More and more often, I find myself, during these days bereft of *Galictis-Vittata*, listening to music in the manner of teens on the metro in Prague. They blast from the tinny speakers of their mobiles crass dance music engineered for precisely that environment.
+
+#### And I am doing the same now.
+
+The pitiful difference is that what I am listening to, and what I usually listen to, has a dynamic range that prances over the music of those oblivious teens. It prances then tramples their music to mulch. How I wish it would trample the teens, as well! I can see their twisted bodies protruding shards of bone. Their faces are frozen in screams of incomprehension. This mental picture allows me to smile for the seventy-third time today.
+
+#### I am a happy mustelid.
+
+I increasingly see a gulf between the lifestyles of Marisa and me. The main contention (I call it a *contention* now, but it is really no more than an observation at this point) is that I am a lazy, easy-going marten who has little to no stress affecting his furry life. Marisa, on the other paw, goes few waking moments without an air of hurry. Time is not her friend. In fact, she is a slave to it.
+
+#### I refuse to be.
+
+Only predetermined spans during any particular day allow her to relax. During these segments, she disconnects. She is a different person. Besides sleep, which is always something altogether alien to all else, it seems to me that only these two modes exist:
+
+* Hurry hurry run run *corre!!!*
+* Disconnection
+
+The latter can involve trancelike states with either films or a book. I find it hard to imagine her enjoying many acts that give me joy. Take *cooking*, for example. I have not actually *seen* her in her day job, but I imagine the atmosphere is pretty much the same. Her preperation of meals is not an art or even a craft. It is a race with the hands of that nefarious clock that hangs on the wall adjacent to the kitchen's exit into the garden. Every task in *state number one* is marked by an alarm (silent or not). She is a slave to time.
+
+I ponder, as says my newly created Clojure / lastfm web application, that this vascillation between two *poles* is normal and I am of the outre.
+
+#### Bipolar is a frightening status quo.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

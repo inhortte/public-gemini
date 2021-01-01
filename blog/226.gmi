@@ -1,0 +1,27 @@
+# I bow to pesky pattern recognition
+## Topics: javascript, programming, blog
+## 2013-12-23
+
+I have just rewritten the script which slurps up new blog entries. This time, instead of whatever the first pattern was I used (lack of pattern at all - ie, haphazard?) or the prototype pattern, I have opted for the elegance of the module pattern.
+
+Have I tested it?
+
+**No.**
+
+Is this entry part of the test?
+
+**Yes.**
+
+So, thirty or so minutes later, I have completed this so-called module pattern. The code can be seen here[1].
+
+It is high time to begin translating the radiotracking software from Ruby on Rails to Sails (node.js). The funnel of the evening is sucking me towards sleep, though it is still early. Perhaps instead of spending my remaining waking hours peering around sagging eyelids and attempting to code, I'll scoop out the innards of my sinuses, cartilage and all, puree it with olive oil, avocado and cashews, and attempt to feed it intravenously to the neighbourhood calico.
+
+
+=> https://github.com/inhortte/blog_to_mongo/blob/module_pattern/lib/entry.js 1: https://github.com/inhortte/blog_to_mongo/blob/module_pattern/lib/entry.js
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

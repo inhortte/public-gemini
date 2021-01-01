@@ -1,0 +1,68 @@
+# Lakife - various ideas
+
+=> gemini://thurk.org/lakife/index.gemini tzifur
+
+## Greetings
+
+#### My goat ate your unborn child.
+
+How to express "unborn" - or, for that matter, "born"? Child can be *tafel*. Kez etiz jo tzijet tafel isiz. The goat ate your child. Ten sopen kez retenaim. The morning is a radiant goat. (Good morning) Kez kon nulu topen. The goat is approaching the void. (Good evening)
+
+## Verbal aspect
+
+Does Lakife need imperfect? Able to - *pa*. Volative (hopes / wishes) - *tou*. Attempt . *fetou*.  Obligation (must) without and with volition (respectively). *mou* / *moua*. Suggestion (should). *uqa*, *uqaja* (more obligatory) Habitual. *sou*. Habit. *souju*.
+
+## Mood
+
+Imperative - *joz* (only second person) Hortative - *jax* (any person)
+
+## Conditionals
+
+### if - then
+
+1. If phrase doesn't imply anything in thhr then phrase: normal verb / normal verb
+2. hypothetical future: nv / future
+3. counterfactual: subj / subj
+
+## Metaphor
+
+### 
+
+Metaphor must be taken into consideration or metaphors from a conlanger’s own language will be unconsciously borrowed into the conlang.
+
+* Lofez kon tomir li an mihiqa jetz - sleep that is alive
+* The sheep has sleep that is alive (it is dreaming).
+* Lofez tzito(mi)hiqa.
+* The sheep dreams.
+
+'lauschen' is such a pretty German word. It's more than listening, it implies that you are very quiet yourself and attentive. Etymologically it comes from being hidden (thus extending to secretly listening). 'lauschig' - cozy, secluded. It's almost onomatopoetic, if were to make an artificial cut (lau = mild, tepid; sch.... for hushed).
+
+To cover & to hide are basically the same thing. *syk* is "the hidden thing" or "unseen thing". *miusyk* - hidden
+
+Face / surface Get sciency here Use names for the interior if a cell or atom metaphorically. Nucleus of a song or book == its principal part. Contrast English uses "heart". Lakife also has *haru*, which could also mean nucleus.
+
+Sleep soundly... sleep beside the silence of creation. Mitomir kon tix haraiz.
+
+## Metonymy
+
+## Direction
+
+Let's use geometry. She looked around == she observed all vectors  Letz == direction. Anja jo qotxiloka letzek.'
+
+### aesthetics
+
+Pleasing to me -  Pleasing to the sheep  Abhorrent to me Abhorrent to the sheep
+
+### jetz / nis / topen / pif / pot
+
+* associate with. agentive.
+* make all these words agentive.
+* *Tin moles nis etjo kez qotxijetz.* In the forest, I was associating with the goat.
+
+*Nuz kez jetz etjo peitu txinis af.* I want to make space at home for goats.
+
+##### random
+
+*qimoljaum* means "become without movement". Probably something shorter for "stop" is in order.
+
+Something decides me: That event or object made me make a decision.

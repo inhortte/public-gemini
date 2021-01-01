@@ -1,0 +1,89 @@
+# The disintegrating guitar in my left ear is beguiling
+## Topics: music, hopeforwildlife, hosting, blog
+## 2010-12-24
+
+Hello, Irritating Day! I am irritated at you. You are, as some say, an irritant. So, yesterday evening, if I failed to mention it in yesterday's writing, which, if I recall, had very little or nothing to do with what I actually did during the day, I signed up for the hosting service 'Bluehost' because those using their service have SSH access. Well, this excited me. I want to host all my Sinatra apps somewhere (besides Fucksheep, which I haven't pursued so much lately, though I shall at some point). Let's concentrate on that parenthetical statement for a bit here. I just checked the Apache configuration file on Fucksheep and see that if I run an application on port 6666, it will be accessible at blog.fucksheep.org, and if I run an application on port 9090 (or something like that), it will be accessible at polaris.fucksheep.org. Well, this happifies me. I'll set up the Sheep Blog there and maybe also on Bluehost.
+
+#### Ok - Bluehost
+
+I transferred martesmartes.org from limedomains (which was a waste of time and money) to Bluehost. I also snatched martesmartes.net from out of the flux of unclaimed domain names. What has caused my frustration during the past few hours is attempting to get the Hope For Wildlife site up and running on Bluehost. I want it to be accessible at hfw.martesmartes.org so that Allison and Hope can take a look at my progress and comment during the development (which is happening every day now!). I need their feedback so I do not have to backtrack. Well, this is understandable and even a small Nigripes would understand so I shan't continue about such matters. What is important is that it *doesn't fucking work*. I am getting an `Internal Server Error` and am unsure how to track it since the site works fine on *Mustela-Ermina* and logging doesn't seem to have any effect on martesmartes.org. Perhaps I just burned myself out. I am stepping back at this moment and shall reconsider the matter either tomorrow morning (if I have time before we are all off to the Casino in Hobbs) or in the evening. After I achieve functionality of one Sinatra app, any following one will be a cinch. That reminds me that I should snatch up thirstily siralfrediv.org and siralfrediv.net.
+
+After writing yesterday evening, I began working on the Loopy piece. Before going into details, however, I'd like to address my lack of creativity in *naming* the pieces. We have *Intersection* and *Union*, both of which I like, but we also have *Loopy*, *AcyBob* and *Reprise*, all of which are not to my liking. An idea was to name everything from set theory (note the first two names), but I glanced through the Haskell Data.Set library and found little, unless I want to name something 'foldr'. Hm. Actually, that is a good idea. I'm going to rename 'Reprise' to 'Foldr'. It is a smooshed together piece containing many of the ideas in pieces which will come before it on the album. So, that is that. I'm happy I have achieved something by creating this paragraph. It amuses me that I am actually using themes from *Foldr* as I complete the other pieces. The result is the same. I'll continue the naming convention when I get into *AcyBob*. Let's take a look through the Data.Set library once again to see if we can find something which adequately describes *Loopy*. So wait a moment. Ok. I am going with *Filter*. The piece is a number of ideas tied together by a single theme, which is the 5/8 7/8 ostinato and simple atmospheric chords which churn on for long stretches. Yes. *Filter* it is. And I shall call *Foldr* just *Fold*.
+
+After completing this, I'll do my best to finish *Filter* to the extent that I finished the other pieces (that is, not really at all, but good run throughs and fleshing outs to be considered even closer on second scrutinies). Here are my notes:
+
+7/8
+
+* 2 cycles of 'groove' - 5 measures each.
+
+
+* 4 cycles of 'groove' - with birds guitars.
+
+
+* 2 cycles of nothing - with ascending tuneless guitar
+
+5 measures of 7/8 and 7 measures of 5/8.
+
+I want to add rhodes at the first of each measure.
+
+
+* 6 cycles of 'groove' - That's 15 bars of 7/4 or 30 of 7/8.
+
+21 measures of 5/4 with 5 beat guitar phrase repeating. E
+
+Put rhodes and drum on every other beat.
+
+Starts at 37.
+
+37 + (5 * 21) = 142.
+
+
+* 4 cycles of 'groove' - with atmospheric guitar in repeating 7/8. A
+
+This is where the BEAT kicks in.
+
+Make a string melody for this. Perhaps Tony-vocal.
+
+
+* 4 cycles of 'groove' - with atmospheric guitar in repeating 5/8. D
+
+Add some strangeness to this. Let the rhodes do something simple.
+
+Like some 'jazz chords'.
+
+
+* 2 cycles of 'groove' - with atmospheric guitar in repeating 7/8. G
+
+There is a distorted guitar during this, but take it out.
+
+Add string melody for this.
+
+
+* 2 cycles of 'groove' - with nothing over it. F
+
+Add rhodes stuff from Reprise, but it 5/8, plus strings.
+
+
+* 2 cycles of 'groove' - with atmospheric guitar in repeating 7/8. G
+
+There is a distorted guitar during this, but take it out.
+
+Add string melody for this and Tony vocal.
+
+
+* 4 cycles of 'groove' - with nothing really over it. Ees
+
+More rhodes stuff from Reprise. Various craziness.
+
+
+
+It makes sense to me! Initially, I'll finish the bass lines. They are simple and groovy. Tony will approve. The madness parts will be the most interesting. The melody which Tony will sing (and the string part will play, though probably not at the same time) will echo the melody in *Fold* of either the bass or the middle tritone portion.
+
+Good evening.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

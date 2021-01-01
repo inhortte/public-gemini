@@ -1,0 +1,44 @@
+# Za Rohem
+## 2019-12-04
+
+
+
+I was informed of the existence of "Noisevember" a day or two before the month began. The challenge was to create one noise piece per day. As one can see, my result was 21 pieces, not 30. I skipped many days and also did two or three other days.
+
+I added more melody than I originally intended, but what spewed from my hara is what spewed from my hara.
+
+Bob Murry Shelton - Guitar, Effects, Modular Synth, Supercollider.
+Christian Michael Newman - Acoustic guitar on Čtrnáct, Various Mumblings.
+
+Mixed and mastered by the Yellow Throated Marten.
+
+
+
+=> release/za-rohem/za-rohem-flac/deset_session_20191113_2252.flac Deset
+=> release/za-rohem/za-rohem-flac/devatenáct_session_20191129_1636.flac Devatenáct
+=> release/za-rohem/za-rohem-flac/devět_session_20191114_0257.flac Devět
+=> release/za-rohem/za-rohem-flac/dvacet-jedna_session_20191130_1933.flac Dvacet Jedna
+=> release/za-rohem/za-rohem-flac/dvacet_session_20191130_1545.flac Dvacet
+=> release/za-rohem/za-rohem-flac/dvanact_session_20191124_1513.flac Dvanact
+=> release/za-rohem/za-rohem-flac/dva_session_20191102_1257.flac Dva
+=> release/za-rohem/za-rohem-flac/jedenact_session_20191122_1741.flac Jedenact
+=> release/za-rohem/za-rohem-flac/jeden_session_20191101_2042.flac Jeden
+=> release/za-rohem/za-rohem-flac/osmnáct_session_20191129_1057.flac Osmnáct
+=> release/za-rohem/za-rohem-flac/osm_session_20191111_1149.flac Osm
+=> release/za-rohem/za-rohem-flac/padnáct.flac Padnáct
+=> release/za-rohem/za-rohem-flac/pět_session_20191106_1340.flac Pět
+=> release/za-rohem/za-rohem-flac/sedmnáct_session_20191127_1622.flac Sedmnáct
+=> release/za-rohem/za-rohem-flac/sedm_session_20191108_1048.flac Sedm
+=> release/za-rohem/za-rohem-flac/trinact_session_20191124_1703.flac Trinact
+=> release/za-rohem/za-rohem-flac/tři_session_20191104_1056.flac Tři
+=> release/za-rohem/za-rohem-flac/čtrnáct_session_20191125_1713.flac Čtrnáct
+=> release/za-rohem/za-rohem-flac/čtyři_session_20191105_1021.flac Čtyři
+=> release/za-rohem/za-rohem-flac/šestnáct_session_20191127_1132.flac Šestnáct
+=> release/za-rohem/za-rohem-flac/šest_session_20191107_1322.flac Šest
+
+
+=> gemini://thurk.org/flavigula/releases.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

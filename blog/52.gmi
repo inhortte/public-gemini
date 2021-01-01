@@ -1,0 +1,12 @@
+# Scraping the ice from the forebrain
+## Topics: transition
+## 2008-11-22
+
+If there is a greater force which occasionally tests me, I'm all for it to do so as often as possible. It's good for me. It deletes lethargy. It drums up positive emotions. I'm up for the challenge. Let's go for it.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

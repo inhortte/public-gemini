@@ -1,0 +1,31 @@
+# Possible musics
+## Topics: music
+## 2007-03-08
+
+I got an email from Tone-tone this morning expressing interest (which, admittedly, comes intermittently anyway) in musicking together. I am to set up a way to share files. This is a fascinating concept, for sure, but time constraints (or is it possibly just laziness) have seen me balking every time in the past. This balking surrounds the creation of new groovy tunes, as well.
+
+Perhaps these will help:
+
+```html
+<ul>
+<li>Start out writing simple things.</li>
+<li>Make them short.</li>
+<li>Two to three parts only.</li>
+<li>Allow them to be recorded (my parts, anyway) within a day.</li>
+<li>Get one done before moving to another.</li>
+<li>Send results to Tone (or the fileshare).</li>
+</ul>
+```
+
+I have a simple idea (which shall, of course, become part of my Seven Draperies hodgepodge) which involves 11 notes -- a simple melody in A melodic minor. This arresting (!) melody shall be played on mandolin and accompanied by a bass guitar which throughout a few simple variations will match the mandolin's rhythm 70% of the time (though the bass notes shall be counterpoint). At one point there will be an ostinato during which the mandolin will play the melody repeatedly.
+
+In the background I envision sustained electric guitar notes.
+
+This seems like a simple beginning. I just gotta write the fucker and teach myself to play it flawlessly. I suppose my adherence to mandolin practise shall assist with this.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

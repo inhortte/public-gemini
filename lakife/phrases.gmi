@@ -1,0 +1,375 @@
+# Lakife
+## Phrases illustrating grammar
+
+=> gemini://thurk.org/lakife/index.gmi tzifur
+=> gemini:/thurk.org/index.gmi jenju
+
+- Fal sopene pot, kotjo jena qoqihara miqir tzemi.
+- In the beginning God created the heaven and the earth.
+
+- Tzeme qomipes soxel jetz, qominuluqi: Nozu qominuz fix nulu liz nis. Ses kot liz jena qoqimolja nuz fix teliz topen.
+- And the earth was without form, and void: and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+
+- Kotjo jena qotzilak, «Jax miten». Qomiten. 
+- And (the one) god said, Let there be light: and there was light.
+
+- Kotjo jena qotzilok tene. An qomitetz. Kotjo jena qotzitaf ten pes nozu topen.
+- And God saw the light, that it was good: and God divided the light from the darkness.
+
+- Kotjo jena tenu petz Ten qotzilamu. Nozu petz anjo Noz qotxilamu. Ten pinu teni sopen qoqiten jeniz.
+- And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
+
+- Kez jo kop ariz qotzirox role naham etiz.
+- Goat ERG head its PAST-PERF-rupture this-way foot GEN my. The goat broke his head on my foot.
+
+- Etjo qotzija naham (ariz) li (an)jo kop kez liz qotzirox.
+- I used my foot to break the goat's head.
+
+- Et mija.
+- I exist.
+
+- Pa is tziloku tzuf rox nuz lok etiz nis (topen).
+- You can see through the crack in my eye.
+
+- Anja jo is peletz rukam qetzija.
+- She will transform her hand to you. Ie, she will hit you.
+- Not sure about this.
+
+- Anja jo rukam qetzija lej jo kar isiz tziroxax.
+- She ERG hand FUT-PERF-transform SUBORD-ABS ERG face your PERF-rupture-derogatory. She will transact her hand so it ruptures your face.
+
+- Anja jo miretena plax.
+- She ERG IMP-radiant evil. She radiates evil.
+
+- Anja jo miretina plax lej jo kez txisohiqu.
+- She ERG IMP-radiant evil SUBORD-ABS ERG goat PERF-out-of-life. She radiates the evil that kills goats.
+
+- Tetyk yziz qiretena.
+- Star our INCOH-radiant. The sun begins to shine.
+
+- Tetyk soletiz qotxiretena.
+- Star our PAST-PERF-radiant. The sun shone.
+
+- Tetyk soletiz qetziretena.
+- Star our FUT-PERF-radiant. The sun will shine.
+
+- Tetyk yziz qomiretina.
+- Star our PAST-IMP-radiant. The sun was shining.
+
+- Pes funole tetyk soletiz miretena.
+- Since then-past star our IMP-radiant. Since an undetermined time in the past, the sun shines. The sun has been shining.
+
+- Nolja sylet tetyk soletiz miretena.
+- The sun is shining again. 
+
+- Tetyk soletiz txiretena ten sylet.
+- The sun will shine tomorrow. (_Qe-_ is not required since _ten sylet_ implies future.)
+
+- Peten tetyk soletiz miretena.
+- Radiance star our IMP-radiant. The sun shines brightly.
+
+- Fek xil pinu tilok (liz), tetyk soletiz qilokja.
+- At line end sight (GEN), star our INCOH-visible. At the horizon (at the sight's end edge), the sun becomes visible.
+
+- Lanasek qotzihupoluk sonulen.
+- All the people shouted (yelled sudden-like)
+
+- Lanasap qotzihupoluk sonulen.
+- Some of the people shouted.
+
+- Tanolja lanas mut qotzihupoluk sonulen.
+- Many people shouted twice.
+
+- Nolja mut lanas fela tzihupoluk sonulen.
+- Time-tangible many person joy PERF-mouth-exaggerated sudden. Often, happy people shout.
+
+- Kotzotz tzihalja tzuf sipas.
+- The kitten moved upwards through the air. The kitten jumped up.
+
+- Kotzotz fek fix sofor (topen) tzihalja tzuf sipas.
+- Kitten to surface work (direction) PERF-rise throught atmosphere. Onto the table, the kitten lept.
+
+- Pemole kotzotz etiz mal qotzija.
+- From here my little cat moved. My little cat walked away.
+
+- Mimiqitela.
+- It's raining.
+
+- Tel mija pes miqir.
+- Water IMP-transform from sky. Water falls from the sky. It's raining.
+
+- Miqitel qomipelis tul.
+- Rain PAST-IMP-towards lowThe rain was coming down.
+
+- Qimiqitela.
+- It's beginning to rain.
+
+- Jel tzuf mole tomija liz
+- Milk in the place of dreams.
+
+- Jel hal tomija jetz.
+- Milk in place of dreams (instead of dreams)
+
+- Tin miqitel nis, kotzotz tzisyta.
+- The kitten is playing in the rain.
+
+- Qimiqitelum.
+- It stopped raining.
+
+- Miqitel qija um.
+- The rain ceased activity. 
+
+- Fal nolja (sol) sylet (pot), qeqimiqitelum.
+- During the next moments (soon), the rain will stop.
+
+- Fal nolja sylet, miqitel qeqija um.
+- Soon, the rain will cease.
+
+- Tin soxel riz soliz nis, solet mihiqu.
+- We live (exist) in a grid (shape of intersections).
+
+- Tou etiz li miqitel qija um.
+- It is my wish that the rain ceases.
+
+- Et kon tou (jetz) li miqitel qija um.
+- I have hope that the rain ceases.
+
+- Qeqimiqitelum tou.
+- There is hope that the rain ceases.
+
+- Funola jeniz mole hijuqa pepeit tzipeita.
+- Once here wild animals lived. 
+
+- Anja jo qotziloka letzek.
+- She looked in all directions.
+
+- Anja jo qotziloka topenek.
+- She looked to all vectors.
+
+- Fepom, anja jo qotziloka letzek.
+- Slowly, she looked around (in all directions).
+
+- Anja jo letzek qotziloka pom.
+- She looked around slowly.
+
+- Joz ar peletz fek femole jetz.
+- Go (yourself) away.
+
+- Joz ar petz femole tzija.
+- Transform yourself away (from here).
+
+- Solet tzija jax.
+- Let's go.
+
+- Is fekuqa femole (topen).
+- You should go (from here).
+
+- Femole is tzija uqa.
+- You should transform yourself from here. You should go.
+
+- Et qifela li tzija.
+- I am happy to go. I become happy that I go.
+
+- Pelin anju pes femole fek mole.
+- Soon, he arrives. Soon he from there to here.
+
+- Pelin, kes qeqifek peituje (topen).
+- Soon, the goat will come home. Soon, the goat will to this home (implying "to come").
+
+- Qotzifek an topen sefu texotz liz.
+- From him the child's ball. The child's ball rolled away. "Rolling" is the implied movement. 
+
+- Qoqifek an topen sefu aniz.
+- His ball began rolling away.
+
+- Qotzikekoletz sefu.
+- The ball rolled away. (Rolling is the implied movement)
+
+- Kon ar jetz texju taf tzisofor.
+- With each other (together), the two boys work.
+
+- Et peletz hunotz aniz tzirejx.
+- To me, his dog transacts anger. His puppy angers me.
+
+- Etjo hunotz anju liz qotzirejxa.
+- I filled his puppy with rage.
+
+- Peritel etiz petz et qoqirejx.
+- I became angry at my friend.
+
+- Etjo peritel ariz qoqirejx.
+- I angered my friend.
+
+- Hut tele haquiz hais qeqiseifa.
+- Probably the mist will diffuse (clear).
+
+- Molek folor fetosin tzipefosa. 
+- Everywhere colourful flowers grow. 
+
+- Foluit ten isiz?
+- Quality-interrogative day your? How is the quality of your day?
+
+- Rolit ten isiz folu?
+- How day your quality? How is the quality of your day?
+
+- Rolit is ar petz posu?
+- How you to yourself sensation? How are you feeling?
+
+- Rolit is miposa ariz?
+- How you sense of yourself? How are you feeling?
+
+- Uqa pom hal solet tzijet.
+- Should slow more we eat. We should eat more slowly.
+
+- Funolu mik pihal is qotzifek mole.
+- Early excessively you past-to here. You came here too soon.
+
+- Mou fejupoj hal is tzikaren.
+- Obligation tidiness more you write. You must write more neatly.
+
+- Letze xaifim soxfolu lofez hal kekon (mole).
+- In this direction structure-pleasing surface-quality sheep high opposite (here). Directly opposite is a wonderful palace. 
+
+- Mole huniz lanasax liz mizanum.
+- Place dog-GEN asshole GEN known-NEG. The whereabouts of the asshole's dog is not known. The asshole's dog is lost.
+
+- Kotz etiz nozu.
+- My cat is black.
+
+Paum lanasotz zoru texja liz lizar qiharja.
+- Not-able-to person-small fake child-fem GEN young become-functional. The little girl's doll is broken. 
+
+- Rolit qija?
+- How (is it) transforming? how's it going?
+
+- Sou et mitomir kon tix haraiz.
+- Usually I am sleeping beside the silence of creation. I usually sleep soundly.
+
+- Fal tomija pot etjo is qitekut.
+- During dreams, I liquefy you.
+
+- (Fetou) rix tex sol qoqija potom kez.
+- (Try) rapid child plural transformed behind goat. The children chased the goat. 
+
+- Pa et qikon syt (jetz) potom li tin xaif zan.
+- Can I begin to be with fun after that in building knowledge. I can have fun after school.
+
+- Li mikon solan (jetz) nuzol solet qotxifek peit mal.
+- That be with them because, we went (to) settlement small. We went to the village for a visit. 
+
+- Solet qoqifek xil teliz nis.
+- We past-inhocate-at line water-of place. We arrived at the river.
+
+- Jenize qirezu turos, potonole qizana.
+- First become-logic disorder, then become-wisdom. First comes mental disorder. Then comes widsom.
+
+- Pelinole is nuzol et mole mijaum.
+- Until-now you because I here state-of-transformation-not. I've been waiting here for you.
+
+- Pelinole is nuzol et mijaum rez liz.
+- Until-now you because I state-of-transformation-not mind of. I've been waiting for you (a state of mind).
+
+- Lanpeit sol nol liz lil qomiriz tul rok hapa.
+- Resident plural time of few past-position cross down around fire. The campers sat around the fire.
+
+- Kon etiz topen kon kotzotz jetz texja mal qomiriz tul.
+- Beside me direction with kitten-diminuative association female-child small past-position cross down. The little girl with the kitten sat beside me.
+
+- Tetju ariz nuzole texja qomijaum fek pol xaif.
+- Father her because female-child past-state-of-transformation-not at opening building. The girl waited at the door for her father 
+
+- Ten fure texja nomute tin peitotz nis mole kotzotz liz ariz qoqizanum.
+- Day before-the child-female time-most-the in village position whereabouts kitten poss self-poss became-extant-in-thought-not.Yesterday, the oldest girl in the village lost her cat.
+
+- It is qoquitihiqu tin peitotze?
+- Question you past-passive-birth in village-the? Were you born in this village?
+
+- Pait texju tetiz jezor isiz txisulex pefoja par?
+- Can-question child-male parent-gen same your exert rhythm adroit? Can your brother dance well?
+
+- It lanasju qoqisot mole topen?
+- Question man past-out-of here direction? Did the man leave?
+
+- Holek kon folu haru.
+- Everything with quality resonant. It's cool.
+
+- It texja tetiz jezor (isiz) fek mole li solis txisomole?
+- Question child-FEM parent-GEN same (your) to here that PL-you leave. Is your sister coming to pick you up?
+
+- Pait ten sylet is fek mole?
+- Can-QUE day next you to here? Can you come tomorrow?
+
+- Et qifek af peitu kes.
+- I become-at IRR residence goat. I want to be at the goat residence. Were I at the goat residence. 
+
+- Et txija af peitu kes.
+- I transform IRR residence goat. I want to go to the goat residence. Were I going to the goat residence. 
+
+- It fal kekar sim (pot) lanas pelimol misot mole?
+- QUE during fourth cold (duration) person proximity be-out-of here? Have the neighbours left for winter?
+
+- It fal tel miqir liz (pot) hiju letiz tzihupa felak?
+- QUE during water sky GEN (duration) creature flight-GEN TRS-music ADV-tongue. Does the bird sing in the rain?
+
+- It is fek soharju hupa topen kon solet?
+- QUE you to elaboration music direction with us? Are you going to the concert with us?
+
+- It tin moles hais hap nis is qomisozen?
+- QUE in forest dense heat position you PAST-state-of-journey? Have you ever travelled in the jungle?
+
+- Moxilu mut nuz neimolja pif solet qotxinuz xil tel.
+- Unit many by boat instrumentality we PAST-PERF-along thread water. We sailed by boat along the river for many kilometres. 
+
+- Lanasek fal las jetz tzizanu.
+- Person-ALL about hunt association PFC-knowledge. Everyone knows about hunting.
+
+- Fal ten sopen tenuk potom ten faluiz hale pot fesopen solet qoqifek tzem hal.
+- During day begin light-BIG after day duration-GEN great-THE duration ADV-begin we PST-INCOH-to earth high. On a bright morning after the solstice, we started for the mountains. 
+
+- Texju kez qotxiposa fela hupol nuz syt qulan liz tul.
+- Boy goat PAST-PRF-expression joy mouth because-of diversion primate GEN small. Goat boy laughed because of the monkey's tricks.
+
+- Kon pejer lan jetz kon xilitaf tzem nis lanas muzar qotximiriz hal.
+- With support human association beside partition earth place person old PAST-PRF-perpendicular up. The old man with the cane stood beside the fence.
+
+- Etjo kez petz hiqaum qotxija.
+- I-ERG goat DAT lifeless PAST-PRF-transform. I killed the goat.
+
+- Etjo kez petz anja liz qoqihiqaum.
+- I-ERG goat DAT she GEN PAST-INCHO-life-not. I made the goat become lifeless. i killed the goat.
+---
+- Peitu holat liz les miupelokja nuz tafju pejer tul.
+- Home rodent GEN tree IMP-invisible because-of branch support low. The squirrel's nest was hidden by drooping boughs.
+
+- Pes myx fek nol jetz nat miqisimu nis fosju  mal jo hap tetyk liz qomijaum.
+- Without thought- concerning time association under snow position seed small ERG heat star GEN heat PAST-IMP-transform-not. Patiently, the little seeds were waiting beneath the snow for the sun's warmth.
+
+- Kon lip folor nuz kop ariz nis texotzja mut qotzisulex pefoja rok hap hal.
+- With circle flower on head their position child-DIM-FEM many PAST-PERF-exertion rhythm around fire great. Many young girls with wreaths on their heads danced around the bonfire.
+---
+- Sykju neit liz qotxifek tunaham fetul.
+- Cover container GEN PAST-PERF-to floor ADV-down. The cover of the basket fell to the floor.
+
+- Anju lizar jeniz tin xil lanas qoqimoljaum potom pol xaif.
+- He young first in line person PAST-INCOH-movement-not in-front-of orifice building. The first boy in the queue stopped at the entrance. 
+
+- Fek hale tzem liz hal tin peim mal nis lanasja muzar zana qomipeit.
+- At top earth GEN high in house small position woman old wisdom PAST-IMP-residence. At the top of the hill in a hut lived a wise old woman.
+
+- Fal peit soletiz tin tzem falun famupot solet qotxinak tin tzem zir xilja naj fen.
+- During residence our in land farse often we PAST-PERF-leg in land wide extending-thing LOC green. During our residence in the country we often walked in the pastures.
+
+- Molit pes peit ful topen lanas txuipax qeqimole?
+- When from residence large direction person invited FUT-INCOH-here. When will your guests from the city arrive?
+
+- Pelis natol xiliz tel nis letza ariz mihel kotzom pelitet.
+- Near anus line-GEN water position vector its IMP-twist abrupt east. Near the river's mouth, the its course turns sharply towards the east.
+---
+- Tzuf tzem haluk taf nis tzem tul fosiz.
+- Between earth high-AUGMENTATIVE two position earth low seed-GEN. Between two lofty mountains lies a fertile valley.
+
+- Fal sur pez nis folor opjo hal qotxipefosa.
+- Among grain light-brown position flower opium high PAST-PERF-from-seed. Among the wheat, tall poppies grew.
+
+- Fal sur pez nis folor opjo qomihalja.
+- Among grain light-brown flower opium PAST-IMP-high. Among the wheat, poppies were growing (rising).

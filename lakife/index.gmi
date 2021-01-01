@@ -1,0 +1,14 @@
+# Lakife
+## A constructed language
+
+Begun in 2000, it lay dormant for decades before a recent revival.
+
+=> phonemes.gmi Phonology
+=> grammar.gmi Grammar musings
+=> mihupola.gmi Other musings
+=> babel-text.gmi Babel text
+=> phrases.gmi Phrases illustrating grammar
+=> vocabulary.gmi Lakife to English
+=> english-lakife.gmi English to Lakife
+
+=> gemini://thurk.org/index.gmi tzifur

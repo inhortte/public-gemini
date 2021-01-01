@@ -1,0 +1,50 @@
+# Beings from fog
+## Topics: music, flavigula
+## 2014-01-17
+
+The piece I am currently working on is tentatively titled *Fog Beings*. I don't particularly like the title, but I have a disability that disallows me creating catchy titles for things. You see: My novel is named *November*. The connotations are as endless as the synapse is wide. I believe a comment existed in a conversation from a few days back concerning the replacement of synapses with fatty tissue.
+
+*Fog Beings* is divided into the following parts at the moment.
+
+#### Introduction
+
+Two synth arpeggios tumble incessantly. One consists of four sixteenth notes. The other has five. Yeah, I know that is very typical of me and harkens all the way back to *Filter*. One has to have stylistic continuity, right?
+
+This goes on for twenty measures of four. During the latter ten, a stomping beat (remindful of *The Fen*) begins with the one of each measure. It switches to a pseudo *5/4*, accenting the one and four.
+
+Underneath it all is a hopefully exceedingly creepy slowed down version of Christián's guitar scraping extravaganza he sent me yesterday that procedes to dissapear during the final bars.
+
+#### Acoustic abomination
+
+I layer a short sample of Christián's acoustic skewed a measure. The reverb applied gives it a slightly distant feeling. I contemplate returning to the fore, however, as it is the centerpiece.
+
+An organ playing *Cis* and *G* fades in during the last ten measures. One can imagine the purpose - tension is produced. I include the stomping during the latter half again, as with the introduction.
+
+As a beat keeping mechanism, A bizarre panned squeak assults the listener every other bar. During the first complete *take* of the piece (posted on Soundcloud last night for Christián's aural perusal) featured this abberation later, as well, but I have decided this portion is its only proper place.
+
+So - spare is good, eh? Indeed, I say. Several listens to the first *take* told me not to have every sequence playing simultanesouly. My mixing bane formerly and still currently to an extent is lack of *tone space*. Too much clutter usually fills up different spans of frequency.
+
+The result is a *muddle*. Fuck muddles.
+
+--------------------------------------------------------------------------------
+
+I feel these two parts are complete. Immediately afterwards, the *creepy slowed down version of Christián's guitar scraping extravaganza* re-enters. The arpeggios begin again churning. A short sample of strumming is taken and accents every measure.
+
+One amusing thing is that I am working with both LMMS[1] and Audacity[2]. The rhythm structure is not apparent in the latter, which I use to create the samples from the long wav he sent me.
+
+For this small strumming example, I took a the clip, repeated it and positioned the repeat at exactly 2/3 of a second after the beginning. Thus, we have two strums - on the first two beats of a measure. Either I have not explored all the possibilities that LMMS offers me (I'm a lazy cunt, I know) or I am indeed only able to position samples at the *beginning* of measures.
+
+The piece clops along at ninety beats per minute, thus the figure cited in the previous paragraph. The relation between 90 and 60 helps, obviously.
+
+So, there we go.
+
+
+=> http://lmms.sourceforge.net/ 1: http://lmms.sourceforge.net/
+=> http://audacity.sourceforge.net/ 2: http://audacity.sourceforge.net/
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

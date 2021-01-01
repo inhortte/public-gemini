@@ -1,0 +1,22 @@
+# Gretel and the Ferret
+## Topics: blog
+## 2010-12-27
+
+Yuppers. I need to work on image alignment. How about floats within Markdown? *I simper*.
+
+```html
+<img style="float:left;" class="span-4" src="/images/gretel_and_ferret.jpg" />
+<span style="float:right;" width="100%" class="span-8">See, when I do it this way, it most likely will work, but who wants to write html in a journal entry?</span>
+<br style="clear:both;" />
+```
+
+I can dig through the BlueCloth code and modify it, ya know.
+
+#### *Ya know?*
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

@@ -1,0 +1,21 @@
+# Beauty seared the eyes from Shambal's pocked face
+## Topics: blog, programming
+## 2016-09-27
+
+I refuse to believe that this particular entry is for purposes of testing the new *layout* of *Martenblog*. I worked on rebuilding it system from scratch during the whole of the flimsy weekend. Why was the weekend flimsy, you ask? Well, my pugnacious starbeam, I felt light, as if I were drifting from one state of consciousness to another. I most likely was. And probably still am.
+
+I began my reconstruction with a new framework dubbed Alkali[1]. The result was a wasted five or six hours fighting with the DOM "template" language and update strategies. Since you won't read the documentation, I'll expound a bit. Instead of Redux's[2] store, which is a moderate step away from hierarchical data-structures that cause my skin to grow seeping warts and boils from sheer frustration, a concept of independent *Variables* are its core. Like Redux's store, updates to *Variables* flow through the system and can dynamically synchronise the DOM. I am fond of this idea, as the *Variables* are decoupled, **unlike** Redux's store.
+
+Unfortunately, the library is in its infancy and five hours of fighting with broken update flow deterred me from continuing. I abandoned Alkali and fell back on the now familiar Redux, to complete the whole of the code in two days or so, sans bugs. Martenblog code[3]. Yeah... it's still called mb-alkali. Perhaps it remains that way to inspire me to return to the nacient framework in the future.
+
+
+=> https://github.com/kriszyp/alkali 1: https://github.com/kriszyp/alkali
+=> http://redux.js.org/ 2: http://redux.js.org/
+=> https://github.com/inhortte/mb-alkali 3: https://github.com/inhortte/mb-alkali
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

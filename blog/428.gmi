@@ -1,0 +1,24 @@
+# The Patter of Envelope Controlled White Noise Generators
+## Topics: music, plagiarism, inspiration
+## 2019-06-29
+
+The first *mid-hump* of **Dobruška and her Piglet** (since, as I mentioned in a previous entry, Dobruška is certainly not a dromedary), gave me problems for epochs upon epochs. I used recapitulations of themes, new themes, lack of themes, and ululating white noise for the section, all of which resulted in jarring transitions on both of its borders. Inspiration finally struck last Sunday, which should be ever celebrated in the future as the day that Flamenco humped Dobruška.
+
+Christian, who I consider a fetid lump of homunculous meat, told me that his Flamenco instructor, José, suggested I add a *pad* to some acoustic doodling he wrote. He sent me two files detailing the task. I found José's fumblings pleasant and transcribed them into one of the handy spiral notebooks of blank sheet music that occupy one of the littered surfaces in my studio. Instead of immediately beginning to add *pads* to these fumblings (I'm not a fan of the word *pad* referring to a synthesizer drone beneath other musical movements), I realized that I could translate and mutate the ideas to another realm - namely the first *mid-hump* of **Dobruška and her Piglet**.
+
+José's ditty is in F# lydian, or that is the vista from which I view it. The only idea I retained from the original *mid-hump* sketches was that the section was portioned into *d* and *e*, raising the tonal center a major second halfway through. I mangled the original idea enough to make it my own, imply earlier and later themes, and 7/8-ify it.
+
+Strangely, the first *mid-hump* was written in 6/8, but clearly accented in 7/8. My mind had obviously been trecherous during the initial phases of inscribing the paths through Dobruška's abstract thicket.
+
+I'm satisfied with the results, though I cannot play the *Flamenco Travesty* part (as I call it) sufficiently smoothly yet. During the process, I asked myself a few times where the vague line might be between inspiration and plagiarism. I'm of the mind that in this case, clearly the former. I could toss a line into the credits reading *Gracias a José, Herr Flamenquist, por inspirarme*. Aunque, even were a trained marmot to listen to both back to back, he'd only find cursory similarity.
+
+Though, considering it, wouldn't I have to also toss lines in to the credits to the effect of *Thanks to Daniel Denis / Dmitri Shostakovich / Brian Eno / Robert Wyatt / etc ...* for the multitudinous pieces they inspired? The **Grand Marmot** who is clearly the tribunal for plagiaristic suspicions lands me clearly on the *inspiration* side of that vague line.
+
+And, most importantly, I used ululating white noise as a backdrop.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

@@ -1,0 +1,26 @@
+# The Denial of Immediacy
+## Topics: learning, education, intuition, sloth
+## 2020-01-22
+
+A recurring bump in interaction with a friend who will remain anonymous other than saying he has what I call the *Newman* disease and both severe dyslexia and dyscalculia again happened yesterday. I suggested a course on Javascript using exercism.io, a useful site for learning programming languages at your own pace - ie, when you have free time.
+
+Again, I got an offhand comment about `js`, but nothing more. Same old story, different epoch. Usually, when I get this sort of response from someone, I blink a few times and move on with my life. Some humans and even mustelids are interested neither in taking general advice or in intellectual self-improvement. Specifically, some are just not interested in educational tasks that will take a (even sometimes very small) chunk of time even if rationally they understand it will diminish various other chunks of future time and especially alleviate frustration.
+
+Usually, I'd say *fuck um* and move on, but this oxlet with *Newman* disease (among others) is a particularly good friend.
+
+My impression is that there is an aversion here to any learning that doesn't have *intuitive* appeal. It's an issue that pokes at my enlarged and pustulant liver because it also affected me for many epochs.
+
+My path through primary, middle and high school was so easy that I learned no useful study skills. I mastered everything hurled at me intuitively. I received a nasty blow to the ego when I walked into the University of Texas at Austin and not everything came so easily. I had to sit down and feel myself through a maze of knowledge without that intuitive olfactory sense that leads the precocious rat to the fermented mold.
+
+I tripped and found myself sprawled into a world where I had to grapple with knowledge and especially *process* to reach any sort of mastery. Bastards. Since, during my infancy and adolescence, I was showered with praise for my *gift* of *intelligence*, climbing the debris-littered slope probably took longer than for those who didn't have it so "easy" during the formative years.
+
+These epochs, I'm wary of anything that comes completely intuitively. I realize that is possibly an extreme, but I find constant self-observation appealing. Hand me a platter of puzzles I must unlock to get at the foodstuffs instead of a steaming döner in a paper sack, please. The hunger will encourage discovery.
+
+The appeal of immediacy is undeniable, but just like plunging into a long term relationship simply because another human or mustelid is feisty in the burrow, initial wonder can lead to debris dodging and bug fixing for epochs to come. I haven't seen a concise proportional measure 'tween effort and reward, but am pretty sure always taking the *easy*, intuitive path doesn't work out so well for **anyone**.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

@@ -1,0 +1,24 @@
+# Apparently none
+## Topics: programming, livejournal
+## 2001-05-29
+
+```
+(defun permute (govno)
+  (cond ((null govno) '(()))
+        (t (mapcan #'(lambda (element)
+                       (mapcar #'(lambda (perm)
+                                   (cons element perm))
+                               (permute
+                                 (remove* element
+                                          govno
+                                          :count 1
+                                          :test #'eq))))
+                   govno))))
+```
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

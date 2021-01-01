@@ -1,0 +1,34 @@
+# What I'll wear to your burial
+## Topics: goals, destiny, futility
+## 2016-10-15
+
+Here, I shall set out a few goals for the coming weeks. I shall accomplish but few of them, if any at all, but I certainly have a grand time making *plans* for the imminent *future*.
+
+Before I do so, I shall procrastinate one moment by telling my gentle and teary reader that I am listening to a beautiful album called *The Room* by **Harold Budd**. I recommend it to all. Actually, I began it last night as I was winding down from self imposed lessons in the semi-new GraphQL[1], which so far, toots my muffin mightily. The album itself will wind down soon, possibly just as I am finishing this entry. I shall move on to something more agitative as I continue my lessons.
+
+So, goals:
+
+* Rewrite *Martenblog* using **GraphQL**.
+* Write android / ios app for *Martenblog* using Cordova[2].
+* Thurk with Tidal Cycles[3] for at least thirty minutes a day.
+* Continue with **GOAT**, which involves at the moment *Albahaca* and *Stone Calendar*. This will probably not be possible *every* day.
+* Practise guitar every day.
+* Vomit on an infant left in a pram outside of a pub every other day.
+* Snort a powdered anvil.
+* Stir up a ruckus.
+* Fuck um.
+* Scribe brilliances.
+
+Let the debauchery begin.
+
+
+=> http://graphql.org/learn/ 1: http://graphql.org/learn/
+=> https://cordova.apache.org/docs/en/latest/guide/overview/index.html 2: https://cordova.apache.org/docs/en/latest/guide/overview/index.html
+=> https://cordova.apache.org/docs/en/latest/guide/overview/index.html 3: https://cordova.apache.org/docs/en/latest/guide/overview/index.html
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

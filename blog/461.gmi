@@ -1,0 +1,117 @@
+# If You're Feeling Groggy, Feed Yourself a Doggie
+## Topics: livejournal, sleep, idleness, music
+## 2005-10-15
+
+Since I am unable to do any real work at the moment, I decided to fiddle with my Livejournal Interests for a good while. I'd say I performed a more or less 40% modification. The initial purpose was to rid the list of the more general interests and replace them with more specific ones. For example, I replaced Indian Food with Korma and Vindaloo. The purpose is to define myself in a more explicit manner. Whether I have succeeded or not, I don't know. It was a mildly interesting amusement, however, which ate away a bit the fog of depression I wrote about earlier. So, now my view is only partly occluded.
+
+I have been thinking to adjust my sleeping schedule. So: my plan was to stay at work all night, a good deal of tomorrow, and crawl back blearily to my flat sometime in the evening to retire. It's three in the morning now and I don't know if I am going to make it. Perhaps the portion of the fog eaten away by my idle pursuits on Livejournal has been replaced by exhaustion. I did get up at 16.00 this past afternoon, though, and wonder why I should be so tired after only eleven hours. Maybe all the salami and horseradish I ate earlier stole my alertness. Maybe if I snorted the horseradish, the alertness would return. I should give it a try.
+
+Oouh.
+
+--------------------------------------------------------------------------------
+
+Commentaries:
+
+Tony:
+
+> Yeah, doing something works better than doing nothing. And a regular sleep schedule is a definite plus.
+> 
+> I've arranged two songs in two days.
+Me:
+
+> I have a regular sleep schedule. It is just from about 7 or 8am to 2 or 3pm. The daylight hours are waning. I'm not totally nocturnal, so I'd better start going to sleep earlier. Yeah.
+> 
+> Which two have you arranged?>
+Tony:
+
+> "Julia Dream" (Thu) - just a simple driving piano figure (with sustain pedal!), some backgroundy distorted guitar. Flute part at end. Intended country/western accent when sung.
+> 
+> "Come On Darkness" (Fri) - bass, some hand drumming, 2 dulcimer tracks playing the chords. Sang along with that CD today.
+> 
+> "Only the Good Die Young" (Sat) - slow down a bit & cut out some of the repetition, stun bass, organ lead (prob. 2 in stereo), vox in baritonish range. Maybe strobe light/phototheremin trick for beat.
+> Need to finish transcribing from tab.
+> 
+> "A Smart Kid" I plan to be mostly if not all vocals; "Bee Dream" I haven't thought about yet, probably incorporate violin.
+> 
+> As my own accompanist, and as a spare-timer, there are limits to what I can do... trying to make 'em distinctive, anyway. I think my aptitudes run producer > writer > player.
+Me:
+
+```
+Here's my take on 'Bee Dream'...
+
+C                     F    G
+Each of us has in his soul
+
+C                    F          G
+A portion of eagle - a portion of mole
+
+C                           F           G    (extra two beats of G)
+One soars in the sunlight - one snores in a hole
+
+C                           F    G
+The mountain which looks like a prop
+
+C                          F              G
+Is black at the bottom and white at the top
+
+C                        F     G
+Soldiers surrounded with twine
+
+C                          F             G    (two extra beats of G)
+I have to cut through it and claim what is mine
+
+Eb                    Bb
+The summit is marked by a tree
+
+Eb                Bb
+My double in uniform challeges me
+
+Ab
+He says is this tree mine
+
+G
+I say tap it and see
+
+C   F G C   F G
+
+C                    F      G
+So he drives in a platinum spout
+
+C                             F           G    (two more beats of G)
+Turns the tap on and all this jelly comes out
+
+Eb                  Bb
+Royal jelly which I stored in this tree
+
+Eb                    Bb
+In an earlier lifetime when I was a bee
+
+Ab                 G
+Yeah I'm a king bee though my wings be furled
+
+Ab                     G
+And my kingdom is not of this world
+
+C   F G C   F G etc...
+
+You might want to use a capo on the third fret or just transpose the whole thing to A (so the Eb becomes C), but it's up to you!
+
+sxaxxen
+```
+
+Tony:
+
+> Using a capo is for the weak!
+MzoNe:
+
+> So does that mean you are going to transpose it or do it in C, big britches?
+Tony:
+
+> I'll play piano & violin on it, so I'll probably just do it in C. I'm good on the chords and structure, but could you pick out the vocal melody for me?
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

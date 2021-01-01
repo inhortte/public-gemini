@@ -1,0 +1,107 @@
+# I was the primer for the first universe
+## Topics: music, goals, math, project euler
+## 2010-12-22
+
+I am incredibly fucking frustrated concerting Project Euler #254. I am befuddled. Flummoxed. And overall - irritated. The problem is an irritant. I posted some things about it in the Sheep Blog earlier and have since learned that none of that matters at all. Of course, this will be soon merged with the Sheep Blog, so the last sentence is half superfluous. But, anyway, creating a list of every number which has digits which add up to *i* was big fun, though ultimately pointless. Having the values of *f(n)* does nothing for me because with each of them I'd have to calculate the *n*. The sheer amount of computation involved is staggering. Furthermore, to get each *f(n)* for `i = 150` takes longer than it would to pull a tugboat full of raving mustelids from here to South Africa without encountering any water or poisonous snakes.
+
+### So!
+
+*I hope you have noticed that I have begun writing these entries (starting today) with markdown since the Sheep Blog uses BlueCloth to create the fucking html from fucking text. Yeah.*
+
+## So!
+
+My next strategy was to make a map of *sf(n) -> n*. The code I have just come up with is this:
+
+```
+sfMap z = sfMap' (IntMap.fromList []) [1..z]
+    where sfMap' theMap [] = theMap
+          sfMap' theMap (x:xs) = sfMap' (if (IntMap.lookup sfx theMap) == Nothing
+                                         then IntMap.insert sfx x theMap
+                                         else theMap) xs
+              where sfx = sf x
+```
+
+I'm using *IntMap* because I read in the glorious ghc library reference that it is exceedingly quick (maybe even quicker than a marten). Now, this creates a map with only one entry for each *i* (which is *sf(x)*). Since I am being sequential in my *x*s (note the `[1..z]`), the first time a *x* results in an *i* (*sf(x)*), it is recorded. Any further duplicate *sf(x)*s are ignored. I think this is the correct step forward (as opposed to the false stagger in a random direction earlier) even though when attempting to find *i*s up to 1 000 000, it was taking so long I had to interrupt the process. I need to create a more efficient way of making this map. I have some shades of ideas, but they are still murky.
+
+I shall continue after returning from an excursion to 'Southern Rose' with my parents for dinner. Yum.... I suppose.
+
+I have returned. Actually I returned over two hours ago. What have I done since then? Well, unfortunately, I have not forgotten about Project Euler and my little problem (cue the song, though it has little to do with mathematics). I played Hand and Foot with my parents (I came out on bottom and do not mind in the least), consumed some oatmeal cookies (much to my tummy's chagrin) and wrote a program.
+
+I had this brainstorm whilst at the restaurant, actually. There was a book I espied in Luxor in Praha back in, um, most likely 2007. It was about sharpening discursive skills or some rot of the like. I enjoyed thumbing through it and desperately wanted to purchase it because I felt my quickness of mind has been dulling like a blade scraped repeatedly on porous rock. Yeah. Like that. Unfortunately, when I next returned to the bookstore, I could no longer locate the tome. I did remember a point from it which stuck with me and has taken me over three years to implement. *insert smiley*. The book suggested doing a number of simple arithmetic problems quickly every morning consistently. I always liked the idea, but have, as I just wrote, and you know I love repeating myself, procrastinated until about 30 minutes ago in employing the method in any sort of tangible manner.
+
+So I wrote the program. It is called `daily_arithmetic.rb`. Any fool can see that I wrote it in Ruby. I really should have done it in Haskell, instead, but IO in Haskell flummoxes me terribly, as very few of you know. Possibly none of you knew that until the very moment you read the last sentence. Just for fun, I'll post the whole program here. 750words.com would probably call this cheating, but it is an original work, after all, and I'll attempt to vomit up another 100 or so words afterwards to appease the spirit of fair prose play.
+
+```
+require 'rubygems'
+require 'datamapper'
+require 'dm-mysql-adapter'
+
+DataMapper.setup(:default, 'mysql://localhost/morning_quiz')
+
+class Arithmetic
+  include DataMapper::Resource
+
+  property :id, Serial
+  property :question_count, Integer
+  property :score, Float
+  property :time, Integer
+  property :type, String
+  property :created_at, DateTime
+  property :updated_at, DateTime
+end
+
+choices = { 1 => :+, 2 => :* }
+
+puts "Good morning, Schweinehund."
+puts "1) Addition"
+puts "2) Multiplication"
+while !choices.keys.include?(choice = gets.chomp.to_i)
+  puts "Don't fuck with me, sunshine!"
+end
+
+puts "How many questions, you dullard?"
+while (count = gets.chomp.to_i) < 1
+  puts "You are straining our relationship, cabbage-boy."
+end
+
+puts "Ready?"
+gets
+start = Time.now
+correct = 0
+
+count.downto(1).each do |i|
+  fst = rand(9) * 10 + rand(9)
+  snd = rand(9) * 10 + rand(9)
+  ans = fst.send(choices[choice], snd)
+  puts "Question ##{count - i + 1}: #{fst} #{choices[choice].to_s} #{snd}"
+  if gets.chomp.to_i == ans
+    correct = correct + 1
+    puts "Very good, vole."
+  else
+    puts "Nope!"
+  end
+end
+
+finish = Time.now
+score = correct.to_f / count.to_f * 100
+
+puts "From #{count}, you answered #{correct} correctly."
+puts "Your score is %.02f%%" % score
+puts "It took you #{finish.tv_sec - start.tv_sec} seconds."
+
+Arithmetic.create(:question_count => count,
+                  :score => score,
+                  :time => finish.tv_sec - start.tv_sec,
+                  :type => choices[choice].to_s)
+```
+
+Isn't that fantastic? DataMapper is an especially cool gem. I recall the days of struggling with mysql (or postgres, or whichever). Now, well, existence is made more beautiful by the simplicity of DataMapper.
+
+Ok, the next task of the evening is to begin working on the Loopy piece. I wish to flesh it out and shall exude mellifluous energy from my beta-brain into LMMS and Audacity. I think I will not even bother with Lilypond. The spirit of the original 'composition' was one of spontaneity. Jesus Christ Mother Of Satan And His Holy Bedfolk, I do not even recall what key (if any) it is in. Perhaps that 7/8 5/8 ostinato was an A and a.... well... I am not sure, actually. Doesn't this 'unknowing' make it more exciting, however? I am babbling away. So have nice evening.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

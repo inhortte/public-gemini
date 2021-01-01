@@ -1,0 +1,14 @@
+# Tuesday morning with the shades drawn
+## Topics: morning
+## 2006-12-05
+
+```html
+<p>I have just finished a rather large plate of millet, dates, honey and pears. My stomach is relatively happy. I shall most probably be late to work again since I am procrastinating that diabolical shower thing, but no-one will say a word when I arrive. They will only place aggrivated glances on my back at poisoned times during the day.</p><p>This appears to be the first entry in the brand new, fantastic, orgasmic Fucksheep Blog. May more come with regularity. Ooouh, baby.</p>
+```
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

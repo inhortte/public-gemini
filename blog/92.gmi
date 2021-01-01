@@ -1,0 +1,49 @@
+# Practical cannibalism
+## Topics: music
+## 2011-01-11
+
+Much has transpired since I last wrote. First of all, there is Cycle. Parts I, II and IV are pretty much compositionally complete and tonight I shall focus on part III. One must consider that part V is a reflection of part II, part VI is a reflection of part II, and part VII is a reflection of part I, so they may, in the possibly best (or possibly worst - details to follow) case, write themselves, in a sense.
+
+#### But how could that be a bad thing?
+
+In the worst case, the reflective parts writing themselves would exemplify laziness on my part. As I stroll or as I shower or as I fall asleep, I ponder arrangements of these reflective portions of the piece. Mostly I think of key changes. That would add a subtle tension to the proceedings and bat down the monotony a tad. Another idea could be unexpected chord jumps in the middle of seemingly safe territory. IE, in the middle of parts VI or VII. The last recitation of the first verse melody in a key other than F major may be a delight.
+
+##### But part III awaits.
+
+Coming from part II, there is the root progression of `f e ees e`. Over the final e, the ostinatos are `a f e g e f e f` and `a bes /c e d/ bes a /f a g/`. This leaves me with a vague 'chord' rooted in e. The first thought is to move the outer pitches a whole tone and the inner pitches a semitone, resulting in `d e gis b` - an **E7** - and could begin a bluesy feel. I believe I shall stick with it. The progression can be `E7 A7 B7`. But I want to insert intermediary chords, but first, the ostinatos over each chord! For **E7**, I'll go with `gis a ais b ais a`. For **A7**, the 'root' drops a half-step: `g a ais b ais a`. And **B7** lets it flutter down one more for `fis a ais b ais a`.
+
+The *ais* I use is what my ex-guitar instructor (whose name I forget, though I believe it to be John) termed the blue note. These were the only formal guitar lessons I ever took and I possibly learned more from this human than from any other musician I've ever cared to pay attention to. Perhaps that is an overstatement in hindsight (which cognitive bias is that, stupor-boy?), however. I savoured those lessons. I still owe the bloke 25 bucks. Heh.
+
+#### Now, for the intermediary chords!
+
+I shall only choose two of these. They will be stuck in here and there in a slipshod sort of manner so the whole shebang appears a tad random. (One must realize that this is the second time I am typing this paragraph. The dreaded accidentally drag the thumb across the 'mouse' and hit a key so everything disappears event occured.) The two chords are **Bes major7** and **Gm7**. Notice that they both contain the blue note.
+
+* E7 - 4 measures
+* A7 - 2 measures
+* E7 - 3 measures
+* Gm7 - 1 measure
+* B7 - 2 measures
+* A7 - 1 measure
+* Gm7 - 1 measure
+* E7 - 4 measures
+* Bes major7 - 2 measures
+* A7 - 2 measures
+* E7 - 2 measures
+* Gm7 - 2 measures
+* B7 - 4 measures
+* Bes major7 - 2 measures
+* A7 - 1 measure
+* E7 - 2 measures
+
+##### Repeat that 4 times.
+
+Someone reading this may be wondering which ostinato I shall use when playing one of the intermediary chords. I choose right now for it to be the ostinato of the following non-intermediary chord. Yuppers. So, off to lilypond to see what we have.
+
+So, it is done. Well, not done, but an idea has been written. The rhodes plays the chords on the chord changes as indicated in the above list. The bassoon does the ostinatos under the chords so there are continuous running eighth notes. The bass plays a stumbling and rolling game underneath the two of them. When the sequence is repeated twice, I believe it should transition into part IV. As I have written in a previous entry, the transitions will be sudden. Using timidity, I created a wav from the four midi files and will now listen to the whole thing strung together. The fun shall ensue.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0
