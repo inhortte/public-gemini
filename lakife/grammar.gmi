@@ -1,6 +1,6 @@
 # Lakife - some grammar ideas
 
-=> gemini://thurk.org/lakife/index.gmi tzifur
+=> index.gmi tzifur
 
 ### to have
 

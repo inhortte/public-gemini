@@ -1,0 +1,16 @@
+# A Mundane, Tech-Oriented Entry
+## Topics: gemini, programming
+## 2021-01-04
+
+This morning, I was supine and reading various Gemini feeds. I cannot seem to find the one I want to refer to with this entry, however, as the space is still slightly disorganised. Probably I took sloum's Spacewalk page as a starting point, found an article about Gemini feeds that inspired me to update my own Spacewalk instance, got up, sat at Tahr (the mighty desktop!) and simply could not find said article again. That sent me on a quest. The quest has been a failure, but I did find another fault in my own Gemini Server setup. My pages recently used to all terminate in *.gemini* instead of *.gmi*. If I search in GUS for *lakife*, for example, I get a series of pages on thurk.org that have the old extension. What must I do? I must teach Molly Brown to rewrite Gemini urls. I shall add that to today's "bullet journal". I laughingly call what I do by hand a "bullet journal". Anyway, that's another topic.
+
+I downloaded the Spacewalk software some time ago and added a collection of feeds that I could read through every few days - things of interest, not just technically, but in a sense of content itself. If Gemini-space remains wholly tech-oriented, even I would tire after some time. I have a systemd timer set up to re-launch (ie, update) my personal Spacewalk thrice a day. It's a good enough start for now.
+
+=> gemini://thurk.org/smafco.gmi My Spacewalk / Aggregated Gemini Feed List
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

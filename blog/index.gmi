@@ -4,6 +4,7 @@
 => gemini://thurk.org/cgi-bin/martenblog-search.py search
 => gemini://thurk.org/index.gmi tzifur
 
+=> 499.gmi 2021-01-04 - A Mundane, Tech-Oriented Entry
 => 498.gmi 2020-12-29 - A Metaphor for Listlessness
 => 497.gmi 2020-12-22 - Obsessive-compulsive Spurts
 => 496.gmi 2020-12-17 - There Is No Discussion Of Geese In This Entry

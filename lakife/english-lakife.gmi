@@ -1,7 +1,7 @@
 # Lakife
 ## English -> Lakife
 
-=> gemini://thurk.org/lakife/index.gmi tzifur
+=> index.gmi tzifur
 
 3d space - tixil 
 above / over / in place of - pir 

@@ -1,9 +1,17 @@
 # Flavigula
 
 This space is intentionally a part of the void.
-Having stating the credo of this site and our lives, but before expounding on what may, to some, appear to be a type marmot or ware-bunny, please visit the releases page.
+Having stating the credo of this site and our lives, but before expounding on what may, to some, appear to be a type marmot or ware-bunny, please do one of five things:
+
+* Peruse the releases page
+* Go directly to Funkwhale @ thurk.org, where much of our music is available
+* Listen to the track we composed and recorded during the first weeks of December for VenomTv 
+* There is no 4
+* Disregard these links and continue reading
 
 => releases.gmi Flavigula Releases
+=> https://funkwhale.thurk.org/library/artists/1/ Funkwhale
+=> https://funkwhale.thurk.org/library/tracks/843/ Hapa Nutzenja Fela Liz
 
 -------------------------------------------------------------------------------
 
@@ -35,7 +43,9 @@ Our lucrative Spotify[m] home is aching for a few streams.
 The humble hovel that is Deezer[n] pines equally. 
 Amazon, Apple Music, etc, also carry our stuff.
 
-=> gemini://thurk.org/index.gmi tzifur
+-------------------------------------------------------------------------------
+
+=> ../index.gmi tzifur
 
 => https://flavigula.bandcamp.com/album/za-ru-en a. Za Rušení at Bandcamp
 => https://submarinebroadcastingco.bandcamp.com/album/j-maraz b. Jēmaraz at Submarine Broadcasting Company

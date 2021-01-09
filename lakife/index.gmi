@@ -11,4 +11,4 @@ Begun in 2000, it lay dormant for decades before a recent revival.
 => vocabulary.gmi Lakife to English
 => english-lakife.gmi English to Lakife
 
-=> gemini://thurk.org/index.gmi tzifur
+=> ../index.gmi tzifur

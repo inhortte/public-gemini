@@ -66,7 +66,6 @@ Shambal greets the newcomer with a grunt that is a quarter as loud as the growl 
 > Yes. A pity. What do you do?
 > I hunt lycanthropes.
 
-
 => gemini://thurk.org/blog/index.gmi tzifur
 => gemini://thurk.org/index.gmi jenju
 

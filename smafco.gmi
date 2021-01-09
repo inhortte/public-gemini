@@ -4,22 +4,21 @@
 => https://tildegit.org/sloum/spacewalk/ Created By Spacewalk
 
 
-=>  gemini://dctrud.randomroad.net/gemlog/index.gmi 2021-01-01 - dctrud
+=>  gemini://midnight.pub/ 2021-01-09 - midnight.pub
+=>  gemini://dctrud.randomroad.net/gemlog/index.gmi 2021-01-09 - dctrud
+=>  gemini://soviet.circumlunar.space/sejo/ 2021-01-08 - sejo
+=>  gemini://drewdevault.com/ 2021-01-08 - drewdevault
+=>  gemini://mozz.us:1965/journal/ 2021-01-07 - mozz.us
+=>  gemini://breadpunk.club/~rye/ 2021-01-07 - rye
+=>  gemini://republic.circumlunar.space/users/flexibeast/gemlog/ 2021-01-06 - flexibeast
+=>  gemini://cosmic.voyage:1965/ 2021-01-06 - cosmic voyage
+=>  gemini://idiomdrottning.org:1965/texts.gmi 2021-01-06 - idiomdrottning
+=>  gemini://palm93.com:1965/ 2021-01-04 - palm93
+=>  gemini://alexschroeder.ch:1965/do/more 2021-01-02 - alexschroeder
+=>  gemini://tilde.team/~ew0k/index.gemini 2021-01-02 - ew0k
 =>  gemini://talon.computer:1965/log/ 2021-01-01 - talon
-=>  gemini://alexschroeder.ch:1965/do/more 2021-01-01 - alexschroeder
-=>  gemini://soviet.circumlunar.space/sejo/ 2020-12-31 - sejo
-=>  gemini://republic.circumlunar.space/users/flexibeast/gemlog/ 2020-12-30 - flexibeast
-=>  gemini://cosmic.voyage:1965/ 2020-12-30 - cosmic voyage
-=>  gemini://idiomdrottning.org:1965/texts.gmi 2020-12-30 - idiomdrottning
-=>  gemini://drewdevault.com/ 2020-12-26 - drewdevault
-=>  gemini://tilde.team/~ew0k/index.gemini 2020-12-26 - ew0k
 =>  gemini://kwiecien.us:1965/logarion/date.gmi 2020-12-26 - kwiecien
-=>  gemini://mozz.us:1965/journal/ 2020-12-12 - mozz.us
 =>  gemini://gemini.ctrl-c.club/~lettuce/index.gmi 2020-12-10 - lettuce
-
-@flavigula@sonomu.club
-=> gemini://thurk.org/index.gemini home
-12-07 - ew0k
 
 @flavigula@sonomu.club
 => gemini://thurk.org/index.gemini home

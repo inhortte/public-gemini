@@ -1,8 +1,8 @@
 # Lakife
 ## Lakife -> English
 
-=> gemini://thurk.org/lakife/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> index.gmi tzifur
+=> ../index.gmi jenju
 
 anja - female 
 anju - male

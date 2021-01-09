@@ -1,8 +1,8 @@
 # Lakife
 ## Phrases illustrating grammar
 
-=> gemini://thurk.org/lakife/index.gmi tzifur
-=> gemini:/thurk.org/index.gmi jenju
+=> index.gmi tzifur
+=> ../index.gmi jenju
 
 - Fal sopene pot, kotjo jena qoqihara miqir tzemi.
 - In the beginning God created the heaven and the earth.

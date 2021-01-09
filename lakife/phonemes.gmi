@@ -1,7 +1,7 @@
 # Lakife phonology
 
-=> gemini://thurk.org/lakife/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> index.gmi tzifur
+=> ../index.gmi jenju
 
 ## Consonants
 

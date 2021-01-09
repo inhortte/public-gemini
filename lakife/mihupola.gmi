@@ -1,6 +1,6 @@
 # Lakife - various ideas
 
-=> gemini://thurk.org/lakife/index.gemini tzifur
+=> index.gmi tzifur
 
 ## Greetings
 
