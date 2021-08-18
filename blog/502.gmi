@@ -1,0 +1,17 @@
+# The Semblance of a Sex Site
+## Topics: programming, java, work
+## 1999-08-02
+
+I am concerned about the Chat application that I was so eager to take on.  It is not as though i cannot handle the coding aspect, but instead have a pronounced lack of assertiveness in production.  What shall I do to curb this incessant desire to dawdle in sloth?  Well, first of all, I need to run the application and list the things which should be APPARENTLY improved/fixed/added.  Here goes.
+
+* An applet parameter or a command line argument must specify whether the chat instance is in 'operator' mode or not.  This mainly consists of enclosing the QuickMessageList and ChannelUserList (and the happy quartet of buttons) in a conditional thurk.
+* The QuickMessageList should not appear until a channel has been entered.  It follows that the channel itself should provide the messages, or, more specifically, the channel will be related to a group of messages in a database.  Andrew and I spoke of 'performer' messages and 'room' messages.  So, contradicting myself and clarifying a tad better, performer-specific messages will appear  as soon as the operator logs in, while room-specific messages will appear as soon as the operator enters/creates a channel.  So the rooms which demand room-specific messages for the operator(s) must have entries in the database associated with the messages AND the channels an operator joins to purloin these messages must have names identical to the database entries.
+
+I will tend to the first of the two initially since I need to get some semblance of a sex site working by 10 tomorrow rano.  Here I go.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

@@ -2,13 +2,13 @@
 ## Topics: haiku, habosh, praha
 ## 2005-04-15
 
-=> /images/blog/emlekkonyv/20050415/habosh_intro.jpg Habosh Journal Intro [IMG]
+=> https://flavigula.net/images/blog/emlekkonyv/20050415/habosh_intro.jpg Habosh Journal Intro [IMG]
 
-=> /images/blog/emlekkonyv/20050415/haiku.jpg Haiku [IMG]
+=> https://flavigula.net/images/blog/emlekkonyv/20050415/haiku.jpg Haiku [IMG]
 
-=> /images/blog/emlekkonyv/20050415/rubbish.jpg Rubbish [IMG]
+=> https://flavigula.net/images/blog/emlekkonyv/20050415/rubbish.jpg Rubbish [IMG]
 
-=> /images/blog/emlekkonyv/20050415/time_oppresses.jpg Time Oppresses [IMG]
+=> https://flavigula.net/images/blog/emlekkonyv/20050415/time_oppresses.jpg Time Oppresses [IMG]
 
 
 => gemini://thurk.org/blog/index.gmi tzifur

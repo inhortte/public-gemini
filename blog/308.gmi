@@ -80,7 +80,7 @@ This month has been one of the most dramatic, capricious and unexpected. It is a
 > Sparkling, mingling flames
 > Stilled by a nearing whistle
 > Then stomped out by fire
-=> /images/blog/emlekkonyv/20000830/three_haikus.jpg Three Haikus [IMG]
+=> https://flavigula.net/images/blog/emlekkonyv/20000830/three_haikus.jpg Three Haikus [IMG]
 
 > I jump -- the world spins
 > And my balance is deranged
@@ -90,7 +90,7 @@ This month has been one of the most dramatic, capricious and unexpected. It is a
 > Is he singing in
 > Bosnian or, uh, English?
 > The former, I think ...
-=> /images/blog/emlekkonyv/20000830/page_header.jpg Page Header [IMG]
+=> https://flavigula.net/images/blog/emlekkonyv/20000830/page_header.jpg Page Header [IMG]
 
 **Today's Special Question:** Do I want to remain in Prague? The answer is **NO**.
 

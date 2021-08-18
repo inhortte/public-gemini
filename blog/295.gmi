@@ -22,7 +22,7 @@ The Haskell studies, despite setbacks, left me satisfied. Before falling asleep,
 
 I'll take a look at it - the implementiation I was most impressed with on the forum - again after my morning reading. Now to begin the creation of the bagel sandwich.
 
-=> /images/blog/emlekkonyv/20091027/bagel.jpg Bagel [IMG]
+=> https://flavigula.net/images/blog/emlekkonyv/20091027/bagel.jpg Bagel [IMG]
 
 Now, that hakiu came simply from the desire. I realize that it means very little. To tacitly boast! What a concept! I want it to be *never tacitly boast* or somesuch, but the syllabic structure sucked the will from me (or was it my *Censor*?). Let's see now!
 
@@ -50,13 +50,13 @@ I was blessed with loving parents, at least. That, I must assuage myself with. T
 
 But there is not just these two points of destiny (one real, one supposed) for you, Bobbus! It is on a line. It is axis thinking, as Eno would say (not to fault him), but there is more than the simple axis between the Sheltons and Metcalfs for the *Pine Marten* who is the cute little Bobbus.
 
-=> /images/blog/emlekkonyv/20091027/axes.jpg Axes [IMG]
+=> https://flavigula.net/images/blog/emlekkonyv/20091027/axes.jpg Axes [IMG]
 
 Much of this movement on the imaginary axis lies in my future. Much of my past may have been a struggle between point S and point M, though perhaps I did not know it at the time.
 
 My mind is much more alive after these morning writings. Contentment and a sense of presence of the *TODAY* swells. Yes, mister (or miss) *Censor*, I dare say it though you may find it cheese. The spiritual intensity of these pages is great. They are powerful. Just like a magically satisfying defecation.
 
-=> /images/blog/emlekkonyv/20091027/haikuish.jpg Haikuish [IMG]
+=> https://flavigula.net/images/blog/emlekkonyv/20091027/haikuish.jpg Haikuish [IMG]
 
 I am in the midst of reading the first week's chapter in *The Artist's Way*. The topic is commonly held negative beliefs that block people from letting out their creativity. **# 4** is *I will abandon my friends and family.*
 
@@ -71,6 +71,7 @@ My thoughts and expression of them in the past has often been outlandish in some
 What an amusing fear? I began my alcoholism, which has lasted throughout my 30s, to supplant my creative eruptions. At first, it seemed a stimulant and I'd be able to write for hours (there is that, but making any music or performing actual discursive thought was another thurk altogether), but slowly it took over everything.
 
 Gradually, alcohol created a zombie of the once creative ghoul inside of me. I'd scribble an inane haiku occasionally (even *that* was better than nothing), but most of the time lackadaisically flop about mentally, fumbling at dreams seemingly just out of reach, but in reality in another universe altogether.
+
 
 => gemini://thurk.org/blog/index.gmi tzifur
 => gemini://thurk.org/index.gmi jenju

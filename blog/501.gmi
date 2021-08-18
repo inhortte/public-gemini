@@ -1,0 +1,16 @@
+# Wacky Tuesday
+## Topics: elaborations, programming, java
+## 1999-08-04
+
+It is wacky Tuesday.  In two days it shall be Acy day.  Imagine that (imagine that)!  How well has bob (in all of his slothful grandeur) progressed with his chat application?  Hm?  Well, not really any at all, if the truth need be known.  The initial item in my two entry list circa two days prior has been completed, but the second not even touched.  A new problem has cropped up, as well, and I shall enumerate it here:
+
+The ImageButtons cannot load their images because the images can only be loaded by the applet class itself (fucking security).  So I must load all of the images using the applet class (which results in horrific object-orientedness) and pass them to the ImageButtonPannel object which will feed each ImageButton with its image/text pair.  Good fun, eh?  Meanwhile, I infuriate people on Průvodce, amusingly.
+
+And so I shall follow that larger bit of a problem with a seznam of smaller 'improvements'.  Yipeee!
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

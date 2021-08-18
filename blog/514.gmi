@@ -1,0 +1,27 @@
+# Flasks or Rectangular Lasagna Dishes
+## Topics: peasantry, routine, creativity, mundanity, music
+## 2021-01-28
+
+The manifestation of peasantry comes in many forms. It is impossible to avoid completely. It's the tacit acceptance of the same five or six meals one dubs *favourites*. It's the same radio station every day on the way to and from work. It's watching the same several of genres of TV shows every evening before sleep. It is closely related to comfort. In a way, being a peasant is conforming to comfort or, better, conforming to a comforting routine. Reticence to breaking out of so-called *comfort zones* is what it means to be a peasant.
+
+The English Breakfast is most likely steeped. My peasantry has me drinking it every morning these days. Or is simply drinking the same beverage (tea, in this case) every morning peasantry? Should I break from it and drink coffee or vodka some mornings? I'll stretch my idea a bit and state that simply ordering different TYPES of teas each time I'm running low will absolve me of peasantry, at least in the tea zone. Logistical means have to be taken into account. I could, however, order a menagerie of teas and have a different one every day, chosen at random from a twenty sided die. It's not a bad idea, actually. At what point would I be completely dissolving what I term as "peasantry"? I can spike the teas every morning with pinches of different spices. I can use different cups or indeed other types of containers - bowls, flasks, or rectangular lasagna dishes. At what point does fleeing from the concept of peasantry become another sort of obsessive-compulsive peasantry?
+
+Perhaps the most important to me, besides absurd digressions concerning tea, are variations, even ever so slight, in all things. I once wrote in my ancient but still partially pertinent *100 Things About Me*:
+
+> 22. Changes (even small, seemingly superficial ones) in my lifestyle invigorate me.
+I still subscribe to this "philosophy". If routine is peasantry to me, then deviations, even ever so slight, abolish the peasantry. A *routine* of constant, subtle deviation. I chuckle at myself. Speaking of which, it's time to fill my cup with tea, or, rather, abandon the filthy cup I've been using for epochs on end and choose another, fresh cup, of a colour that invigorates my imagination, and fill it with tea. I shall do so now.
+
+I chose a red cup. The colour is not a brilliant red, but slightly washed out, like blood on the white tile spilled from a sample taken from an animal - a small animal, most likely a mink. I spiked the tea with Goat Milk, so my variance today is only in the form of a container. I shall do better, I promise.
+
+I'm listening to an improvisation done by a fellow sonomu-mate known as *June*. It's an exploratory *jam*, an improvisation, to get to know a new case and / or modules and / or configuration of modules. I'm not clear on that part. Last night, I performed my first ambient guitar improvisation in epochs. Long, dark epochs. Endless, droning epochs! I began with no expectations at all, but given the simplicity of my *form*, it came out fantastically. I concentrated on timbres between my two pedalboards, morphing long loops and listening to how they interacted. I even imposed a bit of harmony on the admittedly lugubrious result: I began firmly using C# melodic minor, centering on the augmented triad of E - G# - C, then slowly took the music into a more pure C# aeolean, changed the flat 6 (A) (again, very slowly) to an A# to create a sense of B major. From there, the drift was towards D major, or B minor, though it's up to the judgement of outer entities whether I ever arrived.
+
+June's exploratory improvisation has ended. I enjoyed it immensely and need to force myself to create something frequently on my boxes full of modules. All creation, no matter how infrequently, is deviation from peasantry. Also, improvising is a deviation from another routine of late - composition. I've immersed myself in work on the new album and perhaps the rigidity of specifying part after part, detail upon detail weighs on me. I propose to myself a balance between the freedom of exploratory improvisation and the strictness of composition. Where is the middle ground, one asks? That's a good question. Truly, I used to take ideas from past improvisations and incorporate them into what became composed pieces. Eg, *Nomenclature* and *Una Palma De Barro*. And, again truly and lately, I've found myself doing something I promised myself I'd never do again - bang out parts without having heard the numerous contexts they could simmer in. Is it impatience? Is it peasantry?
+
+Take each idea and at least use it as a vehicle for short, exploratory improvisations. This is harder on SBUP, but doable with sequencing. We'll see if I follow my own advice today.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

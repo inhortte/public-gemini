@@ -1,0 +1,16 @@
+# Sinew and Gadgets
+## Topics: lineageos, mobile phones, degridding
+## 2021-01-18
+
+I'd really like to install LineageOS on my current phone - a Samsung Galaxy M30a - as I've been inspired once again to rid myself entirely of Google[^1]. I was nearly there next year. An olden phone, made of charred wood and reptile sinew, was running LineageOS. My only contact to Google was using IMAP to gmail. Alas! The universe conspired against me and I received the M30a as a gift. LineageOS was not available for it during that ancient October.
+
+Before, of course, I could not thurk banking applications on LineageOS because it was considered "rooted", even if it was not actually "rooted". Bastards. At the time, it wasn't an issue because web access was enough. Now, however, I use Relovut for much of my money doings in my contracted universe. Revolut refuses to function on my old Moto G5 which is still running LineageOS and, indeed, sitting at my side, atop a notebook of scribbled sheet music. I shall at this moment reinstall LineageOS on it from the foundations of its being and see if then, using some magical being called *Magisk*, I can get Revolut to work. If so, I shall proceed tomorrow to destroy my M30a with LineageOS. May the great GOAT be praised.
+
+[^1]: The inspiration this time was the toot by @luka@sonomu.club about his move to the Fairphone 3+ (at lest I believe it was the Fairphone 3+, and I could easily check by changing desktops with **Super-3** and looking over sonomu.club's local timeline, but I refuse) with /e/os. I desire to do the same, but will wait until I am relocated to a more fecund plot of earth in Europe.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

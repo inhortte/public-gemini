@@ -10,3 +10,8 @@ Welcome to the gemini-space of thurk.org.
 => recipes/index.gmi Recipes
 
 => smafco.gmi Z Galaktického Jádra
+
+Happily a member of
+=> gemini://nightfall.city/dusks-end Dusk's End -
+a portion of 
+=> gemini://nightfall.city Nightfall City

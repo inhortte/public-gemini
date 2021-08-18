@@ -4,7 +4,7 @@
 
 I wrote *The Fen* when I was in New Cross Gate[1]. One of its parts was supposed to be played on *mandolin*, but I never performed it to my satisfaction, the anal retentive twat that I am. I am revisiting it now.
 
-=> /images/blog/20140108/fen_intro_pdf.png Fen Intro [IMG]
+=> https://flavigula.net/images/blog/20140108/fen_intro_pdf.png Fen Intro [IMG]
 
 The initial problem with this part, which repeats once, is the attack / volume of the so-called Rhodes. I added phase and distortion to remedy that. Also, before this bit, whilst the dirgelike stomp is going on (and, indeed, before it), I added Hela. Yes, Hela. I took a small clip from a voice message she sent me last month and stretched it to 20 times its length. I then reversed it and mixed the two. The result is eerily beautiful.
 
@@ -20,7 +20,7 @@ As I was riding in the *pickup truck* with my father on the way to the grocery s
 
 Fortunately, a part had been left unwritten. The erstwhile *mandolin* part of the second "verse" (I laughingly call it that) now exists. The counterpoint to the Rhodes part penned (I laughingly call it that) three and a half years ago contains many fun dissonaces. Only a select few were planned. I leave the rest because it is one of the wondrous features of aleatoric composition.
 
-=> /images/blog/20140108/fen_second_melody.png Fen Second Melody [IMG]
+=> https://flavigula.net/images/blog/20140108/fen_second_melody.png Fen Second Melody [IMG]
 
 The final mixdown using Audacity[3], and as I remember, tends to muddle the sound a bit, although I did a bit of noise reduction, as well, so that may be the culprit. *Where, in the name of the pungent liver of Jesus, did that buzzzzzzzzzz come from, anyhow?*
 

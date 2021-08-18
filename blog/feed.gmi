@@ -1,6 +1,23 @@
 # Martenblog - The musings of a mustelid
 ## Or, here lies Martes Flavigula, eternally beneath the splintered earth
 
+=> 533.gmi 2021-08-17 - On the Lip of the Agonizing Drop
+=> 532.gmi 2021-08-15 - Dissolving Beams from a Dying Sun
+=> 531.gmi 2021-07-03 - The Gluey Mystery
+=> 527.gmi 2021-05-08 - Having Grown Up Pains
+=> 522.gmi 2021-03-17 - Roger Trigaux and the Canal of Fumbling Forms
+=> 528.gmi 2021-03-06 - Disassociation by Abstraction
+=> 519.gmi 2021-03-02 - Perhaps I Should Simply Make a Sandwich
+=> 529.gmi 2021-03-01 - Whatever Gushes from my Hara
+=> 530.gmi 2021-02-28 - Mounds of Comestibles
+=> 518.gmi 2021-02-09 - A Few Items that Resonate
+=> 517.gmi 2021-02-03 - These Connections are Incidental
+=> 514.gmi 2021-01-28 - Flasks or Rectangular Lasagna Dishes
+=> 513.gmi 2021-01-25 - The Vanishing of Things Already Disappeared
+=> 510.gmi 2021-01-21 - Kicking Google in the Teeth
+=> 509.gmi 2021-01-19 - Minimalist Loops Using the Smallest Apparatus Possible
+=> 508.gmi 2021-01-18 - Sinew and Gadgets
+=> 500.gmi 2021-01-10 - A Better Way to Drift Through a Day
 => 499.gmi 2021-01-04 - A Mundane, Tech-Oriented Entry
 => 498.gmi 2020-12-29 - A Metaphor for Listlessness
 => 497.gmi 2020-12-22 - Obsessive-compulsive Spurts
@@ -37,23 +54,6 @@
 => 440.gmi 2019-08-25 - The Artifact that Diluted a Species
 => 439.gmi 2019-08-12 - A Life Less Meaningful
 => 438.gmi 2019-08-10 - Every Contextual Greyness Fading from an Edge You Are
-=> 437.gmi 2019-08-09 - The Meat Locker of Earlthly Desires
-=> 436.gmi 2019-07-21 - Abandon My True Eidolon in Yonder Convenient Abyss
-=> 435.gmi 2019-07-21 - What is the Distance between Stagnant and Fossilized?
-=> 434.gmi 2019-07-18 - An Ever Expanding Cage
-=> 433.gmi 2019-07-12 - The Menhir of Pueblo Culture
-=> 432.gmi 2019-07-09 - Beat Borrowing
-=> 431.gmi 2019-07-04 - Perish, Miss Commie Skag
-=> 430.gmi 2019-07-04 - Decaying in Sweet Dissonance
-=> 429.gmi 2019-07-03 - Discreet Chunks of Coloured Quanta
-=> 428.gmi 2019-06-29 - The Patter of Envelope Controlled White Noise Generators
-=> 427.gmi 2019-06-27 - My Dirigible is the Centre of the Universe
-=> 426.gmi 2019-06-21 - Appease your own Gods
-=> 425.gmi 2019-03-22 - Take the bool by its greyhorn
-=> 424.gmi 2019-03-21 - Ever a slave to the worn out grooves
-=> 423.gmi 2019-03-20 - The muddy sound of fluid frequencies
-=> 422.gmi 2018-07-15 - Preforations in the Partition of Tradition
-=> 421.gmi 2018-06-15 - The Horrors of a Sunspot Winking Out
 
 
 => gemini://thurk.org/index.gmi jenju

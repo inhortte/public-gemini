@@ -1,0 +1,24 @@
+# The Gluey Mystery
+## Topics: music, composition, mental models, caffeine, psychology
+## 2021-07-03
+
+My coffee consumption this morning has possibly not been healthy. I can feel the jittery roughness in my mind from over-caffeination. Yesterday was much the same, but from a combination of black tea throughout the day and a *shot* of Michal's special cold brew coffee. Replacing one addictive substance for another doesn't seem very intelligent. In my case, that'd be replacing alcohol with caffeine. The concept reminds me of Christian and his nicotine gum. I shall limit myself to two *servings* of caffeinated beverage a day for a while to see if it deletes the mind fuzz that comes from over-consumption.
+
+Last night, whilst going through what results in picking exercises but also what will result in the actual part in a new composition, I fought with myself psychologically because what I was playing was too *pretty* or *normal* or somesuch. Well, it could be, but I do find the progression (and even the individual chords and their picking patterns) quite beautiful. It has that distinct sound that comes from adding 9ths to many but not all of the chords in a series. The aural *shock* of 9ths not being in some of the transitional chords (mostly quartals) is where the gluey mystery comes from.
+
+So, I fought with myself. Mentally. My lifelong desire to *break from the mould* is still present. It has not diminished a whit. This contradicts my so-called *purpose* for Flavigula. What is that purpose? It's to make music that *I* enjoy. As I've mentioned before, all this hovno I put to "tape" is ultimately for me to drown in during my decrepitude when I am broken and alone living in a shack in Ulaanbaatar. Others' appreciation is a bonus. A very pleasant bonus, indeed, but, in the end, just a bonus. The trouble I have psychologically is that this perpetual *rebel* that some fundamental module of my being carries around with it like a banner second guesses every thing I do creatively. In a way, it asks me - *What would Chris Cutler (or fill in whichever avant-garde artist you wish) think of this?*. That's ridiculous, of course. I mean, fuck um. Who cares what some arbitrary avant-garde artist would think of my output? If my hara spews forth a chord sequence and picking pattern that that contentious module immediately labels *conventional* or even *pretty*, why should I listen? That module needs to quiet itself. Sure, it's useful in some contexts, but in this particular one, I find it detrimental. Bastard thing.
+
+In any case, I'm going with the chord sequence and picking patterns I've developed during the last few days. The whole thing is rhythmically interesting because I'm playing straight triplets over 90bpm, but the picking cycle is a sequence of 4. I also toyed with a sequence of 5. These provide nice cyclical polyrhythmic sensations. As I lay in bed before drifting to troubled oblivion last night, I figured I could provide sequences of 6 and 7 for the picking cycles, as well, going *up the ladder* in a way. The *six*, since I'm playing triplets, will be the most conventional and perhaps where I should give Michal his guitar solo. I look forward to what he comes up with.
+
+A additional idea is to thurk synth sequences "out of time" (at least accent wise, or even metrically - say doing 2, 4 or 5 against the triplets) as counterpoint as the piece proceeds. I'm not yet to that stage in my thinking, except for vaguely.
+
+Today I may piece together a rough sketch of the whole in Ardour. Of course this depends on if I am devoured by a grue or not on my way to Kaufland after my shower. I have been told throughout my lifetime that grues lurk generally in darkness, but I rarely believe what I've been told throughout my lifetime by much of anyone. Deceivers are rampant in this thorn strewed universe. One best watch out.
+
+The slight heart palpations from the caffeine are waning. Soon it will be time for a shower then off to be consumed by a grue. Let's hope that this last entry in Martenblog will remind the universe that though mental modules waving the flag of *rebellion* are useful in many contexts, they should, like all things, be tempered with the "middle path".
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

@@ -1,0 +1,46 @@
+# A Better Way to Drift Through a Day
+## Topics: blog, martenblog, elixir, chota, css, gemini, html
+## 2021-01-10
+
+A few days ago, I began the journey of migrating flavigula.net to *static-generated*. So one could say that now my blog, music meanderings, poetry abominations and various other diddlings are now generated directly from the primal static of the universe. The primary file of code that accomplishes this feat is here[1]. The generation "engine" (I laughingly call it an "engine") is pretty specific to my personal needs. It could be generalised, but I'd have to have a pretty large dollop of impetus to follow through.
+
+Besides taking the blog entries from MongoDb and spitting them out using Elixir's EEx templating library, my primary aim was to follow my Gemini site as closely as possible, mirroring it, más o menos. This involved parsing the Gemini files and attending to several peculiarities. One of those peculiarities that I'm particularly fond of is taking footnoted links and placing them within the html document.
+
+A practise from bygone epochs was to place links at the bottom of a page of content. The bygone epoch I refer to is circa 1993 or 4 when I starting writing text-only web pages. I only had a DUMB terminal in my apartment. Nope - no computer for me! I just used the DUMB terminal to dial up to Neosoft (a Houston ISP) and use my shell account there and at Texas A&M University Statistics Department (via telnet, perhaps - did we already have openssl in that bygone epoch?). I had a guest account at said Statistics Department and, curiously enough, said guest account didn't vanish from the *rostro* of the internet until December 1999. In any case, I had a DUMB terminal. I connected to Neosoft, then to TAMU, and wrote text-based web apparati. Fun times.
+
+A practise from the initial throes of the web was instead of placing all links inline, to place the ones that would be obtrusive at the bottom of a page of content. I do exactly this on my Gemini pages. The challenge was to suck up all those links and relate them to their references within the page content. An example:
+
+On the main music page of flavigula.net and also on gemini://thurk.org/flavigula/index.gmi, the following line appears:
+
+Secondly, the thurk.org funkwhale[f] is brimming with both current and antique Flavigula. These include Omnivorous Expanse[g] (also on Bandcamp[h]), a project with Tim Rowe, and Bricked-up Cupboard[i], a collection of tunes that may or not be refined for future "release".
+
+At the bottom of the page are the following footnote links:
+
+```
+=> https://funkwhale.thurk.org f. Thurk.Org Funkwhale
+=> https://funkwhale.thurk.org/library/albums/14/ g. Omnivorous Expanse on Funkwhale
+=> https://timroweflavigula.bandcamp.com/releases h. Omnivorous Expanse on Bandcamp
+=> https://funkwhale.thurk.org/library/albums/7/ i. Bricked Up Cupboard
+```
+
+As the page is scanned, a map is built with the letters f-i referring to their line in an array (it's not actually an array, but that's not important). These lines are modified when matching footnotes are found. I played around with various configurations of text and link and finally found that since there was no easy way to place the anchor around the text the link referred to, I'd just place all the links unobtrusively at the end of each paragraph. I like the way it came out.
+
+Main Flavigula Music Page[2]
+
+I'm certain there are oddities and errors in my *static-generated* implementation, but I feel I reached my objective. Well, since my objective was a very *fuzzy* target, and I gave up on being a perfectionist long ago, I'm ecstatic. Oouh, baby.
+
+Another change from my vue-powered ex-site was ditching Bootstrap. Why? There is no why. I trundled through a few micro css frameworks and finally happened upon Chota[3]. I am very pleased with Chota. I encourage everyone reading this, and also everyone not reading this, to leap from the Bootstrap, Foundation, Bulma or Ichthyosaur wagon and begin rolling anew with Chota.
+
+Yes sir ee.
+
+
+=> https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/Http.ex 1: https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/Http.ex
+=> https://flavigula.net/static/flavigula/index.html 2: https://flavigula.net/static/flavigula/index.html
+=> https://jenil.github.io/chota 3: https://jenil.github.io/chota
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

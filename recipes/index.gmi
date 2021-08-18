@@ -3,5 +3,7 @@
 There is not much here at the moment, as you can see. Perhaps more will be eructed from the quantum vaccum in the so-called future.
 
 => gofres.gmi Waffles
+=> mango-salsa.gmi Mango Salsa
+=> yucatan-chicken.gmi Yucatán Chicken Tacos
 
 => ../index.gmi tzifur

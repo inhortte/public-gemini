@@ -1,0 +1,32 @@
+# A Cubic Light Year of Rubber Cement
+## Topics: elaborations, work, motivation, james
+## 1999-01-20
+
+Well, quite a bit has changed since the last entry of "elaborations".  I shall probably fortunately not go into details, however.  Morrissey croons above my head and struggles to raise my eyelids from their half-closed position, mostly unsuccessfully.  My fingers are having quite a bit of trouble efficiently hitting the correct keys to form these tenuous words.  No explanations necessary, I suppose.  Mother I can feel the soil falling over my head.  I must work on the software for James, the lines of broken perl code that he entrusted me to create.  Responsibility is like a bane on my life right now and it is only because of my dreaded personality, the biting off of more than my rotten teeth can chew without dislodging themselves from my bleeding gums.  So what must I do to finish these myriad of scripts for James?  A list, I propose?  First entry:
+
+* Determine what has been done and what needs to be done.
+
+The main fullview page consists of a backdrop and three floating frames.  These frames are thus:  the main navigation bar, which controls which major type of database "collection" becomes displayed in the content frame which lies below this navigation frame.  to the right of the content frame is another navigation frame.  its purpose is to switch between records in a certain database "collection", to print a record, and perform a sundry of other record-specific duties.  So my list becomes thus:
+
+* Complete the layout and functionality of the main navigation frame.
+* Complete the layout and functionality of the content frame.
+* Complete the layout and functionality of the record navigation frame.
+
+I shall now inspect the code I have written for the former, a script dubbed "menu.cgi".  And now I have inspected and, to the best of my abilities, made it work in a reasonable fashion.  Now it is on to the second entry in my list, the content frame.  For some bloody reason, this step seems like it shall be complex and annoying.  My motivation is at the level of a squished slug baking in the noontime sun on one of the prestine sidewalks leading from building to building amid the Red West Microsoft campus.  Oh, but is life not different now?
+
+The content frame is in reletively good working order, though I have encountered a potential problem.  James must change the pseudo-entries of the html created by the script to actual values taken cheerily from his database.  So, I may have to modify this script to actually just write to a file, or have the navigation frame actually call a buttock which creates a file containing the html which would be directly interpolated into the content frame.  Hmmmm... or something like that, surely.  So, on to the record navigation thurk.
+
+Nifty, the mechanism which writes to a file in /tmp when one clicks on one of the record navigation thurks is not working.  You see, my dear and special reader, James must poll this file so as to know what the user wishes to do.  When this file changes, a change to the content frame must be made.  How the hell this will work I specifically know not, but I forsee nothing but complications and mayhap even failure.  Damn bitchin', honeybunch.
+
+An aside.  A new employee, Eva, is chatting with Kathy behind me.  My desperate craziness is occluding my thoughts, coupled with a strangeness arising from sleep deprivation.  I want to meet this new person, get to know her, show her the bizarre and beauteous world in which I live.  I must restrain myself, however, because of the potential alienation factor.  Actually, I should just take Chris's potential advice and become obsessed with her.  I've never been obsessed with someone named "Eva" before.  Oh, wait.
+
+Okay, now I must construct the whole of the page.  ie, I must now add floating frames to the base page.  It has just occured to me, though, that using real frames and complex tables may well be the best way to go, though redoing all of the html would be a pain the spleen and cause me to most likely whack the first person I see with a cubic light year of rubber cement.  I shall attempt the floating frames option initially.
+
+Actually, I am going to put this on pause for a bit of time whilst I thurk the Investor Insight rep file thinghie.  Know, my thoughtful reader, that this is the best decision for the present.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

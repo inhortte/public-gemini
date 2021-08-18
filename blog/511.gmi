@@ -1,0 +1,33 @@
+# Not Every Being Can Be A Dependent Being
+## Topics: philosophy
+## 1996-03-19
+
+The Principle of Sufficient Reason states (quite matter of factly) that there must be an explanation for:
+
+* the existence of any being.
+* any positive fact.
+
+A very spiffy point that Melanie made in her philosophy paper that I have just received via the ubiquitous postal service is that this principle is silly in that the first part generalizes out to the second.  That is, the actual existence of a 'being' is, in fact (no pun intended), a 'positive fact'.  Perhaps they (it's those 'they' again), when idea-fying this principle, had in mind to separate 'beings' from 'ideas'.  The first part of the principle would encapsule organic things, or, put better, things that are tangible.  The second part speaks of ideas and/or theories created by sentient beings which are agreed on as 'facts'.  I suppose the first part would include things such as 'cats' and 'dirt' and the second, things such as 'the theory of gravitation' and 'the recipe for broccoli-cheese quiche'.  Personally, I prefer abstracting things out the way Melanie did and including the whole shabang in one big wallop... ie, making 'beings' part of the whole 'positive fact' clique.
+
+The purpose of Melanie's paper was to discuss and give her opinions and reasons for agreeing or disagreeing with the 'cosmological argument for the existence of that God guy (or gal since I decided this last weekend that Jenn was quite a worthy God).'  The title of her paper is 'The Failure of the Cosmological Argument through the Misapplication of the Principle of Sufficient Reason.'  I believe that from the title it is pointedly obvious which side she takes in relation to supporting or disparaging the argument.
+
+The un-fun part of technical writing is upon me and, since it is a precursor to the fun part, I am only nigh-hesitant to plunge in.  Strangely (well, okay, not 'strangely' at all, but I'll just choose to call that word an expletive since I really do not wish to replace it with a large, black scribble), I want to skip this part and delve into my little nuances I scheme surronding the existence of dependent beings (just because it festers, frolicks, pushes its way to the forefront of my mind like a spoiled kid in the lunch line on the first day of kindergarden).  BUT - I am meandering.
+
+The cosmological argument consists of two premises and a very pretentious conclusion.
+
+Premise Uno:   Every being that exists or ever did exist is either a dependent being or a self-existent being.
+
+Premise Zwei:  Not every being can be a dependent being.
+
+Therefore:     There exists a self-existent being.
+
+Okay... I'm really not here to re-elaborate the failing argument or to defend any particular point of view, but, instead, as always, to skip aside onto a path of my own and record the interesting tales my mind spun during and after perusing Melanie's paper.  The cosmological argument, in short, was garroted and drowned in its own blood by Melanie's paper.  She traipsed through a well constructed destruction of the argument then forged ahead on her own by redefining the principle of sufficient reason and then re-supporting the first premise of the argument.  Basically, the argument is bullshit because it doesn't consider a very important point of view.  Or, it is not if you redefine the word 'being'.  Taking it for granted that the principle of sufficient reason is true (the new, happy, altered one Melanie came up with), we have this very large tree of things:  the buds, highest branches, and leaves are the most current 'positive facts' or 'beings', all spawned in some way from the branches below them.  The trunk that supports these myriad of facts is this 'God' that the cosmological argument deduces (self-existent being... same thing).  Back to the important point of view that the argument discards... (actually, I have no way of knowing if this point of view was overlooked, discarded or whatnot since I do not know when the cosmological argument was created.  If it was formulated before Darwin came along, then this elision may be understandable).  Instead of a God, the trunk of this very large tree of beings [positive facts] could be, simply, the unknown beginning of the universe (I use 'beginning' loosely here since the current theories speculate on an endless cycle of previous universes which expand and contract over and over; so, I'll specify to the inception of the universe in which I exist at this particular moment and hope there is no argument over semantics).  Furthermore, the first branches could represent the swirling gasses that formed galaxies, then, splitting more and more into solar systems, planets, inorganic compounds that finally, by some act of chemical oddity, became organic, etc, etc.  Amoeba to hydra to barnacle to mollusk ... ... to reptile to mammal to primate to human.
+
+Everything that 'is' is dependent on something that has existed.  By no means does this imply a supreme being, as Melanie states in her paper and I imply above.  She concluded with some nice comments about humans and their ability to concoct scenarios that are almost always time and distance sensitive (well, she didn't actually say that, but that is what I concocted from her statements of humans' limited understanding and frightened flights from endlessness).  Her last sentence rings very true and meshed nicely with much that I have written in this already yellowing journal.  When understanding is paused and the wall is too high to breach, it is easier to create an explanation from nothing, no matter how silly or fanciful, than to admit, "wow, you know guys, I don't think we have the ability, technology, or prowess to grasp this!"  Okay... now it's the right brain's turn to belittle the left!  Nah - maybe tomorrow.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

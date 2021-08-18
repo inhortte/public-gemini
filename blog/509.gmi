@@ -1,0 +1,17 @@
+# Minimalist Loops Using the Smallest Apparatus Possible
+## Topics: lineageos, samsung, android, magisk, samsung
+## 2021-01-19
+
+My adventure yesterday with my Galaxy m30s ended in disaster! Yes! I didn't even get to the "installing TWRP" part. Because said phone is famous for being difficult to modify and even though the bootloader has been unlocked since the dawn of the multiverse, flashing it was obviously not a good idea. I used these[1] instructions to patch the latest m30s firmware with Magisk so that Magisk could live in the recovery partition on the phone. On this magical Samsung device, Magisk can ONLY live in the recovery partition. And perhaps Magisk now DOES live within the recovery partition, but I'll never know, will I? Why will I never know? Because the magical Samsung device is more concerned with bootlooping than what resides in its recovery partition! Yes! I followed instructions magnanimously, using the quaint *heimdall* to do the flashing itself. No dice, as my mother would say. No puréed peanut butter and nanner sandwich, as erstwhile Scott Lentz would say. No heat death of the universe for you, as Shambal Brambel would say.
+
+I ordered a Fairphone 3. It arrives soon and whereupon I'll begin a /e/os adventure. Fuck um.
+
+
+=> https://topjohnwu.github.io/Magisk/install.html#samsung-system-as-root 1: https://topjohnwu.github.io/Magisk/install.html#samsung-system-as-root
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

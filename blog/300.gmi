@@ -4,7 +4,7 @@
 
 Today's special question is what exactly are on these cassettes?
 
-=> /images/blog/20140129/alfred_cassettes.jpg Alfred Tapes [IMG]
+=> https://flavigula.net/images/blog/20140129/alfred_cassettes.jpg Alfred Tapes [IMG]
 
 I've gone through three quarters of a cassette. It's the one on the bottom right there. Interminable noise making experiments make up the bulk, but I've salvaged a few choice cuts. In six months, these will disappear from the server. Someone remind me to create a cron job to do so and a Google Calendar alert to force me to update this entry.
 
